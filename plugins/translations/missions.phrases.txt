@@ -1,0 +1,2143 @@
+"﻿"
+{
+	"L4D2C1"
+	{
+		"en"		"#L4D360UI_CampaignName_C1"
+	}
+	"L4D2C2"
+	{
+		"en"		"#L4D360UI_CampaignName_C2"
+	}
+	"L4D2C3"
+	{
+		"en"		"#L4D360UI_CampaignName_C3"
+	}
+	"L4D2C4"
+	{
+		"en"		"#L4D360UI_CampaignName_C4"
+	}
+	"L4D2C5"
+	{
+		"en"		"#L4D360UI_CampaignName_C5"
+	}
+	"L4D2C6"
+	{
+		"en"		"#L4D360UI_CampaignName_C6"
+	}
+	"L4D2C7"
+	{
+		"en"		"#L4D360UI_CampaignName_C7"
+	}
+	"L4D2C8"
+	{
+		"en"		"#L4D360UI_CampaignName_C8"
+	}
+	"L4D2C9"
+	{
+		"en"		"#L4D360UI_CampaignName_C9"
+	}
+	"L4D2C10"
+	{
+		"en"		"#L4D360UI_CampaignName_C10"
+	}
+	"L4D2C11"
+	{
+		"en"		"#L4D360UI_CampaignName_C11"
+	}
+	"L4D2C12"
+	{
+		"en"		"#L4D360UI_CampaignName_C12"
+	}
+	"L4D2C13"
+	{
+		"en"		"#L4D360UI_CampaignName_C13"
+	}
+	"L4D2C14"
+	{
+		"en"		"#L4D360UI_CampaignName_C14"
+	}
+	"DaggersFacility"
+	{
+		"en"		"Facility Bravo X6"
+	}
+	"marinegraycolor"
+	{
+		"en"		"Marine Gray Color"
+	}
+	"realorange"
+	{
+		"en"		"Real Orange Miracle"
+	}
+	"tume"
+	{
+		"en"		"tume(Fixed)"
+	}
+	"pdm"
+	{
+		"en"		"Pitch Dark Mesa"
+	}
+	"drmalroysabsolution"
+	{
+		"en"		"Dr. Malroy's Absolution"
+	}
+	"l4d1malroysabsolution"
+	{
+		"en"		"Dr. Malroy's Absolution (L4D1)"
+	}
+	"contraz"
+	{
+		"en"		"ContraZ"
+	}
+	"GoldenEye"
+	{
+		"en"		"GoldenEye"
+	}
+	"City17l4d2"
+	{
+		"en"		"City 17 v3.2"
+	}
+	"Highway17L4D2"
+	{
+		"en"		"Half-Life 2: Highway 17(L4D2)"
+	}
+	"City17revamped"
+	{
+		"en"		"City 17 Revamped"
+	}
+	"2019"
+	{
+		"en"		"2019 (Anniversary Edition)"
+	}
+	"SECTOR74"
+	{
+		"en"		"SECTOR74"
+	}
+	"precinct84l4d2"
+	{
+		"en"		"Precinct 84 (2018)"
+	}
+	"baka"
+	{
+		"en"		"Baka"
+	}
+	"baka2"
+	{
+		"en"		"Baka 2 - ''Purely Torture Hell''"
+	}
+	"baka2alt"
+	{
+		"en"		"Baka 2.5 - ''Scarlet Nightmare''"
+	}
+	"baka3"
+	{
+		"en"		"Baka 3 - Fairy War"
+	}
+	"PlanBv051"
+	{
+		"en"		"Plan B [Beta 0.51]"
+	}
+	"roadtof18"
+	{
+		"en"		"Road To F18"
+	}
+	"hehe20"
+	{
+		"en"		"hehe20"
+	}
+	"hehe30"
+	{
+		"en"		"hehe30"
+	}
+	"hehe36"
+	{
+		"en"		"呵呵36"
+	}
+	"hehe38"
+	{
+		"en"		"hehe38:泥煤鲲吧"
+	}
+	"hehe40"
+	{
+		"en"		"呵呵40"
+	}
+	"DayX"
+	{
+		"en"		"DayX"
+	}
+	"LastBreath"
+	{
+		"en"		"Last Breath"
+	}
+	"ASimpleHaze"
+	{
+		"en"		"A Simple Haze"
+	}
+	"7HoursLaterII"
+	{
+		"en"		"7 Hours Later II"
+	}
+	"wanli"
+	{
+		"en"		"Wan Li"
+	}
+	"nomoreindustriesext"
+	{
+		"en"		"No More Industries Ext Fixed"
+	}
+	"Unattainable"
+	{
+		"en"		"不可企及 / Unattainable 1.4"
+	}
+	"manman"
+	{
+		"en"		"不可思议的游戏v2.2"
+	}
+	"MissionImprobable"
+	{
+		"en"		"Mission Improbable 1.4"
+	}
+	"sn"
+	{
+		"en"		"Sleepless Night "
+	}
+	"ggmission"
+	{
+		"en"		"Don't hurt the gnomes!"
+	}
+	"ccmnekocampaign2"
+	{
+		"en"		"Pouring (Sanity) Down The Drain"
+	}
+	"Unsdwn"
+	{
+		"en"		"Undead Smackdown"
+	}
+	"zombieblackoutext"
+	{
+		"en"		"Zombie Blackout Extended"
+	}
+	"Lego"
+	{
+		"en"		"Lego"
+	}
+	"Lego2"
+	{
+		"en"		"Lego 2"
+	}
+	"legowonderlands"
+	{
+		"en"		"乐高奇境(Lego Wonderlands)"
+	}
+	"legowonderlands2"
+	{
+		"en"		"乐高奇境2(Lego Wonderlands 2)"
+	}
+	"jiugongchang"
+	{
+		"en"		"九死一生之小女孩的梦境v3.5"
+	}
+	"undeadzone"
+	{
+		"en"		"The Undead Zone"
+	}
+	"dearesther"
+	{
+		"en"		"Dear Esther"
+	}
+	"HHHHH"
+	{
+		"en"		"shenmejb"
+	}
+	"shenmejb2"
+	{
+		"en"		"shenmejb2"
+	}
+	"shenmejb3"
+	{
+		"en"		"shenmejb3"
+	}
+	"zmb13"
+	{
+		"en"		"ZMB-13 Fixed"
+	}
+	"L4PT2overgrown"
+	{
+		"en"		"L4PT2overgrown"
+	}
+	"LONDONCALLINGL4D"
+	{
+		"en"		"London Calling"
+	}
+	"QuestionableEthics"
+	{
+		"en"		"Questionable Ethics v1.2"
+	}
+	"QuestionableEthicsRemake"
+	{
+		"en"		"Questionable Ethics Remake (v1.1)"
+	}
+	"QuestionableEthicsAlphaTest"
+	{
+		"en"		"Questionable Ethics: Alpha test"
+	}
+	"QuestionableEthicsCombined"
+	{
+		"en"		"Questionable Ethics: Combined"
+	}
+	"pesaro"
+	{
+		"en"		"Pesaro"
+	}
+	"pesaro2"
+	{
+		"en"		"Pesaro 2a Ondata"
+	}
+	"pesaro3"
+	{
+		"en"		"Pesaro 3a Dose"
+	}
+	"pesaro4"
+	{
+		"en"		"Pesaro 4"
+	}
+	"BlackoutBasement"
+	{
+		"en"		"Blackout Basement"
+	}
+	"summer01"
+	{
+		"en"		"停留在彼岸的夏天 V3.1"
+	}
+	"DowntimeDine"
+	{
+		"en"		"Downtown Dine"
+	}
+	"zombiearmybylaifa"
+	{
+		"en"		"Zombie Army Campaign"
+	}
+	"l337krew"
+	{
+		"en"		"L337 Krew (Beta)"
+	}
+	"rkls"
+	{
+		"en"		"Roadkill"
+	}
+	"innards2intothechaos"
+	{
+		"en"		"Innards2:Into the Chaos"
+	}
+	"GoodbyeNanning"
+	{
+		"en"		"再见了,南宁 V5.4"
+	}
+	"FarewellChenming"
+	{
+		"en"		"Farewell Chenming"
+	}
+	"MIC2"
+	{
+		"en"		"Military Industrial Complex II V11"
+	}
+	"Championdream"
+	{
+		"en"		"Champion_dream"
+	}
+	"whispersofwinter"
+	{
+		"en"		"Whispers of Winter"
+	}
+	"Frozen"
+	{
+		"en"		"Frozen"
+	}
+	"l4d2icecanyon"
+	{
+		"en"		"Ice Canyon"
+	}
+	"FreezingKHMC"
+	{
+		"en"		"Freezing Point"
+	}
+	"FreezingDCKHMC"
+	{
+		"en"		"Freezing Point: Director's Cut"
+	}
+	"fbc"
+	{
+		"en"		"冷笑话 v1.2.1"
+	}
+	"coldfront"
+	{
+		"en"		"Cold Front"
+	}
+	"Chernobyl"
+	{
+		"en"		"Chernobyl: Chapter One"
+	}
+	"LI"
+	{
+		"en"		"Lima Infection"
+	}
+	"Dontfallexempt"
+	{
+		"en"		"Don't Fall"
+	}
+	"behind"
+	{
+		"en"		"Left Behind"
+	}
+	"kinkbyblo"
+	{
+		"en"		"Kink"
+	}
+	"toonrun"
+	{
+		"en"		"Left 4 Toonrun"
+	}
+	"Northchaos"
+	{
+		"en"		"North Chaos"
+	}
+	"midnightrr2"
+	{
+		"en"		"Midnight Rail Run"
+	}
+	"HalfLifeEscape2"
+	{
+		"en"		"Half-Life: Escape 2"
+	}
+	"HalfLifeEscape"
+	{
+		"en"		"Half-Life: Escape"
+	}
+	"IndianaJones"
+	{
+		"en"		"Indiana Jones and the Temple of Zombies"
+	}
+	"LastSummer"
+	{
+		"en"		"Last Summer v5"
+	}
+	"insurgency"
+	{
+		"en"		"Insurgency"
+	}
+	"TheAncientMaze"
+	{
+		"en"		"The Ancient Maze"
+	}
+	"One4Nine"
+	{
+		"en"		"One 4 Nine"
+	}
+	"ThereIsOnlyOneWay"
+	{
+		"en"		"There is only one way"
+	}
+	"pasiri"
+	{
+		"en"		"Pasiri"
+	}
+	"DayAfter"
+	{
+		"en"		"The Dayafter"
+	}
+	"mapaliminal"
+	{
+		"en"		"Anemoia"
+	}
+	"backrooms"
+	{
+		"en"		"Backrooms"
+	}
+	"GoDownToEscapemissions"
+	{
+		"en"		"Go Down To Escape"
+	}
+	"KokiriForest"
+	{
+		"en"		"Kokiri Forest"
+	}
+	"RuralTour"
+	{
+		"en"		"Rural Tour"
+	}
+	"Diescraper362"
+	{
+		"en"		"Diescraper Redux 3.62"
+	}
+	"Diescraper362VS"
+	{
+		"en"		"Diescraper Redux 3.62"
+	}
+	"NH2Port"
+	{
+		"en"		"Nightmare_House_2_Port"
+	}
+	"4sidedcoin"
+	{
+		"en"		"4 Sided Coin"
+	}
+	"bts"
+	{
+		"en"		"Back To School"
+	}
+	"Echo"
+	{
+		"en"		"Echo (3.1)"
+	}
+	"confused1re"
+	{
+		"en"		"Confused I Nightmare V1.5"
+	}
+	"confused2re"
+	{
+		"en"		"Confused Ⅱ Illusions V1.4"
+	}
+	"powerstation"
+	{
+		"en"		"地下发电站 Powerstation by cameraman-4"
+	}
+	"ugc68"
+	{
+		"en"		"undergroundcomplex68"
+	}
+	"dxyl"
+	{
+		"en"		"地心引力TheGravitation"
+	}
+	"HighwayToHell"
+	{
+		"en"		"HighwayToHell"
+	}
+	"infernocity"
+	{
+		"en"		"Inferno City"
+	}
+	"ViewOfHell"
+	{
+		"en"		"ViewOfHell"
+	}
+	"WelcometoHell"
+	{
+		"en"		"Welcome to Hell"
+	}
+	"Labirinferno"
+	{
+		"en"		"Labirinferno"
+	}
+	"earthcrashmyaddons"
+	{
+		"en"		"EarthCrash"
+	}
+	"fallindeath"
+	{
+		"en"		"Fall in Death"
+	}
+	"crashapoc"
+	{
+		"en"		"Crash Course APOCALYPSE"
+	}
+	"crashcoursererouted"
+	{
+		"en"		"Crash Course: ReRouted"
+	}
+	"fallenport"
+	{
+		"en"		"Fallen"
+	}
+	"TanksPlayground"
+	{
+		"en"		"Tanks Playground v3.0"
+	}
+	"castle3mis"
+	{
+		"en"		"Castle"
+	}
+	"Centro"
+	{
+		"en"		"Centro"
+	}
+	"citycenterext"
+	{
+		"en"		"City Center Apocalypse Extended"
+	}
+	"UrbanDisaster"
+	{
+		"en"		"Urban Disaster (1.0)"
+	}
+	"urbanflight"
+	{
+		"en"		"Urban Flight"
+	}
+	"Suburbs"
+	{
+		"en"		"Disturbed in the Suburbs"
+	}
+	"ZELDEN0102"
+	{
+		"en"		"ZELDEN level 1 and 2"
+	}
+	"complexcourseR"
+	{
+		"en"		"Complex Course"
+	}
+	"left4invasion"
+	{
+		"en"		"Left 4 Invasion: Outer Space!"
+	}
+	"nightterror"
+	{
+		"en"		"Night Terror"
+	}
+	"bigwat"
+	{
+		"en"		"Big Wat"
+	}
+	"DamIt"
+	{
+		"en"		"Dam It [Remastered]"
+	}
+	"damitdc"
+	{
+		"en"		"Damit 2 - The Director's Cut"
+	}
+	"adammissionfixed"
+	{
+		"en"		"A Dam Mission Fixed"
+	}
+	"damitcomplete"
+	{
+		"en"		"Dam It Complete L4D2"
+	}
+	"heavencanwait2"
+	{
+		"en"		"Heaven Can Wait II"
+	}
+	"tianti"
+	{
+		"en"		"天梯"
+	}
+	"tianti2"
+	{
+		"en"		"天梯2"
+	}
+	"tientsin"
+	{
+		"en"		"Tientsin  v0.9"
+	}
+	"AfterDark"
+	{
+		"en"		"After Dark"
+	}
+	"sxubeta"
+	{
+		"en"		"太原迎泽(beta2.0)"
+	}
+	"SpaceJockeys"
+	{
+		"en"		"Space Jockeys"
+	}
+	"WitchHunter"
+	{
+		"en"		"Witch Hunter"
+	}
+	"tuturialmission"
+	{
+		"en"		"SchoolLive!"
+	}
+	"yichangshi"
+	{
+		"en"		"宜昌市V5.01"
+	}
+	"yichang2"
+	{
+		"en"		"宜昌市2"
+	}
+	"LeftTurnSilentHill3"
+	{
+		"en"		"Left Turn Silent Hill 3"
+	}
+	"silenthillf"
+	{
+		"en"		"Silent Hill"
+	}
+	"shool"
+	{
+		"en"		"Silent Hill: Otherside of Life V4.7"
+	}
+	"rooftopsmap"
+	{
+		"en"		"寂静村"
+	}
+	"Lockdown"
+	{
+		"en"		"Lockdown"
+	}
+	"LockdownChapterTwo"
+	{
+		"en"		"Lockdown: Chapter Two"
+	}
+	"LockdownChapterTwoDLC"
+	{
+		"en"		"Lockdown: Chapter Two DLC"
+	}
+	"Left4Dust"
+	{
+		"en"		"Left4Dust"
+	}
+	"Left4Dust2"
+	{
+		"en"		"Left4Dust2"
+	}
+	"kaoming"
+	{
+		"en"		"尻名山"
+	}
+	"MandrillMadness"
+	{
+		"en"		"Mandrill Madness"
+	}
+	"CBL4D2classic"
+	{
+		"en"		"Crash Bandicoot: Left 4 Dead 2 (2013)"
+	}
+	"CrashBandicootL4D2"
+	{
+		"en"		"Crash Bandicoot: Left 4 Dead 2 (2020)"
+	}
+	"BazingaChaos"
+	{
+		"en"		"Bazinga Chaos"
+	}
+	"warcelona"
+	{
+		"en"		"Warcelona"
+	}
+	"AlleyWar"
+	{
+		"en"		"巷战（1.3）"
+	}
+	"buenosaires2"
+	{
+		"en"		"Cambalache - Finale B"
+	}
+	"buenosaires"
+	{
+		"en"		"Cambalache - Buenos Aires"
+	}
+	"prague"
+	{
+		"en"		"Prague"
+	}
+	"gloomtown"
+	{
+		"en"		"Gloom Town"
+	}
+	"deathaboard2"
+	{
+		"en"		"Death Aboard II"
+	}
+	"claustrophobia"
+	{
+		"en"		"Claustrophobia"
+	}
+	"Zengcheng"
+	{
+		"en"		"广州增城Fv5.12"
+	}
+	"Zengchengone"
+	{
+		"en"		"广州增城Lv7.3"
+	}
+	"Zengchengre"
+	{
+		"en"		"广州增城Lv8.06"
+	}
+	"GuangXiNanning"
+	{
+		"en"		"广西-南宁 V1.15.1"
+	}
+	"LingShanbeta"
+	{
+		"en"		"广西_灵山V1.0"
+	}
+	"AmidTheRuins"
+	{
+		"en"		"Amid The Ruins"
+	}
+	"eye"
+	{
+		"en"		"异度神召"
+	}
+	"ATS1"
+	{
+		"en"		"Alien Trilogy: Section 1"
+	}
+	"TheReturnEFL"
+	{
+		"en"		"The Return: Escape from Louisianna"
+	}
+	"TheReturnOfTheJockeys"
+	{
+		"en"		"The Return of the Jockeys"
+	}
+	"ZPTZ"
+	{
+		"en"		"Z-PTZ v2.0"
+	}
+	"Glubtastic"
+	{
+		"en"		"Glubtastic"
+	}
+	"Glubtastic2"
+	{
+		"en"		"Glubtastic 2"
+	}
+	"Glubtastic3"
+	{
+		"en"		"Glubtastic 3"
+	}
+	"Glubtastic4"
+	{
+		"en"		"Glubtastic 4"
+	}
+	"Glubtastic5"
+	{
+		"en"		"Glubtastic: Back 4 Glub"
+	}
+	"GlubtasticFive"
+	{
+		"en"		"Glubtastic 5"
+	}
+	"tot"
+	{
+		"en"		"Tour of Terror"
+	}
+	"Beldurra"
+	{
+		"en"		"Beldurra"
+	}
+	"JTB2"
+	{
+		"en"		"Beldurra 2"
+	}
+	"TheEvilWithin"
+	{
+		"en"		"The Evil Within"
+	}
+	"TheEvilWithin2"
+	{
+		"en"		"The Evil Within 2"
+	}
+	"demomania3"
+	{
+		"en"		"Demomania 3"
+	}
+	"ThePunisher"
+	{
+		"en"		"The Punisher"
+	}
+	"yigao"
+	{
+		"en"		"YIGAO_v1.0"
+	}
+	"IC2"
+	{
+		"en"		"Infected City II"
+	}
+	"naniwacity"
+	{
+		"en"		"Naniwa City 2"
+	}
+	"ravenholmwar2"
+	{
+		"en"		"We Don't Go To Ravenholm 2"
+	}
+	"omf"
+	{
+		"en"		"Our Mutual Fiend"
+	}
+	"ihatemountains2"
+	{
+		"en"		"I Hate Mountains 2 (1.5)"
+	}
+	"Deathcraft2v2"
+	{
+		"en"		"Deathcraft II"
+	}
+	"graveoutdoors"
+	{
+		"en"		"The Grave Outdoors"
+	}
+	"Arrival"
+	{
+		"en"		"The Arrival"
+	}
+	"TheCurseofLazarCastle"
+	{
+		"en"		"TheCurseOfLazarCastle"
+	}
+	"bs2"
+	{
+		"en"		"拜山2（bai mountain2）"
+	}
+	"lotrcampaign"
+	{
+		"en"		"Lord Of The Rings Campaign"
+	}
+	"YamaMSE"
+	{
+		"en"		"Yama"
+	}
+	"ggsmi"
+	{
+		"en"		"Shadow Moses Island"
+	}
+	"oplanexodus"
+	{
+		"en"		"Oplan Exodus"
+	}
+	"hometown"
+	{
+		"en"		"故乡v1.62"
+	}
+	"red"
+	{
+		"en"		"RedemptionII"
+	}
+	"salvationfalls"
+	{
+		"en"		"Salvation Falls"
+	}
+	"ParishOverGrowth"
+	{
+		"en"		"Parish: OverGrowth"
+	}
+	"BrokenHand"
+	{
+		"en"		"Broken Hand"
+	}
+	"newworldorderext"
+	{
+		"en"		"New World Order Extended"
+	}
+	"nkts"
+	{
+		"en"		"Neo Tokyo  Kshatriya"
+	}
+	"fortnoesis"
+	{
+		"en"		"Fort Noesis"
+	}
+	"TripDay"
+	{
+		"en"		"Trip day"
+	}
+	"zerowarningcompleted"
+	{
+		"en"		"Zero Warning"
+	}
+	"NeverEndingWarRedux"
+	{
+		"en"		"Never Ending War: Redux"
+	}
+	"UnrelentingMorning"
+	{
+		"en"		"UnrelentingMorning"
+	}
+	"DeadbeatEscape"
+	{
+		"en"		"Deadbeat Escape"
+	}
+	"NoContiniuity"
+	{
+		"en"		"No Continuity"
+	}
+	"oldcavetour5"
+	{
+		"en"		"旧版-洞穴之旅5鬼"
+	}
+	"Stargate"
+	{
+		"en"		"Stargate SG-4 v2"
+	}
+	"Left4SGC"
+	{
+		"en"		"Left4SGC BETA 2.2"
+	}
+	"chenchencity"
+	{
+		"en"		"晨晨市"
+	}
+	"prodeus"
+	{
+		"en"		"Prodeus Requiem"
+	}
+	"drdegov21"
+	{
+		"en"		"drop dead gorges v2.1"
+	}
+	"Downpour"
+	{
+		"en"		"Hard Rain: Downpour"
+	}
+	"onelastorange"
+	{
+		"en"		"One Last Orange"
+	}
+	"lastorder"
+	{
+		"en"		"The Last Order"
+	}
+	"TheLastHeaven"
+	{
+		"en"		"The Last Heaven"
+	}
+	"LastHeartBeat"
+	{
+		"en"		"最后的心跳修复版 Last Heartbeat Fixed by Last Gift Comm"
+	}
+	"thelastvolt"
+	{
+		"en"		"The Last Volt"
+	}
+	"Behind2"
+	{
+		"en"		"Left Behind II"
+	}
+	"LastBaktun"
+	{
+		"en"		"Last Baktun"
+	}
+	"Finalescape"
+	{
+		"en"		"Final escape"
+	}
+	"funnymoments"
+	{
+		"en"		"Funny Moments"
+	}
+	"EarlyDays"
+	{
+		"en"		"Early Days"
+	}
+	"CarnageFinal"
+	{
+		"en"		"Carnage Final"
+	}
+	"GEX2"
+	{
+		"en"		"Gex2 enter the gecko"
+	}
+	"ProjectDreams"
+	{
+		"en"		"Project: Dreams"
+	}
+	"zccitylasthope"
+	{
+		"en"		"榨菜市最后的希望"
+	}
+	"VagueReminders"
+	{
+		"en"		"Vague Reminders"
+	}
+	"orangegraybox2"
+	{
+		"en"		"橙灰盒子2(Orange Gray Box 2)"
+	}
+	"ogblego"
+	{
+		"en"		"橙灰盒子3:乐高版"
+	}
+	"orangebeginner"
+	{
+		"en"		"橙色初学者"
+	}
+	"orangerampage"
+	{
+		"en"		"Orange Rampage"
+	}
+	"PainKiller"
+	{
+		"en"		"PainKiller"
+	}
+	"RoadToNowhere2"
+	{
+		"en"		"RoadToNowhere II"
+	}
+	"deadworld"
+	{
+		"en"		"DeadWorld"
+	}
+	"DeathWoods"
+	{
+		"en"		"Death Woods"
+	}
+	"deathtollapoc"
+	{
+		"en"		"Death Toll APOCALYPSE"
+	}
+	"deadcenterrebirth"
+	{
+		"en"		"Dead Center: Rebirth"
+	}
+	"DeadCountyVersionTwo"
+	{
+		"en"		"Dead County Version Two"
+	}
+	"fieldofthedeadext"
+	{
+		"en"		"Field of the Dead Ext. Mashup"
+	}
+	"CityOfTheDead"
+	{
+		"en"		"City of the Dead"
+	}
+	"CityOfTheDeadRedux"
+	{
+		"en"		"City of the Dead Redux"
+	}
+	"CityOfTheDeadReduxL4D2"
+	{
+		"en"		"City of the Dead Redux (L4D2 Survivors)"
+	}
+	"deathsummer"
+	{
+		"en"		"Death Summer"
+	}
+	"deathtrip"
+	{
+		"en"		"Death Trip v5"
+	}
+	"DeadSouth"
+	{
+		"en"		"Dead South"
+	}
+	"LBDTM"
+	{
+		"en"		"Death Toilet Maze v1.5"
+	}
+	"Draxmap2"
+	{
+		"en"		"Death Strip"
+	}
+	"deathSentence"
+	{
+		"en"		"death Sentence"
+	}
+	"dscream"
+	{
+		"en"		"Die Screaming II"
+	}
+	"DeadVacationL4D2"
+	{
+		"en"		"Dead Vacation (Original Finale)"
+	}
+	"DeadVacationL4D2Alt"
+	{
+		"en"		"Dead Vacation (Alt Finale)"
+	}
+	"DeadFlagBlues"
+	{
+		"en"		"Dead Flag Blues 2"
+	}
+	"DFB2RebornV1"
+	{
+		"en"		"Dead Flag Blues 2: Reborn"
+	}
+	"DeadonTime2"
+	{
+		"en"		"Dead on Time 2"
+	}
+	"NapalmDeath"
+	{
+		"en"		"Napalm Death"
+	}
+	"deadrun"
+	{
+		"en"		"Dead Run L4D2"
+	}
+	"deathstop"
+	{
+		"en"		"Death Stop 2"
+	}
+	"SBTDTWO"
+	{
+		"en"		"Surrounded by the Dead II"
+	}
+	"jsarena2"
+	{
+		"en"		"死亡舞台2"
+	}
+	"l4d2deathcorridors"
+	{
+		"en"		"Death Corridors"
+	}
+	"l4d2deathcorridors2"
+	{
+		"en"		"Death Corridors 2"
+	}
+	"DeadGetway"
+	{
+		"en"		"Dead Getaway (L4D2)"
+	}
+	"ddntr1"
+	{
+		"en"		"Deadenator"
+	}
+	"DeathSummit"
+	{
+		"en"		"Death Summit"
+	}
+	"DeathSentenceRedux"
+	{
+		"en"		"Death Sentence Redux"
+	}
+	"DeadCity2Lite"
+	{
+		"en"		"DeadCity II Lite"
+	}
+	"DeadCity2"
+	{
+		"en"		"Dead City II"
+	}
+	"TimeKHMC"
+	{
+		"en"		"Time to Die"
+	}
+	"DeathAbove"
+	{
+		"en"		"Death from Above"
+	}
+	"DeadEnd"
+	{
+		"en"		"Dead End"
+	}
+	"AtrocityValley"
+	{
+		"en"		"Atrocity Valley"
+	}
+	"paradiseofdoom"
+	{
+		"en"		"Paradise Of Doom"
+	}
+	"nomercyapocn"
+	{
+		"en"		"No Mercy APOCALYPSE 2024"
+	}
+	"nomercyapoc"
+	{
+		"en"		"No Mercy APOCALYPSE"
+	}
+	"NoMercyRehab"
+	{
+		"en"		"No Mercy: Rehab"
+	}
+	"MobStadium2012"
+	{
+		"en"		"Mob Stadium 2012"
+	}
+	"IMPJAWC1L4D2"
+	{
+		"en"		"Impjaw Chapter 1"
+	}
+	"dune"
+	{
+		"en"		"Vox Aeterna"
+	}
+	"jiangmenzhiyuan"
+	{
+		"en"		"江门职院正式版v1.3"
+	}
+	"GasFever"
+	{
+		"en"		"Gas fever (2.0)"
+	}
+	"fjwwV2"
+	{
+		"en"		"Wormwood"
+	}
+	"sirocco"
+	{
+		"en"		"Dry County"
+	}
+	"TheCure"
+	{
+		"en"		"The Cure"
+	}
+	"Cure2"
+	{
+		"en"		"Cure 2"
+	}
+	"KimchiZomie2"
+	{
+		"en"		"KimchiZombie2"
+	}
+	"RMSTitanic"
+	{
+		"en"		"RMS Titanic"
+	}
+	"WASHER"
+	{
+		"en"		"洗衣机 WASHER"
+	}
+	"cavetour"
+	{
+		"en"		"cave tour"
+	}
+	"cavetour2"
+	{
+		"en"		"cave tour 2"
+	}
+	"cavetour3"
+	{
+		"en"		"cave tour 3"
+	}
+	"cavetour4"
+	{
+		"en"		"cave tour 4"
+	}
+	"cavetour5"
+	{
+		"en"		"洞穴之旅5鬼"
+	}
+	"cavetour6partB"
+	{
+		"en"		"cavetour6PART-B"
+	}
+	"CaveTour7"
+	{
+		"en"		"Cave7"
+	}
+	"dbd2dc"
+	{
+		"en"		"Dead Before Dawn DC"
+	}
+	"left4cake2"
+	{
+		"en"		"Left 4 Cake 2 v1"
+	}
+	"twfre"
+	{
+		"en"		"Thick with fog Remake v1.4"
+	}
+	"tidalfever"
+	{
+		"en"		"Tidal Fever"
+	}
+	"ttcdt"
+	{
+		"en"		"The Tsunami City:Dark Tide v1.6"
+	}
+	"ShoreRescue"
+	{
+		"en"		"Shore Rescue"
+	}
+	"CapeMurder"
+	{
+		"en"		"Cape Murder"
+	}
+	"FiretowerTrail"
+	{
+		"en"		"Firetower Trail (2.65)"
+	}
+	"BuriedDeep"
+	{
+		"en"		"Buried Deep"
+	}
+	"thegray"
+	{
+		"en"		"The Gray"
+	}
+	"DeepPhobia"
+	{
+		"en"		"DeepPhobia"
+	}
+	"Simplicity"
+	{
+		"en"		"Simplicity"
+	}
+	"riptide"
+	{
+		"en"		"Riptide"
+	}
+	"marsbase13"
+	{
+		"en"		"Mars Base Alpha 2013"
+	}
+	"BlackoutExtended"
+	{
+		"en"		"Blackout Extended"
+	}
+	"Greyscale"
+	{
+		"en"		"Grey Scale"
+	}
+	"huichuang"
+	{
+		"en"		"灰怆"
+	}
+	"huichuang2"
+	{
+		"en"		"灰怆2"
+	}
+	"coast"
+	{
+		"en"		"Tropical Thunder"
+	}
+	"ExemptOrange"
+	{
+		"en"		"Exempt Orange"
+	}
+	"tgxl"
+	{
+		"en"		"终极特感训练"
+	}
+	"specialtask"
+	{
+		"en"		"特殊任务1"
+	}
+	"PearlRiverRage"
+	{
+		"en"		"狂潮珠江 Pearl River Rage"
+	}
+	"CedaFever"
+	{
+		"en"		"CEDA Fever"
+	}
+	"wildride"
+	{
+		"en"		"Wild Ride"
+	}
+	"quedan"
+	{
+		"en"		"Quedan 4X Morir L4D2"
+	}
+	"bot"
+	{
+		"en"		"BOT Battle Ogress Toys"
+	}
+	"Outbreak"
+	{
+		"en"		"Resident Evil Outbreak"
+	}
+	"re1"
+	{
+		"en"		"Resident Evil 1"
+	}
+	"re2birkina"
+	{
+		"en"		"Resident Evil 2 ... Side A"
+	}
+	"re2birkinb"
+	{
+		"en"		"Resident Evil 2 ... Side B"
+	}
+	"re3"
+	{
+		"en"		"Resident Evil 3"
+	}
+	"FosClassic"
+	{
+		"en"		"fos classic"
+	}
+	"FosRemake"
+	{
+		"en"		"Fos RemakeV8 生还之锋-重制版"
+	}
+	"LeftinChina"
+	{
+		"en"		"LeftinChina"
+	}
+	"LeftinChinal4d2"
+	{
+		"en"		"LeftinChinal4d2"
+	}
+	"TheMaddeningDoy"
+	{
+		"en"		"The Maddening"
+	}
+	"loonypark"
+	{
+		"en"		"Loony Park"
+	}
+	"Sufrimiento"
+	{
+		"en"		"Sufrimiento"
+	}
+	"paintrain"
+	{
+		"en"		"Pain Train"
+	}
+	"PlagueTale"
+	{
+		"en"		"Plague Tale"
+	}
+	"WhiteForest"
+	{
+		"en"		"White Forest"
+	}
+	"Decoy"
+	{
+		"en"		"mvm_decoy_touhou"
+	}
+	"whitemist"
+	{
+		"en"		"白迷雾"
+	}
+	"SaltHellPark"
+	{
+		"en"		"SaltHell Park"
+	}
+	"dealwithdestiny"
+	{
+		"en"		"Deal with Destiny"
+	}
+	"pierpressure"
+	{
+		"en"		"Pier Pressure"
+	}
+	"godnothelpyou"
+	{
+		"en"		"God Dam v1.3"
+	}
+	"templeruins"
+	{
+		"en"		"Temple Ruins"
+	}
+	"nopark2"
+	{
+		"en"		"No Parking"
+	}
+	"qiuming"
+	{
+		"en"		"秋名市"
+	}
+	"eotl"
+	{
+		"en"		"End of the Line: Remastered"
+	}
+	"Dniepr"
+	{
+		"en"		"Dniepr"
+	}
+	"brutalism"
+	{
+		"en"		"粗野主义(Brutalism)"
+	}
+	"Gunk"
+	{
+		"en"		"Gunk"
+	}
+	"wherethefairiesgo"
+	{
+		"en"		"Where the Fairies go"
+	}
+	"terminatorcampaign"
+	{
+		"en"		"Terminator Future Campaign"
+	}
+	"25toLife"
+	{
+		"en"		"25 to Life"
+	}
+	"OpenRoadICSX"
+	{
+		"en"		"Open Road"
+	}
+	"lastcall"
+	{
+		"en"		"Last Call"
+	}
+	"CarriedOff"
+	{
+		"en"		"Carried Off"
+	}
+	"Z3r04Bs0lut3971"
+	{
+		"en"		"Absolute Zero"
+	}
+	"newyearabsoluta"
+	{
+		"en"		"Absolute Zero Epilogue"
+	}
+	"hopeless"
+	{
+		"en"		"Hopeless"
+	}
+	"SinEsperanza"
+	{
+		"en"		"Sin Esperanza"
+	}
+	"VC1ub5"
+	{
+		"en"		"Vienna Calling 1"
+	}
+	"VC2xy6"
+	{
+		"en"		"Vienna Calling 2"
+	}
+	"PitStopWinterRemix"
+	{
+		"en"		"Pit Stop Winter Remix"
+	}
+	"betrayal"
+	{
+		"en"		"The Betrayal"
+	}
+	"energycrisis"
+	{
+		"en"		"Energy Crisis"
+	}
+	"derailed"
+	{
+		"en"		"derailed (v5)"
+	}
+	"cfreepassageagurt"
+	{
+		"en"		"Free Passage"
+	}
+	"DeadlyNewYear"
+	{
+		"en"		"Deadly New Year"
+	}
+	"DDCW"
+	{
+		"en"		"Deadly Dispatch (v3)"
+	}
+	"FatalFreight"
+	{
+		"en"		"Fatal Freight: Remastered"
+	}
+	"bitterend"
+	{
+		"en"		"The Bitter End"
+	}
+	"InnesRoadRash"
+	{
+		"en"		"Innes Road Rash 3.14"
+	}
+	"Moscow"
+	{
+		"en"		"Moscow"
+	}
+	"Ravenholm"
+	{
+		"en"		"Ravenholm"
+	}
+	"MontrealGoneToHell"
+	{
+		"en"		"MTL Gone To Hell 1.28"
+	}
+	"BlueHeaven"
+	{
+		"en"		"Blue Heaven"
+	}
+	"BlueHeavenLongVersion"
+	{
+		"en"		"Blue Heaven Long Version"
+	}
+	"RealityMixture"
+	{
+		"en"		"Reality Mixture"
+	}
+	"Fake"
+	{
+		"en"		"Fake"
+	}
+	"FictionalOrange"
+	{
+		"en"		"Fictional Orange"
+	}
+	"TheHivefix"
+	{
+		"en"		"The Hive fix"
+	}
+	"BloodProof"
+	{
+		"en"		"Blood Proof"
+	}
+	"BloodTracks"
+	{
+		"en"		"Blood Tracks"
+	}
+	"rebloodport"
+	{
+		"en"		"血港: 重生 Desperate Escape V2.1"
+	}
+	"bloodhapoc"
+	{
+		"en"		"Blood Harvest APOCALYPSE"
+	}
+	"bloodwoods"
+	{
+		"en"		"Blood Woods APOCALYPSE"
+	}
+	"TheBloodyMoors"
+	{
+		"en"		"The Bloody Moors"
+	}
+	"bloodysunday"
+	{
+		"en"		"Bloody Sunday 2"
+	}
+	"carretra"
+	{
+		"en"		"(BETA)Blood Road:Carretera de Sangre"
+	}
+	"Bloodsouls"
+	{
+		"en"		"Bloodsouls"
+	}
+	"telltaleproject"
+	{
+		"en"		"Left 4 Dead 2 X The Walking Dead"
+	}
+	"CursedWorld"
+	{
+		"en"		"Cursed World"
+	}
+	"ThePoliceDepartament"
+	{
+		"en"		"The Police Departament"
+	}
+	"cpoop"
+	{
+		"en"		"Attack of Nolan"
+	}
+	"besagashmission"
+	{
+		"en"		"Бесагаш-ауылы"
+	}
+	"Kage"
+	{
+		"en"		"Kage"
+	}
+	"RedTide"
+	{
+		"en"		"Red Tide"
+	}
+	"Overkill"
+	{
+		"en"		"Overkill"
+	}
+	"Outrun"
+	{
+		"en"		"Outrun"
+	}
+	"beyonddead"
+	{
+		"en"		"Beyond Dead"
+	}
+	"infectionoverdrive"
+	{
+		"en"		"Infection Overdrive"
+	}
+	"Prison"
+	{
+		"en"		"Prison Break"
+	}
+	"CrossingOver"
+	{
+		"en"		"跨越"
+	}
+	"Outline"
+	{
+		"en"		"Outline"
+	}
+	"graveconsequences"
+	{
+		"en"		"Grave Consequences"
+	}
+	"L4D2CFNVE"
+	{
+		"en"		"Fallout New Vegas"
+	}
+	"detourahead"
+	{
+		"en"		"$DetourAhead_Title"
+	}
+	"connection"
+	{
+		"en"		"Connection 连接"
+	}
+	"DeadSeries"
+	{
+		"en"		"DeadSeries"
+	}
+	"Dineva"
+	{
+		"en"		"Dineva v2 Fixed"
+	}
+	"lost"
+	{
+		"en"		"Lost"
+	}
+	"lost4dead"
+	{
+		"en"		"Lost and Damned"
+	}
+	"GettingOut"
+	{
+		"en"		"Gettingout"
+	}
+	"efcy"
+	{
+		"en"		"Escape From Castle Yhy"
+	}
+	"hualong"
+	{
+		"en"		"逃离化龙中学V2.6"
+	}
+	"NS4Z"
+	{
+		"en"		"No Space 4 Zombies (Fixed)"
+	}
+	"LeftAtWalmart"
+	{
+		"en"		"LeftAtWalmart"
+	}
+	"awaystadium"
+	{
+		"en"		"Away Stadium"
+	}
+	"EFV"
+	{
+		"en"		"Escape From Valencia v2"
+	}
+	"escmala"
+	{
+		"en"		"Escape From Malabar v8"
+	}
+	"RunToTheHills"
+	{
+		"en"		"Run To The Hills"
+	}
+	"Landofoblivio"
+	{
+		"en"		"遗忘之地"
+	}
+	"2evileyes"
+	{
+		"en"		"2evileyes"
+	}
+	"cerrosiniestro"
+	{
+		"en"		"El Cerro Siniestro (v1.01)"
+	}
+	"l4d2viy"
+	{
+		"en"		"Viy"
+	}
+	"UrbanHell"
+	{
+		"en"		"Urbanian Hell"
+	}
+	"ReturntoCastleZOMBISTEIN"
+	{
+		"en"		"Return to Castle ZOMBISTEIN"
+	}
+	"ColdCase"
+	{
+		"en"		"Cold Case"
+	}
+	"ColdCaseF"
+	{
+		"en"		"Cold Case: Forsaken"
+	}
+	"suicideblitz2"
+	{
+		"en"		"Suicide Blitz 2"
+	}
+	"yangan"
+	{
+		"en"		"阳安"
+	}
+	"bjrtc2"
+	{
+		"en"		"The Hazing"
+	}
+	"Asrahmat"
+	{
+		"en"		"The Seal of Asrahmat (V2.9)"
+	}
+	"RandomSequence"
+	{
+		"en"		"RandomSequence"
+	}
+	"snowden"
+	{
+		"en"		"Snow Den"
+	}
+	"neonmiragealley"
+	{
+		"en"		"霓虹幻巷(Neon Mirage Alley)"
+	}
+	"neonprime"
+	{
+		"en"		"Neon Prime 2069"
+	}
+	"noechoremastered"
+	{
+		"en"		"音讯全无重制版(No Echo RE)"
+	}
+	"Escansion"
+	{
+		"en"		"Escansion"
+	}
+	"Navigation"
+	{
+		"en"		"Navigation"
+	}
+	"AlternativePerspectives"
+	{
+		"en"		"An Alternative Perspective"
+	}
+	"hauntedforest"
+	{
+		"en"		"Haunted Forest"
+	}
+	"whispersbeyondthewindremake"
+	{
+		"en"		"Whispers Beyond The Wind Remake"
+	}
+	"stormedcity"
+	{
+		"en"		"Stormed City"
+	}
+	"JourneyToSplashMountain"
+	{
+		"en"		"Journey to Splash Mountain"
+	}
+	"TrueFangShi"
+	{
+		"en"		"True FangShi"
+	}
+	"yomimario2"
+	{
+		"en"		"Left 4 Mario"
+	}
+	"rainworldtowermap"
+	{
+		"en"		"The Tall Tower"
+	}
+	"Tower"
+	{
+		"en"		"Tower Raid"
+	}
+	"DevilMountain"
+	{
+		"en"		"Devil Mountain"
+	}
+	"Squidtastic"
+	{
+		"en"		"Squidtastic"
+	}
+	"Duck"
+	{
+		"en"		"Duck Campaign"
+	}
+	"atthegloaming2re"
+	{
+		"en"		"At The Gloaming Ⅱ RE V2.2"
+	}
+	"atthegloamingre"
+	{
+		"en"		"At The Gloaming RE V1.5"
+	}
+	"goldeneye4dead"
+	{
+		"en"		"GoldenEye 4 Dead Fixed"
+	}
+	"DayBreak"
+	{
+		"en"		"Day Break"
+	}
+	"tdwbmission"
+	{
+		"en"		"黎明将至Dawn at Last"
+	}
+	"BlackMesa"
+	{
+		"en"		"Black Mesa"
+	}
+	"bmhev"
+	{
+		"en"		"Black Mesa: Hazardous Environment"
+	}
+	"BlackMesaFallout"
+	{
+		"en"		"BLACK MESA: FALLOUTS"
+	}
+	"bmbw"
+	{
+		"en"		"Black Mesa: Borderworld"
+	}
+	"BlackMesaUndertow"
+	{
+		"en"		"Black Mesa: Undertow"
+	}
+	"darkwood"
+	{
+		"en"		"Dark Wood (Extended)"
+	}
+	"blackwhtie2"
+	{
+		"en"		"黑白视界2(Black & White2)"
+	}
+	"DarkCarnivalRemix"
+	{
+		"en"		"Dark Carnival Remix"
+	}
+	"darkblood2"
+	{
+		"en"		"Dark Blood 2"
+	}
+	"dance1"
+	{
+		"en"		"maldives马尔代夫"
+	}
+	"utopia"
+	{
+		"en"		"utopia"
+	}
+	"HalfLife2"
+	{
+		"en"		"Half Life 2 Levels 1~33"
+	}
+	"HalfLife2s"
+	{
+		"en"		"Half Life 2 Levels 34~66"
+	}
+	"LastNight"
+	{
+		"en"		"Last Night_v1.3"
+	}
+	"pandemia"
+	{
+		"en"		"Pandemia"
+	}
+	"ZCcityDaytime"
+	{
+		"en"		"离别榨菜市白天版"
+	}
+	"ultimatewoods"
+	{
+		"en"		"The Ultimate Woods"
+	}
+	"HL2CH3"
+	{
+		"en"		"Half-Life 2: Route Kanal"
+	}
+	"hellstorm"
+	{
+		"en"		"Hellstorm 2 Fixed"
+	}
+	"HL2CH4N5"
+	{
+		"en"		"Half-Life 2: Water Hazard"
+	}
+	"jiangmmenxinhua"
+	{
+		"en"		"江门-新会_Demo"
+	}
+	"SnowTownMatch"
+	{
+		"en"		"Snow Town Match"
+	}
+	"hehe42"
+	{
+		"en"		"hehe42"
+	}
+	"DeadIndustryfixed"
+	{
+		"en"		"Dead Industry L4D1 Port (Fixed)"
+	}
+	"HKSAR"
+	{
+		"en"		"Hong Kong Beta"
+	}
+	"darkwaters"
+	{
+		"en"		"Dark Waters Fixed"
+	}
+	"Fadeorange2Fix"
+	{
+		"en"		"虚假橙光2"
+	}
+	"ass"
+	{
+		"en"		"ass"
+	}
+	"moundsv"
+	{
+		"en"		"Secret Of The Complex Moundsville Prison"
+	}
+	"absolutecolors"
+	{
+		"en"		"Absolute Colors"
+	}
+	"airportnot"
+	{
+		"en"		"Night Of Terror: Dead Air"
+	}
+	"tianti3"
+	{
+		"en"		"天梯3"
+	}
+	"DivineCybermancyPK"
+	{
+		"en"		"Divine Cybermancy PK"
+	}
+	"bloodhospital"
+	{
+		"en"		"Blood Hospital"
+	}
+	"DeadCenter2025"
+	{
+		"en"		"Dead Center 2025"
+	}
+	"baka4"
+	{
+		"en"		"Baka 4 - ''Shut Up Damn Bird''"
+	}
+	"redSquare"
+	{
+		"en"		"Red Square Campaign"
+	}
+	"zombiesiege2v1"
+	{
+		"en"		"Zombie Siege 2"
+	}
+	"ggsmission"
+	{
+		"en"		"Don't hurt the gnomes!"
+	}
+	"deadst2"
+	{
+		"en"		"Dead St. 2"
+	}
+	"DeathMountain"
+	{
+		"en"		"死亡山谷(修复) Death Mountain"
+	}
+	"marineflyingcolor"
+	{
+		"en"		"Marine Flying Color"
+	}
+	"novaprospekt"
+	{
+		"en"		"Nova Prospekt"
+	}
+	"SurvivalTrip"
+	{
+		"en"		"适者生存(SurvivalTrip)"
+	}
+	"defenselinemission"
+	{
+		"en"		"Defense Line"
+	}
+}

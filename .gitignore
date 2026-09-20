@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 测试/临时
+_test/
+_test_*/
+*.log
+*.tmp
+
+# 系统
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11802 @@
+﻿"Phrases"
+{
+	"c1m1_hotel"
+	{
+		"en"		"旅馆（Hotel）"
+	}
+	"c1m2_streets"
+	{
+		"en"		"街道（Streets）"
+	}
+	"c1m3_mall"
+	{
+		"en"		"商场（Mall）"
+	}
+	"c1m4_atrium"
+	{
+		"en"		"中庭（Atrium）"
+	}
+	"c2m1_highway"
+	{
+		"en"		"高速公路（Highway）"
+	}
+	"c2m2_fairgrounds"
+	{
+		"en"		"游乐场（Fairground）"
+	}
+	"c2m3_coaster"
+	{
+		"en"		"过山车（Coaster）"
+	}
+	"c2m4_barns"
+	{
+		"en"		"谷仓（Barns）"
+	}
+	"c2m5_concert"
+	{
+		"en"		"音乐会（Concert）"
+	}
+	"c3m1_plankcountry"
+	{
+		"en"		"木板乡（Plank Country）"
+	}
+	"c3m2_swamp"
+	{
+		"en"		"沼泽（Swamp）"
+	}
+	"c3m3_shantytown"
+	{
+		"en"		"棚户区（Shanty Town）"
+	}
+	"c3m4_plantation"
+	{
+		"en"		"种植园（Plantation）"
+	}
+	"c4m1_milltown_a"
+	{
+		"en"		"磨坊镇（Milltown）"
+	}
+	"c4m2_sugarmill_a"
+	{
+		"en"		"糖厂（Sugar Mill）"
+	}
+	"c4m3_sugarmill_b"
+	{
+		"en"		"逃离糖厂（Mill Escape）"
+	}
+	"c4m4_milltown_b"
+	{
+		"en"		"返回小镇（Return to Town）"
+	}
+	"c4m5_milltown_escape"
+	{
+		"en"		"逃离小镇（Town Escape）"
+	}
+	"c5m1_waterfront"
+	{
+		"en"		"滨水区（Waterfront）"
+	}
+	"c5m2_park"
+	{
+		"en"		"公园（Park）"
+	}
+	"c5m3_cemetery"
+	{
+		"en"		"墓地（Cemetery）"
+	}
+	"c5m4_quarter"
+	{
+		"en"		"街区（Quarter）"
+	}
+	"c5m5_bridge"
+	{
+		"en"		"大桥（Bridge）"
+	}
+	"c6m1_riverbank"
+	{
+		"en"		"河岸（Riverbank）"
+	}
+	"c6m2_bedlam"
+	{
+		"en"		"地下通道（Underground）"
+	}
+	"c6m3_port"
+	{
+		"en"		"港口（Port）"
+	}
+	"c7m1_docks"
+	{
+		"en"		"码头（Docks）"
+	}
+	"c7m2_barge"
+	{
+		"en"		"驳船（Barge）"
+	}
+	"c7m3_port"
+	{
+		"en"		"港口（Port）"
+	}
+	"c8m1_apartment"
+	{
+		"en"		"公寓楼（The Apartments）"
+	}
+	"c8m2_subway"
+	{
+		"en"		"地铁（The Subway）"
+	}
+	"c8m3_sewers"
+	{
+		"en"		"下水道（The Sewer）"
+	}
+	"c8m4_interior"
+	{
+		"en"		"医院（The Hospital）"
+	}
+	"c8m5_rooftop"
+	{
+		"en"		"屋顶终局（Rooftop Finale）"
+	}
+	"c9m1_alleys"
+	{
+		"en"		"小巷（The Alleys）"
+	}
+	"c9m2_lots"
+	{
+		"en"		"卡车仓库终局（The Truck Depot Finale）"
+	}
+	"c10m1_caves"
+	{
+		"en"		"收费公路（The Turnpike）"
+	}
+	"c10m2_drainage"
+	{
+		"en"		"排水渠（The Drains）"
+	}
+	"c10m3_ranchhouse"
+	{
+		"en"		"教堂（The Church）"
+	}
+	"c10m4_mainstreet"
+	{
+		"en"		"小镇（The Town）"
+	}
+	"c10m5_houseboat"
+	{
+		"en"		"船屋终局（Boathouse Finale）"
+	}
+	"c11m1_greenhouse"
+	{
+		"en"		"温室（The Greenhouse）"
+	}
+	"c11m2_offices"
+	{
+		"en"		"起重机（The Crane）"
+	}
+	"c11m3_garage"
+	{
+		"en"		"施工现场（The Construction Site）"
+	}
+	"c11m4_terminal"
+	{
+		"en"		"航站楼（The Terminal）"
+	}
+	"c11m5_runway"
+	{
+		"en"		"跑道终局（Runway Finale）"
+	}
+	"c12m1_hilltop"
+	{
+		"en"		"森林（The Woods）"
+	}
+	"c12m2_traintunnel"
+	{
+		"en"		"隧道（The Tunnel）"
+	}
+	"c12m3_bridge"
+	{
+		"en"		"大桥（The Bridge）"
+	}
+	"c12m4_barn"
+	{
+		"en"		"火车站（The Train Station）"
+	}
+	"c12m5_cornfield"
+	{
+		"en"		"农舍终局（Farmhouse Finale）"
+	}
+	"c13m1_alpinecreek"
+	{
+		"en"		"高山溪谷（Alpine Creek）"
+	}
+	"c13m2_southpinestream"
+	{
+		"en"		"南松溪（South Pine Stream）"
+	}
+	"c13m3_memorialbridge"
+	{
+		"en"		"纪念桥（Memorial Bridge）"
+	}
+	"c13m4_cutthroatcreek"
+	{
+		"en"		"断喉溪（Cut-throat Creek）"
+	}
+	"c14m1_junkyard"
+	{
+		"en"		"废车场（The Junkyard）"
+	}
+	"c14m2_lighthouse"
+	{
+		"en"		"灯塔终局（Lighthouse Finale）"
+	}
+	"l4d2_football"
+	{
+		"en"		"足球场（Football Stadium）"
+	}
+	"l4d2_pdmesa01_surface"
+	{
+		"en"		"地表细节（Surface Detail）"
+	}
+	"l4d2_pdmesa02_shafted"
+	{
+		"en"		"竖井（Shafted）"
+	}
+	"l4d2_pdmesa03_office"
+	{
+		"en"		"办公区域（Office Space）"
+	}
+	"l4d2_pdmesa04_pointinsert"
+	{
+		"en"		"起点（point insert）"
+	}
+	"l4d2_pdmesa05_returntoxen"
+	{
+		"en"		"核心区域（the core）"
+	}
+	"l4d2_pdmesa06_xen"
+	{
+		"en"		"Xen世界（xen）"
+	}
+	"e7m1"
+	{
+		"en"		"1: 旧80号公路（1: Old Hwy 80）"
+	}
+	"e7m2"
+	{
+		"en"		"2: 研究中心（2: Research Center）"
+	}
+	"e7m3"
+	{
+		"en"		"3: 盖勒博士的实验室（3: Dr. Geiler's Lab）"
+	}
+	"e7m4"
+	{
+		"en"		"4：Nexus地下墓穴（4: Nexus Catacombs）"
+	}
+	"e7m5"
+	{
+		"en"		"5: 月球实验室（5: Lunar Lab）"
+	}
+	"e7m6"
+	{
+		"en"		"6: 赎罪（6: Absolution）"
+	}
+	"e7m7"
+	{
+		"en"		"7: 协议16（7: Protocol 16）"
+	}
+	"e10m1"
+	{
+		"en"		"1：死亡重生（1: Reborn Through Death）"
+	}
+	"e10m2"
+	{
+		"en"		"2：危险下降（2: Dangerous Descent）"
+	}
+	"e10m3"
+	{
+		"en"		"3：改道（3: Rerouted）"
+	}
+	"e10m4"
+	{
+		"en"		"4：克里诺室（4: The Crino Chamber）"
+	}
+	"e10m5"
+	{
+		"en"		"5：女巫实验室（5: Witch Lab）"
+	}
+	"e10m6"
+	{
+		"en"		"6：命运的逃脱（6: Fateful Escape）"
+	}
+	"e10m4_survival"
+	{
+		"en"		"克里诺室（The Crino Chamber）"
+	}
+	"contra3d01"
+	{
+		"en"		"魂斗罗Z01（ContraZ01）"
+	}
+	"contra3d02"
+	{
+		"en"		"魂斗罗Z02（ContraZ02）"
+	}
+	"contra3d03"
+	{
+		"en"		"魂斗罗Z03（ContraZ03）"
+	}
+	"contra3d04"
+	{
+		"en"		"魂斗罗Z04（ContraZ04）"
+	}
+	"contra3d05"
+	{
+		"en"		"魂斗罗Z05（ContraZ05）"
+	}
+	"l4d2_city17_01_revamped"
+	{
+		"en"		"1: 隧道（1: Tunnels）"
+	}
+	"l4d2_city17_02_revamped_au"
+	{
+		"en"		"2：到表面？（2: To the surface ?）"
+	}
+	"l4d2_city17_02_revamped"
+	{
+		"en"		"2: 前往地表（2: To the surface）"
+	}
+	"l4d2_city17_03_revamped"
+	{
+		"en"		"3: 街道（3: Streets）"
+	}
+	"l4d2_city17_04_revampedau"
+	{
+		"en"		"4：医院？（4: Hospital ?）"
+	}
+	"l4d2_city17_04_revamped"
+	{
+		"en"		"4：医院（4: Hospital）"
+	}
+	"l4d2_city17_05_revamped"
+	{
+		"en"		"5: 火车站（5: Trainstation）"
+	}
+	"l4d2_city17_05_revampedau"
+	{
+		"en"		"6：火车站？（6: Trainstation ?）"
+	}
+	"zc_m1"
+	{
+		"en"		"公园"
+	}
+	"zc_m2"
+	{
+		"en"		"街道"
+	}
+	"zc_m3"
+	{
+		"en"		"城中村"
+	}
+	"zc_m4"
+	{
+		"en"		"小巷"
+	}
+	"zc_m5"
+	{
+		"en"		"立交桥"
+	}
+	"2019_M1b"
+	{
+		"en"		"公寓楼（Condo Building）"
+	}
+	"2019_M2b"
+	{
+		"en"		"城市内河（Innercity River）"
+	}
+	"2019_M3b"
+	{
+		"en"		"Xen公司办公室（Xen-Corp Offices）"
+	}
+	"4sc_seperate"
+	{
+		"en"		"1：分开（1: Separate）"
+	}
+	"4sc_base"
+	{
+		"en"		"2：后台（2: Upstage）"
+	}
+	"4sc_outage"
+	{
+		"en"		"3：遗弃（3: Desertion）"
+	}
+	"4sc_streets"
+	{
+		"en"		"4：桥梁工程（4: Bridgework）"
+	}
+	"4sc_pit"
+	{
+		"en"		"5：陷阱（5: Pitfall）"
+	}
+	"4sc_outage_survival"
+	{
+		"en"		"旅馆（Hotel）"
+	}
+	"4sc_streets_survival"
+	{
+		"en"		"大桥（Bridge）"
+	}
+	"4sc_pit_survival"
+	{
+		"en"		"坑（Pit）"
+	}
+	"sector-74-chapter-1"
+	{
+		"en"		"1-离家出走（1-Leaving home）"
+	}
+	"sector-74-chapter-2"
+	{
+		"en"		"2-A火车路程（2-A train away）"
+	}
+	"sector-74-chapter-3"
+	{
+		"en"		"3、古老的森林（3-The old forest）"
+	}
+	"sector-74-chapter-4"
+	{
+		"en"		"4、地下通道（4-The underground passage）"
+	}
+	"sector-74-chapter-5"
+	{
+		"en"		"5-废弃的军事基地（5-Deserted military base）"
+	}
+	"sector-74-chapter-6"
+	{
+		"en"		"6-直升机入站（6-Chopper inbound）"
+	}
+	"sector-74-chapter-7"
+	{
+		"en"		"7-到达74区（7-Arriving at Sector-74）"
+	}
+	"sector-74-chapter-8"
+	{
+		"en"		"8-深层次的危险（8-Deep dangers）"
+	}
+	"sector-74-chapter-9"
+	{
+		"en"		"9码绿色（9-Code green）"
+	}
+	"sector-74-chapter-10"
+	{
+		"en"		"10-废弃的总部（10-Derelict HQ）"
+	}
+	"sector-74-chapter-11"
+	{
+		"en"		"11、逃离地狱（11-Flight from hell）"
+	}
+	"sector-74-chapter-12"
+	{
+		"en"		"12-好邻居（12-Nice neighbourhood）"
+	}
+	"sector-74-chapter-13"
+	{
+		"en"		"13-让我们开始吧（13-Let's get rolling）"
+	}
+	"sector-74-chapter-14"
+	{
+		"en"		"14、安全之路（14-The road to safety）"
+	}
+	"sector-74-chapter-15"
+	{
+		"en"		"15-到达直升机处（15-Get to the chopper）"
+	}
+	"sector-74-chapter-16"
+	{
+		"en"		"16-安全岛（16-A safe island）"
+	}
+	"p84m1_apartment"
+	{
+		"en"		"坠毁现场（The Crash）"
+	}
+	"p84m2_eltrain"
+	{
+		"en"		"贫民窟（The Slums）"
+	}
+	"p84m3_tunnel"
+	{
+		"en"		"夜总会（The NightClub）"
+	}
+	"p84m4_station"
+	{
+		"en"		"加油站终局（Gas Station Finale）"
+	}
+	"p84m1_apartments"
+	{
+		"en"		"坠毁现场（The Crash）"
+	}
+	"p84m2_slums"
+	{
+		"en"		"贫民窟（The Slums）"
+	}
+	"divide_origin"
+	{
+		"en"		"起源故事（The Origin Story）"
+	}
+	"baka_1"
+	{
+		"en"		"第一阶段时髦塔（Stage 1   Funky Tower）"
+	}
+	"baka_2"
+	{
+		"en"		"第二阶段 琪露诺的时髦数学课（Stage 2   Cirno's Funky Math Class）"
+	}
+	"baka_3"
+	{
+		"en"		"第三阶段时髦方式遭遇困境（Stage 3   Funky ways suffers）"
+	}
+	"baka_4"
+	{
+		"en"		"第四赛段时髦竞赛（Stage 4   Funky Race）"
+	}
+	"baka_5"
+	{
+		"en"		"舞台决赛仅限 Funky（Stage Final   Funky Only）"
+	}
+	"baka_6"
+	{
+		"en"		"Stage EX 时髦画廊（Stage EX   Funky Gallery）"
+	}
+	"cedafever_m1"
+	{
+		"en"		"街道（Streets）"
+	}
+	"cedafever_m2"
+	{
+		"en"		"市中心（Downtown）"
+	}
+	"cedafever_m3"
+	{
+		"en"		"CEDA中心（CEDA Center）"
+	}
+	"dkr_m1_motel"
+	{
+		"en"		"汽车旅馆（The Motel）"
+	}
+	"dkr_m2_carnival"
+	{
+		"en"		"嘉年华（The Carnival）"
+	}
+	"dkr_m3_tunneloflove"
+	{
+		"en"		"爱情隧道（The Tunnel of Love）"
+	}
+	"dkr_m4_ferris"
+	{
+		"en"		"摩天轮（The Ferris Wheel）"
+	}
+	"dkr_m5_stadium"
+	{
+		"en"		"体育场（The Stadium）"
+	}
+	"l4d_gd_garage"
+	{
+		"en"		"1：车库（1: Garage）"
+	}
+	"l4d_gd_hill"
+	{
+		"en"		"2：山路/地铁（2: Hill/Subway）"
+	}
+	"l4d_gd_forest"
+	{
+		"en"		"3：矿山/森林（3: Mines/Forest）"
+	}
+	"l4d_gd_richstone"
+	{
+		"en"		"4：射击场（4: Shooting Range）"
+	}
+	"l4d_gd_aerodrome"
+	{
+		"en"		"5: 机场（5: Aerodrome）"
+	}
+	"prooemium2"
+	{
+		"en"		"镨（prooemium）"
+	}
+	"313again"
+	{
+		"en"		"主要行为（main act）"
+	}
+	"warp"
+	{
+		"en"		"结局（finale）"
+	}
+	"cs"
+	{
+		"en"		"17D_711"
+	}
+	"cs2"
+	{
+		"en"		"女生宿舍"
+	}
+	"cs3"
+	{
+		"en"		"望海潮"
+	}
+	"cs4"
+	{
+		"en"		"实验楼"
+	}
+	"retuo"
+	{
+		"en"		"整活关卡"
+	}
+	"cs5"
+	{
+		"en"		"知行广场"
+	}
+	"l4d2_ic_2_1"
+	{
+		"en"		"1：开始（1: The Beginning）"
+	}
+	"l4d2_ic2_2"
+	{
+		"en"		"2：悲伤公园（2: Sorrow Park）"
+	}
+	"l4d2_ic2_3"
+	{
+		"en"		"3：山口（3: Mountain Pass）"
+	}
+	"l4d2_ic2_4"
+	{
+		"en"		"4：大雨（4: Heavy Rain）"
+	}
+	"l4d2_ic2_5"
+	{
+		"en"		"5: 火车站（5: Train Station）"
+	}
+	"potu3-1"
+	{
+		"en"		"波图3-1（potu3-1）"
+	}
+	"potu3-2"
+	{
+		"en"		"波图3-2（potu3-2）"
+	}
+	"potu3-3"
+	{
+		"en"		"波图3-3（potu3-3）"
+	}
+	"potu3-5_d"
+	{
+		"en"		"波图3-4（potu3-4）"
+	}
+	"potu3-42"
+	{
+		"en"		"波图3-5（potu3-5）"
+	}
+	"potu3-6"
+	{
+		"en"		"波图3-6（potu3-6）"
+	}
+	"shenmejb"
+	{
+		"en"		"我是谁"
+	}
+	"shenmejb2"
+	{
+		"en"		"我在哪"
+	}
+	"shenmejb3"
+	{
+		"en"		"谁打我"
+	}
+	"shenmesb"
+	{
+		"en"		"什么（What）"
+	}
+	"shenmesb2"
+	{
+		"en"		"为什么（Why）"
+	}
+	"shenmesb3"
+	{
+		"en"		"如何（How）"
+	}
+	"weiming"
+	{
+		"en"		"一个（A）"
+	}
+	"huanghe"
+	{
+		"en"		"Z"
+	}
+	"h3c6m1"
+	{
+		"en"		"监狱迷城"
+	}
+	"h3c6m2"
+	{
+		"en"		"异形工厂"
+	}
+	"h3c6m3"
+	{
+		"en"		"通天之塔"
+	}
+	"l4d2_wanli01"
+	{
+		"en"		"伟大的飞机（Great Plane）"
+	}
+	"l4d2_wanli02"
+	{
+		"en"		"长城（Great Wall）"
+	}
+	"l4d2_wanli03"
+	{
+		"en"		"大冰（Great Ice）"
+	}
+	"unattainable_1"
+	{
+		"en"		"启程 / Departure"
+	}
+	"unattainable_2"
+	{
+		"en"		"夜幕 / Nighttime"
+	}
+	"td_suicide_forest"
+	{
+		"en"		"td_自杀_森林（td_suicide_forest）"
+	}
+	"td_akihabara"
+	{
+		"en"		"td_秋叶原（td_akihabara）"
+	}
+	"td_shinjuku"
+	{
+		"en"		"td_新宿（td_shinjuku）"
+	}
+	"slik_desert"
+	{
+		"en"		"大漠"
+	}
+	"slik_senlin"
+	{
+		"en"		"森林"
+	}
+	"slik_senlin2"
+	{
+		"en"		"农场"
+	}
+	"slik_xiagu"
+	{
+		"en"		"峡谷"
+	}
+	"slik_baise"
+	{
+		"en"		"河流"
+	}
+	"slik_end"
+	{
+		"en"		"遗址"
+	}
+	"unsdwn_mp_1"
+	{
+		"en"		"城市（City）"
+	}
+	"unsdwn_mp_2"
+	{
+		"en"		"办公室（Office）"
+	}
+	"unsdwn_mp_3"
+	{
+		"en"		"旅馆（Hotel）"
+	}
+	"unsdwn_mp_4"
+	{
+		"en"		"竞技场（Arena）"
+	}
+	"lego_town_01"
+	{
+		"en"		"小镇（Town）"
+	}
+	"lego_tunnels_02"
+	{
+		"en"		"隧道（Tunnels）"
+	}
+	"lego_wastelands_03"
+	{
+		"en"		"荒地（Wastelands）"
+	}
+	"lego_urban_04"
+	{
+		"en"		"城市（City）"
+	}
+	"lego_towerfinale_05"
+	{
+		"en"		"高塔（Tower）"
+	}
+	"jiugongchang1"
+	{
+		"en"		"地下室"
+	}
+	"jiugongchang2"
+	{
+		"en"		"小吃街"
+	}
+	"jiugongchang3"
+	{
+		"en"		"工厂"
+	}
+	"jiugongchang4"
+	{
+		"en"		"办公楼"
+	}
+	"jiugongchang5"
+	{
+		"en"		"军库"
+	}
+	"jiugongchang6"
+	{
+		"en"		"鬼楼"
+	}
+	"jiugongchang7"
+	{
+		"en"		"学校"
+	}
+	"jiugongchang8"
+	{
+		"en"		"小女孩"
+	}
+	"titty1"
+	{
+		"en"		"本尼之家（Benny's Casa）"
+	}
+	"titty"
+	{
+		"en"		"乳头扭转者（Titty Twister）"
+	}
+	"somefun"
+	{
+		"en"		"一些有趣的（somefun）"
+	}
+	"somefun2"
+	{
+		"en"		"一些有趣的2（somefun2）"
+	}
+	"somefun3"
+	{
+		"en"		"一些有趣的3（somefun3）"
+	}
+	"somefun4"
+	{
+		"en"		"一些有趣的4（somefun4）"
+	}
+	"uz_crash"
+	{
+		"en"		"崩溃（Crash）"
+	}
+	"uz_town"
+	{
+		"en"		"小镇（Town）"
+	}
+	"uz_desert"
+	{
+		"en"		"沙漠（Desert）"
+	}
+	"uz_bunker"
+	{
+		"en"		"地堡（Bunker）"
+	}
+	"uz_escape"
+	{
+		"en"		"逃生（Escape）"
+	}
+	"f1m1"
+	{
+		"en"		"1：艾瑟玛（1: Ethermar）"
+	}
+	"f1m2"
+	{
+		"en"		"2：佩里法努瓦（2: Perifanoir）"
+	}
+	"f1m3"
+	{
+		"en"		"3：飞升的改变（3: Alter of Ascension）"
+	}
+	"f1m4"
+	{
+		"en"		"4: Fairy Dust"
+	}
+	"zmb13_m1_barracks"
+	{
+		"en"		"兵营（The Barracks）"
+	}
+	"zmb13_m2_labs"
+	{
+		"en"		"研究实验室（Research Labs）"
+	}
+	"zmb13_m3_surface"
+	{
+		"en"		"地表逃生（Surface Escape）"
+	}
+	"campaign_portal_acfir_final"
+	{
+		"en"		"The Fall"
+	}
+	"campaign_portal_first_final"
+	{
+		"en"		"Cave Johnson"
+	}
+	"campaign_portal_second_final"
+	{
+		"en"		"Bomb Flings"
+	}
+	"campaign_portal_finale_finalv"
+	{
+		"en"		"避难所（The Vault）"
+	}
+	"survival_vault"
+	{
+		"en"		"避难所（The Vault）"
+	}
+	"survival_speed_ramp"
+	{
+		"en"		"速度斜坡（Speed Ramp）"
+	}
+	"qe_1_cliche"
+	{
+		"en"		"陈词滥调（Cliche）"
+	}
+	"qe_2_remember_me"
+	{
+		"en"		"记住我（Remember me）"
+	}
+	"qe_3_unorthodox_paradox"
+	{
+		"en"		"非正统悖论（Unorthodox Paradox）"
+	}
+	"qe_4_ultimate_test"
+	{
+		"en"		"终极测试（The Ultimate Test）"
+	}
+	"qe2_ep1"
+	{
+		"en"		"第1章（Episode 1）"
+	}
+	"qe2_ep2"
+	{
+		"en"		"第2章（Episode 2）"
+	}
+	"qe2_ep3"
+	{
+		"en"		"第3章（Episode 3）"
+	}
+	"qe2_ep4"
+	{
+		"en"		"第4章（Episode 4）"
+	}
+	"qe2_ep5"
+	{
+		"en"		"第5章（Episode 5）"
+	}
+	"qe3_1"
+	{
+		"en"		"大重置（Great Reset）"
+	}
+	"qe3_2"
+	{
+		"en"		"选择的错觉（Illusion of Choice）"
+	}
+	"qe3_3"
+	{
+		"en"		"Build Back Better"
+	}
+	"qe3_4"
+	{
+		"en"		"The Problem is Choice"
+	}
+	"qe3_5"
+	{
+		"en"		"Everything That Has a Beginning Has an End"
+	}
+	"quethics_1"
+	{
+		"en"		"陈词滥调（Cliche）"
+	}
+	"quethics_2"
+	{
+		"en"		"Remember me（Remember me (1)）"
+	}
+	"quethics_3"
+	{
+		"en"		"请记住我（Remember me (2)）"
+	}
+	"quethics_4"
+	{
+		"en"		"非正统悖论（Unorthodox Paradox (1)）"
+	}
+	"quethics_5"
+	{
+		"en"		"非正统悖论（Unorthodox Paradox (2)）"
+	}
+	"quethics_6"
+	{
+		"en"		"终极测试（Ultimate Test）"
+	}
+	"r_concert"
+	{
+		"en"		"1：渗透1（1: Infiltration 1）"
+	}
+	"r_barns"
+	{
+		"en"		"2: Infiltration 2"
+	}
+	"r_coaster"
+	{
+		"en"		"3: Enemy Sighted"
+	}
+	"r_fairgrounds"
+	{
+		"en"		"4: 继续前进（4: Keep Moving）"
+	}
+	"r_highway"
+	{
+		"en"		"5: 漫长的绕行（5: Long Way Round）"
+	}
+	"r_atrium"
+	{
+		"en"		"6: Hostages"
+	}
+	"r_mall"
+	{
+		"en"		"7：秘密行动（7: Stealth Op）"
+	}
+	"r_streets"
+	{
+		"en"		"8：似曾相识（8: DeJa Vu）"
+	}
+	"r_hotel"
+	{
+		"en"		"9: 重逢（9: Reunion）"
+	}
+	"r_nomercy"
+	{
+		"en"		"10: 老朋友（10: An Old Friend）"
+	}
+	"vr_missions"
+	{
+		"en"		"奖励：VR任务（Bonus: VR Missions）"
+	}
+	"m1_fabbrecce"
+	{
+		"en"		"法布雷切（Fabbrecce）"
+	}
+	"m2_vismara"
+	{
+		"en"		"维斯马拉（Vismara）"
+	}
+	"m3_cattabrighe1"
+	{
+		"en"		"南卡塔布里赫（Cattabrighe Sud）"
+	}
+	"m4_cattabrighe2"
+	{
+		"en"		"Cattabrighe Nord"
+	}
+	"m5_sanbartolo"
+	{
+		"en"		"San Bartolo"
+	}
+	"m1_trieste"
+	{
+		"en"		"里雅斯特大街（Viale Trieste）"
+	}
+	"m2_centro"
+	{
+		"en"		"历史中心（Centro Storico）"
+	}
+	"m3_stazione"
+	{
+		"en"		"德尔特雷诺车站（Stazione del Treno）"
+	}
+	"m4_torraccia"
+	{
+		"en"		"托拉恰（Torraccia）"
+	}
+	"m5_iper_conad"
+	{
+		"en"		"伊佩尔·康纳德（Iper Conad）"
+	}
+	"m6_adriatic_arena"
+	{
+		"en"		"亚得里亚海竞技场（Adriatic Arena）"
+	}
+	"m1_statale"
+	{
+		"en"		"亚得里亚海国家队（Statale Adriatica）"
+	}
+	"m2_via_milano"
+	{
+		"en"		"经由米兰（Via Milano）"
+	}
+	"m3_fox_petroli"
+	{
+		"en"		"福克斯彼得罗利（Fox Petroli）"
+	}
+	"p4_m1_casabase1"
+	{
+		"en"		"迪罗卡塔之家（Casa Diroccata）"
+	}
+	"p4_m2_villafastiggi1"
+	{
+		"en"		"拉齐安多·斯科特第 1 部分（Razziando Scorte parte 1）"
+	}
+	"p4_m3_villafastiggi2"
+	{
+		"en"		"拉齐安多·斯科特第 2 部分（Razziando Scorte parte 2）"
+	}
+	"p4_m4_casabase2"
+	{
+		"en"		"新诺斯特拉之家（La Nostra Nuova Casa）"
+	}
+	"Entrance"
+	{
+		"en"		"入口（entrance）"
+	}
+	"Another_world"
+	{
+		"en"		"地雷死亡者（minedead）"
+	}
+	"The_next_world"
+	{
+		"en"		"马里奥4死了（mario4dead）"
+	}
+	"Return"
+	{
+		"en"		"返回（return）"
+	}
+	"l4dblackoutbasement1"
+	{
+		"en"		"公用设施隧道（The Utility Tunnels）"
+	}
+	"l4dblackoutbasement2"
+	{
+		"en"		"铁路桥（The Railroad Bridge）"
+	}
+	"l4dblackoutbasement3"
+	{
+		"en"		"办公室（The Offices）"
+	}
+	"l4dblackoutbasement4"
+	{
+		"en"		"火车站结局（The Train Station Finale）"
+	}
+	"l4d2_feetunder_outpostazbo"
+	{
+		"en"		"前哨站（Outpost）"
+	}
+	"l4d_route76azbo"
+	{
+		"en"		"通行隧道（Access Tunnel）"
+	}
+	"l4d_shoppingcenterzbo"
+	{
+		"en"		"大幅降价（Slashing Prices）"
+	}
+	"l4d_ft_station01zbo"
+	{
+		"en"		"街道（The Streets）"
+	}
+	"l4d_ft_station02zbo"
+	{
+		"en"		"下水道（The Sewers）"
+	}
+	"l4d_withoutname_complexzbo"
+	{
+		"en"		"综合设施（The Complex）"
+	}
+	"l4d_withoutname_lakezbo"
+	{
+		"en"		"湖景（Lake View）"
+	}
+	"l4d_withoutname_townzbo"
+	{
+		"en"		"我们的城镇（Our Town）"
+	}
+	"zombiearmylaifa1"
+	{
+		"en"		"僵尸军队_level_1（zombiearmy_level_1）"
+	}
+	"zombiearmylaifa2"
+	{
+		"en"		"僵尸军队_level_2（zombiearmy_level_2）"
+	}
+	"zombiearmylaifa3"
+	{
+		"en"		"僵尸军队_level_3（zombiearmy_level_3）"
+	}
+	"zombiearmylaifa4"
+	{
+		"en"		"僵尸军队_level_4（zombiearmy_level_4）"
+	}
+	"innards2_map1"
+	{
+		"en"		"内脏2_map1（innards2_map1）"
+	}
+	"innards2_map2"
+	{
+		"en"		"内脏2_map2（innards2_map2）"
+	}
+	"innards2_map3"
+	{
+		"en"		"内脏2_map3（innards2_map3）"
+	}
+	"innards2_map4"
+	{
+		"en"		"内脏2_map4（innards2_map4）"
+	}
+	"innards2_map5"
+	{
+		"en"		"内脏2_map5（innards2_map5）"
+	}
+	"SMA_map1"
+	{
+		"en"		"SMA_map1"
+	}
+	"SMA_map2"
+	{
+		"en"		"SMA_map2"
+	}
+	"SMA_map3"
+	{
+		"en"		"SMA_map3"
+	}
+	"SMA_map4"
+	{
+		"en"		"SMA_map4"
+	}
+	"SMA_map5"
+	{
+		"en"		"SMA_map5"
+	}
+	"SMA_map6"
+	{
+		"en"		"SMA_map6"
+	}
+	"Electric_Power_School_m1"
+	{
+		"en"		"街道/Street"
+	}
+	"Keyuan_Avenue_m2"
+	{
+		"en"		"停车场/Parking"
+	}
+	"XinyuanRoad_m3"
+	{
+		"en"		"大坡/Big Ramp"
+	}
+	"DalingVillage_Survival"
+	{
+		"en"		"城中村/Village in the city"
+	}
+	"msd1_town"
+	{
+		"en"		"小镇（Town）"
+	}
+	"msd2_gasstation"
+	{
+		"en"		"加油站（GasStation）"
+	}
+	"msdnew_tccity_newway"
+	{
+		"en"		"城市（City）"
+	}
+	"msd3_square"
+	{
+		"en"		"广场（Square）"
+	}
+	"l4d2_mic2_trapmentd"
+	{
+		"en"		"陷阱（The Entrapment）"
+	}
+	"l4d2_mic2_decentd"
+	{
+		"en"		"体面到...（Decent To...）"
+	}
+	"l4d2_mic2_bunker_part1"
+	{
+		"en"		"埃芬地堡（The Effing Bunker）"
+	}
+	"l4d2_mic2_bunker_part2"
+	{
+		"en"		"地堡：僵尸地狱（The Bunker: Zombie Hell）"
+	}
+	"l4d2_mic_bunker_top"
+	{
+		"en"		"地堡：峰会（The Bunker: Summit）"
+	}
+	"l4d2_mic_bunker_bottom"
+	{
+		"en"		"地堡：坦克地狱（The Bunker: Tank Hell）"
+	}
+	"l4d2_mic_escape"
+	{
+		"en"		"全部登上疯狂列车（All Aboard The Crazy Train）"
+	}
+	"l4d2_mic_finale"
+	{
+		"en"		"史诗塔逃脱（Epic Tower Escape）"
+	}
+	"karting"
+	{
+		"en"		"卡丁车（karting）"
+	}
+	"DEAD_BY_DAYLIGHT"
+	{
+		"en"		"DBD"
+	}
+	"seal"
+	{
+		"en"		"密封件（seal）"
+	}
+	"maple"
+	{
+		"en"		"枫树（maple）"
+	}
+	"lol"
+	{
+		"en"		"哈哈（lol）"
+	}
+	"wow_map1"
+	{
+		"en"		"1：购物中心（1: Shopping Mall）"
+	}
+	"wow_map2"
+	{
+		"en"		"2: 前哨站（2: Outpost）"
+	}
+	"wow_map3"
+	{
+		"en"		"3：火车场（3: Train Yard）"
+	}
+	"wow_map4"
+	{
+		"en"		"4：港口（4: Harbor）"
+	}
+	"wow_map5"
+	{
+		"en"		"5: 灯塔（5: Lighthouse）"
+	}
+	"l4d2_win1"
+	{
+		"en"		"达阵（Touchdown）"
+	}
+	"l4d2_win2"
+	{
+		"en"		"冰冻荒凉（Frozen Desolation）"
+	}
+	"l4d2_win3"
+	{
+		"en"		"北极中庭（Arctic Atrium）"
+	}
+	"l4d2_win4"
+	{
+		"en"		"春季解冻（Spring Thaw）"
+	}
+	"l4d2_win5"
+	{
+		"en"		"高耸的地狱（Towering Inferno）"
+	}
+	"l4d2_win6"
+	{
+		"en"		"屋顶终局（Rooftop Finale）"
+	}
+	"Frozen_m1_streets"
+	{
+		"en"		"街道（The Streets）"
+	}
+	"Frozen_m2_school"
+	{
+		"en"		"学校（The School）"
+	}
+	"Frozen_train"
+	{
+		"en"		"火车站（Train Station）"
+	}
+	"Frozen_factory_d"
+	{
+		"en"		"工厂（Factory）"
+	}
+	"Frozen_mall"
+	{
+		"en"		"商场（Mall）"
+	}
+	"l4d2_freezing_01"
+	{
+		"en"		"1：低于零（1: Below Zero）"
+	}
+	"l4d2_freezing_02"
+	{
+		"en"		"2：老宅邸（2: Old Mansion）"
+	}
+	"l4d2_freezing_03"
+	{
+		"en"		"3：秘密实验室（3: Secret Lab）"
+	}
+	"l4d2_freezing_04"
+	{
+		"en"		"4：挑战结局（4: Gauntlet Finale）"
+	}
+	"cf_m1_town"
+	{
+		"en"		"1: 小镇（1: The Town）"
+	}
+	"cf_m2_mall"
+	{
+		"en"		"2: 商场（2: The Mall）"
+	}
+	"cf_m3_evac"
+	{
+		"en"		"3: 撤离行动（3: The Evacuation）"
+	}
+	"cf_m4_outskirts"
+	{
+		"en"		"4: 郊外（4: The Outskirts）"
+	}
+	"cf_m5_highway"
+	{
+		"en"		"5: 高速公路终局（5: Highway Finale）"
+	}
+	"ch01_jupiter"
+	{
+		"en"		"木星工厂（Jupiter Factory）"
+	}
+	"ch02_pripyat01"
+	{
+		"en"		"游泳池（Swimming Pool）"
+	}
+	"ch03_pripyat02"
+	{
+		"en"		"普里皮亚季中心（Central Pripyat）"
+	}
+	"ch04_pripyat03"
+	{
+		"en"		"第三学校（School #3）"
+	}
+	"ch05_pripyat04"
+	{
+		"en"		"医院（Hospital）"
+	}
+	"l4d_crstreetcre"
+	{
+		"en"		"罗利街道（Raleigh Streets）"
+	}
+	"l4d_crgrapecre"
+	{
+		"en"		"葡萄镇（Grapeville）"
+	}
+	"l4d_crrivercitycre"
+	{
+		"en"		"女王城（Queen City）"
+	}
+	"l4d_crmurphycre"
+	{
+		"en"		"北卡罗来纳州墨菲（Murphy, NC）"
+	}
+	"farmcre"
+	{
+		"en"		"北卡罗来纳州索尔兹伯里（Salisbury, NC）"
+	}
+	"l4d_sh_theend4ext"
+	{
+		"en"		"异世界，北卡罗来纳州（Otherwordly, NC）"
+	}
+	"l4d2_coast_01"
+	{
+		"en"		"1: 码头1（1: Dock 1）"
+	}
+	"l4d2_coast_02"
+	{
+		"en"		"2: 海岸（2: Coast）"
+	}
+	"l4d2_coast_03"
+	{
+		"en"		"3: 码头2（3: Dock 2）"
+	}
+	"l4d2_coast_04"
+	{
+		"en"		"4: 高速公路（4: Highway）"
+	}
+	"l4d2_coast_05"
+	{
+		"en"		"5: 大桥终局（5: Bridge Final）"
+	}
+	"toonrun1"
+	{
+		"en"		"第1关（Level 1）"
+	}
+	"toonrun2"
+	{
+		"en"		"第2关（Level 2）"
+	}
+	"toonrun3"
+	{
+		"en"		"第3关（Level 3）"
+	}
+	"l4d2_Prototype_Mk3_1"
+	{
+		"en"		"原型1（Prototype 1）"
+	}
+	"l4d2_Prototype_Mk3_2"
+	{
+		"en"		"原型2（Prototype 2）"
+	}
+	"l4d2_Prototype_Mk3_3"
+	{
+		"en"		"原型3（Prototype 3）"
+	}
+	"l4d2_Prototype_Mk3_4"
+	{
+		"en"		"原型4（Prototype 4）"
+	}
+	"l4d2_Prototype_Mk3_5"
+	{
+		"en"		"原型5（Prototype 5）"
+	}
+	"campanar_coop_vs"
+	{
+		"en"		"坎帕纳尔（Campanar）"
+	}
+	"alboraya_coop_vs"
+	{
+		"en"		"阿尔博拉亚（Alboraya）"
+	}
+	"cullera_coop_vs"
+	{
+		"en"		"库列拉（Cullera）"
+	}
+	"pool_survival"
+	{
+		"en"		"游泳池（Swimming Pool）"
+	}
+	"squash_surv"
+	{
+		"en"		"壁球（Squash）"
+	}
+	"rooftop_surv"
+	{
+		"en"		"屋顶（Rooftop）"
+	}
+	"the_ancient_maze"
+	{
+		"en"		"远古迷宫（The Ancient Maze）"
+	}
+	"l4d_149_1"
+	{
+		"en"		"1：僵尸的黎明（1: The Dawn of Zombies）"
+	}
+	"l4d_149_2"
+	{
+		"en"		"2：阿拉莫（2: The Alamo）"
+	}
+	"l4d_149_3"
+	{
+		"en"		"3：坏月升起（3: Bad Moon Rising）"
+	}
+	"l4d_149_4"
+	{
+		"en"		"4：火灾危险（4: Fire Hazard）"
+	}
+	"l4d_149_5"
+	{
+		"en"		"5: 坟墓（5: The Tomb）"
+	}
+	"CrashBandicootMap1_classic"
+	{
+		"en"		"一个转储到下一个（One Dump To The Next）"
+	}
+	"CrashBandicootMap2_classic"
+	{
+		"en"		"浪费的骑士（A Knight Wasted）"
+	}
+	"CrashBandicootMap3_classic"
+	{
+		"en"		"小雨（Slight Drizzle）"
+	}
+	"CrashBandicootMap4_classic"
+	{
+		"en"		"陶醉（Intoxicated）"
+	}
+	"CrashBandicootMap5_classic"
+	{
+		"en"		"烧冰箱（Burn Freezer）"
+	}
+	"CrashBandicootMap6_classic"
+	{
+		"en"		"皮质涡（CortexVortex）"
+	}
+	"CrashBandicootMap1"
+	{
+		"en"		"去内脏（Gutted）"
+	}
+	"CrashBandicootMap2"
+	{
+		"en"		"不忠（Faithless）"
+	}
+	"CrashBandicootMap3"
+	{
+		"en"		"闪回（Flashback）"
+	}
+	"CrashBandicootMap4"
+	{
+		"en"		"N-隐秘（N-Crypted）"
+	}
+	"CrashBandicootMap5"
+	{
+		"en"		"灭绝（Extinct）"
+	}
+	"CrashBandicootMap6"
+	{
+		"en"		"皮质（Cortex）"
+	}
+	"crashbandicootsurvival1"
+	{
+		"en"		"小型竞技场（Tiny Arena）"
+	}
+	"crashbandicootsurvival2"
+	{
+		"en"		"皮质神庙（Temple of Cortex）"
+	}
+	"crashbandicootsurvival3"
+	{
+		"en"		"庭院大屠杀（Courtyard Massacre）"
+	}
+	"l4d2_pasiri1"
+	{
+		"en"		"岛屿僵尸（Island Zombies）"
+	}
+	"l4d2_pasiri2"
+	{
+		"en"		"可口可乐堡（Fort Coca Cola）"
+	}
+	"l4d2_pasiri3"
+	{
+		"en"		"天空僵尸（Sky Zombies）"
+	}
+	"l4d2_pasiri4"
+	{
+		"en"		"僵尸神庙（ Zombie Temple）"
+	}
+	"symbyosys_01"
+	{
+		"en"		"隧道（The Tunnels）"
+	}
+	"symbyosys_02"
+	{
+		"en"		"到处传染！（Contagion Everywhere!）"
+	}
+	"symbyosys_03_bridge"
+	{
+		"en"		"赞博大桥（Zombo Bridge）"
+	}
+	"symbyosys_04"
+	{
+		"en"		"僵尸地狱（Zombie Hell）"
+	}
+	"symbyosys_05_final"
+	{
+		"en"		"逃亡到荣耀！（Escape To Glory!）"
+	}
+	"yamaruins"
+	{
+		"en"		"山遗迹（yamaruins）"
+	}
+	"airlinefactory"
+	{
+		"en"		"航空公司工厂（airlinefactory）"
+	}
+	"secretbuilding"
+	{
+		"en"		"秘密建筑（secretbuilding）"
+	}
+	"underseabase"
+	{
+		"en"		"海底基地（underseabase）"
+	}
+	"dam1_roads"
+	{
+		"en"		"1. 上游道路（1. Upper Roads）"
+	}
+	"dam1_roads2"
+	{
+		"en"		"2. 下层道路（2. Lower Roads）"
+	}
+	"dam2_bridge"
+	{
+		"en"		"3. 桥（3. The Bridge）"
+	}
+	"dam3_canals"
+	{
+		"en"		"4. 运河（4. The Canals）"
+	}
+	"dam4_cliffs"
+	{
+		"en"		"5. 悬崖（5. The Cliff）"
+	}
+	"dam5_zephyrhills"
+	{
+		"en"		"6. 泽弗希尔斯（6. Zephyrhills）"
+	}
+	"map1"
+	{
+		"en"		"阿斯达斯德（Party）"
+	}
+	"map2"
+	{
+		"en"		"PoolRooms"
+	}
+	"map3"
+	{
+		"en"		"地图3（kitty Run ¿cereal?）"
+	}
+	"map4"
+	{
+		"en"		"交朋友的好地方（A good place to make friends）"
+	}
+	"map5"
+	{
+		"en"		"现实！（reality!）"
+	}
+	"hehe10_1"
+	{
+		"en"		"呵呵10_1（hehe10_1）"
+	}
+	"hehe10_2"
+	{
+		"en"		"呵呵10_2（hehe10_2）"
+	}
+	"hehe10_3"
+	{
+		"en"		"呵呵10_3（hehe10_3）"
+	}
+	"hehe10_4"
+	{
+		"en"		"呵呵10_4（hehe10_4）"
+	}
+	"hehe10_5"
+	{
+		"en"		"呵呵10_5（hehe10_5）"
+	}
+	"hehe10_6"
+	{
+		"en"		"呵呵10_6（hehe10_6）"
+	}
+	"nmslm1"
+	{
+		"en"		"冰蚊香（Ice mosquito coil）"
+	}
+	"nmslm2"
+	{
+		"en"		"坦克（Tank）"
+	}
+	"nmslm3"
+	{
+		"en"		"拉什（Rush）"
+	}
+	"nmslm4"
+	{
+		"en"		"白山（baishan）"
+	}
+	"hehe12_1"
+	{
+		"en"		"shjda入口"
+	}
+	"hehe12_2"
+	{
+		"en"		"88号荒地"
+	}
+	"hehe12_3"
+	{
+		"en"		"回到ccpapa"
+	}
+	"hehe12_4"
+	{
+		"en"		"回到砚州"
+	}
+	"hehe12_5"
+	{
+		"en"		"逃离坏舍友"
+	}
+	"hehe12_6"
+	{
+		"en"		"蔡徐坤的营救"
+	}
+	"hehe14_1"
+	{
+		"en"		"海上轨道2"
+	}
+	"hehe14_2"
+	{
+		"en"		"45578"
+	}
+	"hehe14_3"
+	{
+		"en"		"红色回旋噵"
+	}
+	"hehe14_4"
+	{
+		"en"		"蠡嗣暨市"
+	}
+	"hehe14_5"
+	{
+		"en"		"玻璃隧道"
+	}
+	"hehe14_6"
+	{
+		"en"		"UFO-太空来客"
+	}
+	"hehe_return_m1"
+	{
+		"en"		"路（road）"
+	}
+	"hehe_return_m2"
+	{
+		"en"		"楼梯（stairs）"
+	}
+	"hehe_return_m3"
+	{
+		"en"		"迷宫（maze）"
+	}
+	"hehe_return_m4"
+	{
+		"en"		"返回（return）"
+	}
+	"hehe_return_m5"
+	{
+		"en"		"233"
+	}
+	"hehe16_1"
+	{
+		"en"		"回转"
+	}
+	"hehe16_2"
+	{
+		"en"		"攀登"
+	}
+	"hehe16_3"
+	{
+		"en"		"迷宫"
+	}
+	"hehe16_4"
+	{
+		"en"		"独奏（SOLO）"
+	}
+	"hehe16_5"
+	{
+		"en"		"上层"
+	}
+	"hehe16_6"
+	{
+		"en"		"冰界"
+	}
+	"hehe16_7"
+	{
+		"en"		"寡妇村"
+	}
+	"hehe16_8"
+	{
+		"en"		"上层two"
+	}
+	"hehe17_1"
+	{
+		"en"		"黑暗1"
+	}
+	"hehe17_2"
+	{
+		"en"		"黑暗旋转"
+	}
+	"hehe17_3"
+	{
+		"en"		"黑暗2"
+	}
+	"hehe17_4"
+	{
+		"en"		"黑暗天国"
+	}
+	"hehe17_5"
+	{
+		"en"		"恭喜FPX"
+	}
+	"hehe18_1"
+	{
+		"en"		"呵呵18_1（hehe18_1）"
+	}
+	"hehe18_2"
+	{
+		"en"		"呵呵18_2（hehe18_2）"
+	}
+	"hehe18_3"
+	{
+		"en"		"呵呵18_3（hehe18_3）"
+	}
+	"hehe18_4"
+	{
+		"en"		"呵呵18_4（hehe18_4）"
+	}
+	"hehe18_5"
+	{
+		"en"		"呵呵18_5（hehe18_5）"
+	}
+	"hehe18_6"
+	{
+		"en"		"呵呵18_6（hehe18_6）"
+	}
+	"hehe19m1"
+	{
+		"en"		"迷宫（maze）"
+	}
+	"hehe19m2"
+	{
+		"en"		"什么（what）"
+	}
+	"hehe19m3"
+	{
+		"en"		"坦克（tanks）"
+	}
+	"hehe19m4"
+	{
+		"en"		"跑（run）"
+	}
+	"hehe19m5"
+	{
+		"en"		"块（blocks）"
+	}
+	"hehe20_1"
+	{
+		"en"		"呵呵20_1（hehe20_1）"
+	}
+	"hehe20_2"
+	{
+		"en"		"呵呵20_2（hehe20_2）"
+	}
+	"hehe20_3"
+	{
+		"en"		"呵呵20_3（hehe20_3）"
+	}
+	"hehe20_4"
+	{
+		"en"		"呵呵20_4（hehe20_4）"
+	}
+	"hehe20_5"
+	{
+		"en"		"呵呵20_5（hehe20_5）"
+	}
+	"hehe20_6"
+	{
+		"en"		"呵呵20_6（hehe20_6）"
+	}
+	"hehe20_7"
+	{
+		"en"		"呵呵20_7（hehe20_7）"
+	}
+	"hehe20_8"
+	{
+		"en"		"呵呵20_8（hehe20_8）"
+	}
+	"hehe20_9"
+	{
+		"en"		"呵呵20_9（hehe20_9）"
+	}
+	"hehe20_10"
+	{
+		"en"		"呵呵20_10（hehe20_10）"
+	}
+	"hehe20_11"
+	{
+		"en"		"呵呵20_11（hehe20_11）"
+	}
+	"hehe20_12"
+	{
+		"en"		"呵呵20_12（hehe20_12）"
+	}
+	"hehe20_13"
+	{
+		"en"		"呵呵20_13（hehe20_13）"
+	}
+	"hehe20_14"
+	{
+		"en"		"呵呵20_14（hehe20_14）"
+	}
+	"hehe20_15"
+	{
+		"en"		"呵呵20_15（hehe20_15）"
+	}
+	"hehe20_16"
+	{
+		"en"		"呵呵20_16（hehe20_16）"
+	}
+	"hehe20_17"
+	{
+		"en"		"呵呵20_17（hehe20_17）"
+	}
+	"hehe20_18"
+	{
+		"en"		"呵呵20_18（hehe20_18）"
+	}
+	"hehe20_19"
+	{
+		"en"		"呵呵20_19（hehe20_19）"
+	}
+	"hehe20_20"
+	{
+		"en"		"呵呵20_20（hehe20_20）"
+	}
+	"hehe211"
+	{
+		"en"		"电脑桌"
+	}
+	"hehe212"
+	{
+		"en"		"旋转试炼"
+	}
+	"hehe213"
+	{
+		"en"		"小教堂"
+	}
+	"hehe214"
+	{
+		"en"		"试炼2"
+	}
+	"hehe215"
+	{
+		"en"		"tank洞穴"
+	}
+	"hehe216"
+	{
+		"en"		"地下赛车场"
+	}
+	"hehe217"
+	{
+		"en"		"逃离"
+	}
+	"hehe22_1"
+	{
+		"en"		"呵呵22_1（hehe22_1）"
+	}
+	"hehe22_2"
+	{
+		"en"		"呵呵22_2（hehe22_2）"
+	}
+	"hehe22_3"
+	{
+		"en"		"呵呵22_3（hehe22_3）"
+	}
+	"hehe22_4"
+	{
+		"en"		"呵呵22_4（hehe22_4）"
+	}
+	"hehe23_1"
+	{
+		"en"		"呵呵23_1（hehe23_1）"
+	}
+	"hehe23_2"
+	{
+		"en"		"呵呵23_2（hehe23_2）"
+	}
+	"hehe23_3"
+	{
+		"en"		"呵呵23_3（hehe23_3）"
+	}
+	"hehe24_1"
+	{
+		"en"		"风暴轨迹（Storm track）"
+	}
+	"hehe24_2"
+	{
+		"en"		"黑社会（Underworlds）"
+	}
+	"hehe24_3"
+	{
+		"en"		"黎机构（Li institution）"
+	}
+	"hehe24_4"
+	{
+		"en"		"呵呵会议厅（hehe conference hall）"
+	}
+	"hehe25_1"
+	{
+		"en"		"呵呵25_1（hehe25_1）"
+	}
+	"hehe25_2"
+	{
+		"en"		"呵呵25_2（hehe25_2）"
+	}
+	"hehe25_3"
+	{
+		"en"		"呵呵25_3（hehe25_3）"
+	}
+	"hehe25_4"
+	{
+		"en"		"呵呵25_4（hehe25_4）"
+	}
+	"hehe25_5"
+	{
+		"en"		"呵呵25_5（hehe25_5）"
+	}
+	"hehe25_6"
+	{
+		"en"		"呵呵25_6（hehe25_6）"
+	}
+	"hehe26_1"
+	{
+		"en"		"山谷"
+	}
+	"hehe26_2"
+	{
+		"en"		"红色矿洞"
+	}
+	"hehe26_3"
+	{
+		"en"		"逃离地底峡谷"
+	}
+	"hehe27_1"
+	{
+		"en"		"梯子试验"
+	}
+	"hehe27_2"
+	{
+		"en"		"錒筽桥"
+	}
+	"hehe27_3"
+	{
+		"en"		"梯子坠落"
+	}
+	"hehe27_4"
+	{
+		"en"		"蕥屄宊"
+	}
+	"hehe27_5"
+	{
+		"en"		"巨人的蚊香"
+	}
+	"hehe29_1"
+	{
+		"en"		"外围"
+	}
+	"hehe29_2"
+	{
+		"en"		"鸡地"
+	}
+	"hehe29_3"
+	{
+		"en"		"鸡门"
+	}
+	"hehe29_4"
+	{
+		"en"		"鸡农场"
+	}
+	"hehe31_1tankjianyu"
+	{
+		"en"		"Tank监狱"
+	}
+	"hehe31_2kuaizhuang"
+	{
+		"en"		"块状"
+	}
+	"hehe31_3guaimeng"
+	{
+		"en"		"怪梦"
+	}
+	"hehe31_4"
+	{
+		"en"		"R的测试"
+	}
+	"hehe31_5"
+	{
+		"en"		"安全之门"
+	}
+	"hehe32_1"
+	{
+		"en"		"一路通"
+	}
+	"hehe32_2"
+	{
+		"en"		"小房间故事"
+	}
+	"hehe32_3"
+	{
+		"en"		"寒腿噩梦"
+	}
+	"hehe32_4"
+	{
+		"en"		"传说中的45"
+	}
+	"hehe33_1"
+	{
+		"en"		"分七凸"
+	}
+	"hehe33_2"
+	{
+		"en"		"门外汉"
+	}
+	"hehe33_3"
+	{
+		"en"		"海上玻璃栈道"
+	}
+	"hehe33_4"
+	{
+		"en"		"飞车党"
+	}
+	"flyingcolor_town"
+	{
+		"en"		"镇（town）"
+	}
+	"flyingcolor_sewer"
+	{
+		"en"		"下水道（sewer）"
+	}
+	"flyingcolor_aquarium"
+	{
+		"en"		"水族馆（aquarium）"
+	}
+	"flyingcolor_museum"
+	{
+		"en"		"博物馆（museum）"
+	}
+	"lfd2_dagger_start_facility"
+	{
+		"en"		"进入设施（Into The Facility）"
+	}
+	"lfd2_dagger_facility_inside"
+	{
+		"en"		"设施内部（Inside The Facility）"
+	}
+	"lfd2_dagger_toxic_chamber"
+	{
+		"en"		"老后巷（The Old Backway）"
+	}
+	"lfd2_dagger_final_chamber"
+	{
+		"en"		"传送门室（The Portal Chamber）"
+	}
+	"mr_graycolor_1"
+	{
+		"en"		"镇（town）"
+	}
+	"mr_graycolor_2"
+	{
+		"en"		"下水道（sewer）"
+	}
+	"mr_graycolor_3"
+	{
+		"en"		"水族馆（aquarium）"
+	}
+	"mr_graycolor_4"
+	{
+		"en"		"狂欢（rave）"
+	}
+	"orange_town"
+	{
+		"en"		"奥兰治小镇（Orange Town）"
+	}
+	"orange_slum"
+	{
+		"en"		"橙色贫民窟（Orange Slum）"
+	}
+	"orange_factory"
+	{
+		"en"		"橙色工厂（Orange Factory）"
+	}
+	"orange_canal"
+	{
+		"en"		"奥兰治运河（Orange Canal）"
+	}
+	"tume_1"
+	{
+		"en"		"tume_1"
+	}
+	"tume_2"
+	{
+		"en"		"tume_2"
+	}
+	"tume_3"
+	{
+		"en"		"佣金_3（tume_3）"
+	}
+	"tume_4"
+	{
+		"en"		"佣金_4（tume_4）"
+	}
+	"tume_5"
+	{
+		"en"		"佣金_5（tume_5）"
+	}
+	"tume_6"
+	{
+		"en"		"佣金_6（tume_6）"
+	}
+	"tume_7"
+	{
+		"en"		"tume_7"
+	}
+	"tume_8"
+	{
+		"en"		"tume_8"
+	}
+	"tume_9"
+	{
+		"en"		"tume_9"
+	}
+	"tume_10"
+	{
+		"en"		"tume_10"
+	}
+	"tume_11"
+	{
+		"en"		"佣金_11（tume_11）"
+	}
+	"tume_12"
+	{
+		"en"		"佣金_12（tume_12）"
+	}
+	"tume_13"
+	{
+		"en"		"tume_13"
+	}
+	"tume_14"
+	{
+		"en"		"佣金_14（tume_14）"
+	}
+	"tume_15"
+	{
+		"en"		"tume_15"
+	}
+	"contra3d06"
+	{
+		"en"		"魂斗罗Z06（ContraZ06）"
+	}
+	"contra3d07"
+	{
+		"en"		"魂斗罗Z07（ContraZ07）"
+	}
+	"baka2_8"
+	{
+		"en"		"周一。时髦梦想（Mon. Funky Dream）"
+	}
+	"baka2_9"
+	{
+		"en"		"周二。 时髦小径（Tue.   Funky Trail）"
+	}
+	"baka2_11"
+	{
+		"en"		"周三。 时髦大战僵尸（Wed.   Funky VS Zombies）"
+	}
+	"baka2_12"
+	{
+		"en"		"周四。 不时髦的斜坡（Thu.   Slope of Unfunky）"
+	}
+	"baka2_13"
+	{
+		"en"		"周五。 永恒的时髦梦想（Fri.   Eternal Funky Dream）"
+	}
+	"baka2_14"
+	{
+		"en"		"WEEX。 佳安Funkyway No.4（WEEX.   Kaian Funkyway No.4）"
+	}
+	"earthcrash_l4d2"
+	{
+		"en"		"下水道"
+	}
+	"2_earhcrash_l4d2"
+	{
+		"en"		"回到地面"
+	}
+	"3_earthcrash_l4d2"
+	{
+		"en"		"高楼"
+	}
+	"earthcrash_l4d2_4"
+	{
+		"en"		"停机坪"
+	}
+	"bsas2_m1_barrios"
+	{
+		"en"		"巴里奥斯（Barrios）"
+	}
+	"bsas2_m2_adrogue"
+	{
+		"en"		"阿德罗盖（Adrogué）"
+	}
+	"bsas2_m3_constitucion"
+	{
+		"en"		"宪法（Constitucion）"
+	}
+	"bsas2_m4_obelisco"
+	{
+		"en"		"方尖碑（Obelisco）"
+	}
+	"bsas2_m5_retiro"
+	{
+		"en"		"雷蒂罗（Retiro）"
+	}
+	"bsas2_m6_costanera"
+	{
+		"en"		"塞巴多雷斯俱乐部（Club de cebadores）"
+	}
+	"atr01_trailer_park"
+	{
+		"en"		"1：拖车公园（1: Trailer Park）"
+	}
+	"atr02_outskirts"
+	{
+		"en"		"2：郊区（2: Outskirts）"
+	}
+	"atr03_town"
+	{
+		"en"		"3: 小镇（3: Town）"
+	}
+	"atr04_power_station"
+	{
+		"en"		"4：发电站（4: Power Station）"
+	}
+	"atr05_plant"
+	{
+		"en"		"5：植物（5: Plant）"
+	}
+	"oe_m1_revised"
+	{
+		"en"		"1：任务开始（1: Mission Start）"
+	}
+	"oe_m2_revised"
+	{
+		"en"		"2：河流突袭（2: River Raid）"
+	}
+	"oe_m3_revised"
+	{
+		"en"		"3：目标突袭（3: Target Raid）"
+	}
+	"oe_m4_revised"
+	{
+		"en"		"4：保卫部队（4: Defend the troops）"
+	}
+	"oe_m5_revised"
+	{
+		"en"		"5：救援（5: Rescue）"
+	}
+	"gex2-a"
+	{
+		"en"		"第一阶段 - 大堂（STAGE 1 - Lobby）"
+	}
+	"gex2-b"
+	{
+		"en"		"第二阶段 - 功夫剧场（STAGE 2 - Kung fu theatre）"
+	}
+	"gex2-c"
+	{
+		"en"		"第三阶段 - 雷佐波利斯（STAGE 3 - Rezopolis）"
+	}
+	"c3m1_boulevard"
+	{
+		"en"		"1：林荫大道（1: Boulevard）"
+	}
+	"c3m2_square"
+	{
+		"en"		"2：正方形（2: Square）"
+	}
+	"c3m3_waterfront"
+	{
+		"en"		"3: 滨水区（3: Waterfront）"
+	}
+	"resort_map0"
+	{
+		"en"		"1：沉船（1: Shipwreck）"
+	}
+	"resort_map1"
+	{
+		"en"		"2：湖畔（2: Lakeside）"
+	}
+	"resort_map2"
+	{
+		"en"		"3：度假村（3: Resort）"
+	}
+	"resort_map3"
+	{
+		"en"		"4：赌场（4: Casino）"
+	}
+	"resort_map4"
+	{
+		"en"		"5：海滩（5: Beach）"
+	}
+	"c3m1_jungle"
+	{
+		"en"		"拉什维尔（Lushville）"
+	}
+	"c3m2_jungle"
+	{
+		"en"		"热带炎热（Tropical Heat）"
+	}
+	"c3m3_jungle"
+	{
+		"en"		"海滩小镇（Beach Town）"
+	}
+	"c3m4_jungle"
+	{
+		"en"		"海岸公馆（Coastal Mansion）"
+	}
+	"reality_mixture_m1_entrance"
+	{
+		"en"		"入口处（Entrance）"
+	}
+	"cs2_calles"
+	{
+		"en"		"卡列斯（Calles）"
+	}
+	"cs_3huayco"
+	{
+		"en"		"埃尔瓦伊科（El Huayco）"
+	}
+	"cs4_Cerro_San_cristobal"
+	{
+		"en"		"圣克里斯托瓦尔山（Cerro San cristobal）"
+	}
+	"cs_3huaycoo"
+	{
+		"en"		"埃尔瓦伊科（El Huayco）"
+	}
+	"dc2025_1"
+	{
+		"en"		"旅馆（Hotel）"
+	}
+	"dc2025_2"
+	{
+		"en"		"街道（Streets）"
+	}
+	"dc2025_3"
+	{
+		"en"		"商场（Mall）"
+	}
+	"dc2025_4"
+	{
+		"en"		"城市（City）"
+	}
+	"dc2025_5"
+	{
+		"en"		"市中心（Downtown）"
+	}
+	"sxu_st"
+	{
+		"en"		"火车站"
+	}
+	"sxu_subway"
+	{
+		"en"		"地铁"
+	}
+	"sxu_3"
+	{
+		"en"		"侯家巷"
+	}
+	"sxu_4_t"
+	{
+		"en"		"五一广场"
+	}
+	"lo_towncentre_fix"
+	{
+		"en"		"1. 市中心（1. Town Centre）"
+	}
+	"lo_countryside"
+	{
+		"en"		"2. 乡村（2. Country Side）"
+	}
+	"lo_highschool"
+	{
+		"en"		"3. 高中（3. High School）"
+	}
+	"m1_nanfang"
+	{
+		"en"		"沿江西路/Yanjiang 11 Lu"
+	}
+	"m2_shuifa"
+	{
+		"en"		"堑口码头/Qiankou Pier"
+	}
+	"m3_gztower"
+	{
+		"en"		"财富码头/Fortune Pier"
+	}
+	"m4_gztowertop"
+	{
+		"en"		"广州塔/Canton Tower"
+	}
+	"Upside_down_01"
+	{
+		"en"		"结构不健全（Structurally Unsound）"
+	}
+	"Upside_down_02"
+	{
+		"en"		"勉强依附（Barely Attached）"
+	}
+	"Upside_down_03"
+	{
+		"en"		"沸点（Boiling Point）"
+	}
+	"Upside_down_04"
+	{
+		"en"		"被她的怨恨蒙蔽了双眼（Blinded by her Spite）"
+	}
+	"Upside_down_05"
+	{
+		"en"		"暂时结束（Temporary End）"
+	}
+	"ddntr2_c0m1_wharfb"
+	{
+		"en"		"从这里开始！（Start Here!）"
+	}
+	"ddntr2_c0m1_wharf"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"ddntr2_c1m1"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"ddntr2_c1m2"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"ddntr2_c1m3"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"dwrld_sm01"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"ddntr2_c2m1"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"ddntr2_c2m2"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"ddntr2_c2m3"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"ddntr2_c0m2_bridge"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"dwrld_c3m1"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"dwrld_c3m2"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"dwrld_c4m1"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"dwrld_c5m1"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"dwrld_c6m1"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"dwrld_c7m1"
+	{
+		"en"		"死亡世界（Deadworld）"
+	}
+	"eotl_coop"
+	{
+		"en"		"纪念桥（Memorial Bridge）"
+	}
+	"eotl_aftermath"
+	{
+		"en"		"希望破灭（Fading Hope）"
+	}
+	"terminatorlaifa1"
+	{
+		"en"		"级别_1（level_1）"
+	}
+	"terminatorlaifa2"
+	{
+		"en"		"级别_2（level_2）"
+	}
+	"dineva_underscore"
+	{
+		"en"		"光丛林（Light Jungle）"
+	}
+	"dineva_sandless"
+	{
+		"en"		"奇怪？？？（Strange ???）"
+	}
+	"dineva_end"
+	{
+		"en"		"仓库（Depot）"
+	}
+	"left4cake201_start"
+	{
+		"en"		"治疗（Therapy）"
+	}
+	"left4cake202_dos"
+	{
+		"en"		"培训（Training）"
+	}
+	"left4cake203_tres"
+	{
+		"en"		"练习（Exercises）"
+	}
+	"left4cake201_start_scavenge"
+	{
+		"en"		"治疗清除（Therapy Scavenge）"
+	}
+	"left4cake202_dos_scavenge"
+	{
+		"en"		"训练拾荒（Training Scavenge）"
+	}
+	"left4cake203_tres_scavenge"
+	{
+		"en"		"练习拾荒（Exercises Scavenge）"
+	}
+	"mvm_decoy_touhou"
+	{
+		"en"		"mvm_decoy_东方（mvm_decoy_touhou）"
+	}
+	"gdm1"
+	{
+		"en"		"坝（Dam）"
+	}
+	"gdm2"
+	{
+		"en"		"机房（Machine room）"
+	}
+	"gdm3"
+	{
+		"en"		"减压（Depressurize）"
+	}
+	"gd_cc_pump"
+	{
+		"en"		"中转站（Transfer station）"
+	}
+	"gdm4"
+	{
+		"en"		"运输通道（Transport channel）"
+	}
+	"gd_cc_lines"
+	{
+		"en"		"另一条线（Another line）"
+	}
+	"gd_cc_pipes"
+	{
+		"en"		"维修管道（Maintenance pipeline）"
+	}
+	"gdm5"
+	{
+		"en"		"控制室（Control room）"
+	}
+	"Castle3_C1"
+	{
+		"en"		"1：方法（1: Approach）"
+	}
+	"Castle3_C2"
+	{
+		"en"		"2：走廊（2: Hallways）"
+	}
+	"Castle3_C3"
+	{
+		"en"		"3：神器（3: The Artifact）"
+	}
+	"Castle3_C4"
+	{
+		"en"		"4: 逃生（4: Escape）"
+	}
+	"zc1_m1"
+	{
+		"en"		"公园/Park"
+	}
+	"zc1_m2"
+	{
+		"en"		"旧市场/Market"
+	}
+	"zc1_m3"
+	{
+		"en"		"城中村/Village"
+	}
+	"zc1_m4"
+	{
+		"en"		"小巷/Alley"
+	}
+	"zc1_m5"
+	{
+		"en"		"东门桥/Bridge"
+	}
+	"newredux_map1"
+	{
+		"en"		"屋顶（Rooftops）"
+	}
+	"newredux_map2"
+	{
+		"en"		"枪店（Gunshop）"
+	}
+	"newredux_map3"
+	{
+		"en"		"监狱（Prison）"
+	}
+	"newredux_map4"
+	{
+		"en"		"仓储设施（Storage Facility）"
+	}
+	"o_hell_m1"
+	{
+		"en"		"入口"
+	}
+	"o_hell_m2"
+	{
+		"en"		"前段"
+	}
+	"o_hell_m3"
+	{
+		"en"		"中段"
+	}
+	"o_hell_m4"
+	{
+		"en"		"高塔"
+	}
+	"o_hell_m5"
+	{
+		"en"		"后段"
+	}
+	"o_hell_m6"
+	{
+		"en"		"深处"
+	}
+	"manman"
+	{
+		"en"		"起始"
+	}
+	"manman_2"
+	{
+		"en"		"飞跃"
+	}
+	"manman_3"
+	{
+		"en"		"死亡"
+	}
+	"lego2_town_01"
+	{
+		"en"		"小镇（Town）"
+	}
+	"lego2_tunnels_02"
+	{
+		"en"		"隧道（Tunnels）"
+	}
+	"lego2_wastelands_03"
+	{
+		"en"		"荒地（Wastelands）"
+	}
+	"lego2_urban_04_d"
+	{
+		"en"		"城市（City）"
+	}
+	"lego2_towerfinale_05"
+	{
+		"en"		"高塔（Tower）"
+	}
+	"oasis"
+	{
+		"en"		"绿洲（oasis）"
+	}
+	"pit"
+	{
+		"en"		"坑（pit）"
+	}
+	"drains"
+	{
+		"en"		"排水沟（drains）"
+	}
+	"hole"
+	{
+		"en"		"洞（hole）"
+	}
+	"drone"
+	{
+		"en"		"无人机（drone）"
+	}
+	"l4d_deadline02"
+	{
+		"en"		"截止日期2（Dead Line Survival）"
+	}
+	"requiem_01"
+	{
+		"en"		"阿莱夫（Aleph）"
+	}
+	"requiem_02"
+	{
+		"en"		"扬升（Ascension）"
+	}
+	"requiem_03"
+	{
+		"en"		"仙花园（Immortal Garden）"
+	}
+	"requiem_04"
+	{
+		"en"		"博物馆之夜（Night at the Museum）"
+	}
+	"requiem_05"
+	{
+		"en"		"钢珠跑（Steel Ball Run）"
+	}
+	"c1m1_outerbayous"
+	{
+		"en"		"1：海湾（1: Gulf）"
+	}
+	"c1m2_brackishintermediate"
+	{
+		"en"		"2：咸味（2: Brackish）"
+	}
+	"c1m3_squallline"
+	{
+		"en"		"3：淹没的沼泽（3: Flooded Swamp）"
+	}
+	"c1m4_settlement"
+	{
+		"en"		"4：结算（4: Settlement）"
+	}
+	"c1m5_interstate_10"
+	{
+		"en"		"5：休息站（5: Rest Stop）"
+	}
+	"city"
+	{
+		"en"		"城市"
+	}
+	"fly"
+	{
+		"en"		"飞（fly）"
+	}
+	"rush"
+	{
+		"en"		"长城"
+	}
+	"end"
+	{
+		"en"		"花村"
+	}
+	"gr-mapone-7"
+	{
+		"en"		"公寓（Apartments）"
+	}
+	"gasrunpart2"
+	{
+		"en"		"城市（The City）"
+	}
+	"evac2"
+	{
+		"en"		"依凡克（Evac）"
+	}
+	"gasrun"
+	{
+		"en"		"逃生（Escape）"
+	}
+	"neon_prime_01"
+	{
+		"en"		"地铁2069（Metro 2069）"
+	}
+	"neon_prime_02"
+	{
+		"en"		"网络绿洲（Cyber Oasis）"
+	}
+	"neon_prime_02b"
+	{
+		"en"		"网格（The Grid）"
+	}
+	"neon_prime_03"
+	{
+		"en"		"超越（Outrun）"
+	}
+	"gbt1testmap"
+	{
+		"en"		"随机序列（RandomSequence）"
+	}
+	"l4d_zelda01"
+	{
+		"en"		"1级鹰（Level 1 EAGLE）"
+	}
+	"l4d_zelda02"
+	{
+		"en"		"2级月球（Level 2 MOON）"
+	}
+	"factory"
+	{
+		"en"		"工厂（Factory）"
+	}
+	"escape"
+	{
+		"en"		"逃生（Escape）"
+	}
+	"serenity"
+	{
+		"en"		"宁静（Serenity）"
+	}
+	"out_of_air"
+	{
+		"en"		"没有空气（Out_of_air）"
+	}
+	"soul_survivor"
+	{
+		"en"		"灵魂幸存者（Soul_survivor）"
+	}
+	"jiangmmenxinhuai_1"
+	{
+		"en"		"技师学院"
+	}
+	"jiangmmenxinhuai_x2"
+	{
+		"en"		"玉湖"
+	}
+	"jiangmmenxinhuai_2_1_d"
+	{
+		"en"		"人民大会堂"
+	}
+	"jiangmmenxinhuai_3_1"
+	{
+		"en"		"星汇广场"
+	}
+	"jiangmenxinuai_xuxi"
+	{
+		"en"		"作者房间"
+	}
+	"bru_m1"
+	{
+		"en"		"1：城镇（1：城镇（VS））"
+	}
+	"bru_m2"
+	{
+		"en"		"2：大厦（2：大厦（VS））"
+	}
+	"bru_m3"
+	{
+		"en"		"3：花园（3：花园（VS））"
+	}
+	"bru_m4"
+	{
+		"en"		"4：大厦（4：大厦（VS））"
+	}
+	"bru_m5"
+	{
+		"en"		"5：顶层？（5：顶层？(VS)）"
+	}
+	"winter_chapter_1"
+	{
+		"en"		"蓝色直升机（Blue Helicopter）"
+	}
+	"winter_map_2"
+	{
+		"en"		"坦克洞穴（TheTankCave）"
+	}
+	"zima_map_3"
+	{
+		"en"		"认识圣诞老人（Meet The Santa）"
+	}
+	"rwtower_c1"
+	{
+		"en"		"檐篷（Canopies）"
+	}
+	"rwtower_c2"
+	{
+		"en"		"卢比孔河（Rubicon）"
+	}
+	"Squidtastic"
+	{
+		"en"		"萨尔托·德·FE（Salto de FE）"
+	}
+	"Squidtastic2"
+	{
+		"en"		"坦克库达多（Cuidado con el Tank）"
+	}
+	"Squidtastic3"
+	{
+		"en"		"埃尔西林德罗（El cilindro）"
+	}
+	"Squidtastic4"
+	{
+		"en"		"米西奥内斯（Misiones）"
+	}
+	"Squidtastic5"
+	{
+		"en"		"160"
+	}
+	"Squidtastic6"
+	{
+		"en"		"MPVQPC"
+	}
+	"bmbw_01"
+	{
+		"en"		"Xen"
+	}
+	"bmbw_02"
+	{
+		"en"		"闯入者（Interloper）"
+	}
+	"bmbw_03"
+	{
+		"en"		"蜂巢（The Hive）"
+	}
+	"bmbw_04"
+	{
+		"en"		"跨境（Bordercrossing）"
+	}
+	"part1_facility"
+	{
+		"en"		"化学设施（Chemical Facility）"
+	}
+	"part2_archives"
+	{
+		"en"		"档案馆 / 仓库（Archives / Depot）"
+	}
+	"part3_control"
+	{
+		"en"		"控制室 / 洞穴（Control / Cavern）"
+	}
+	"part4_cradle"
+	{
+		"en"		"天线基座（Antenna Cradle）"
+	}
+	"l4d2_city17_01"
+	{
+		"en"		"1: 隧道（1: Tunnels）"
+	}
+	"l4d2_city17_02"
+	{
+		"en"		"2: 前往地表（2: To the surface）"
+	}
+	"l4d2_city17_03"
+	{
+		"en"		"3: 街道（3: Streets）"
+	}
+	"l4d2_city17_04"
+	{
+		"en"		"4：医院（4: Hospital）"
+	}
+	"l4d2_city17_05"
+	{
+		"en"		"5: 火车站（5: Trainstation）"
+	}
+	"baka2_1"
+	{
+		"en"		"第一阶段时髦跑酷（Stage 1   Funky Parkour）"
+	}
+	"baka2_2"
+	{
+		"en"		"第二阶段时髦酷刑（Stage 2   Funky Torture）"
+	}
+	"baka2_3"
+	{
+		"en"		"第 3 阶段 Nitori 的时髦商店（Stage 3   Nitori's Funky Shop）"
+	}
+	"baka2_4"
+	{
+		"en"		"时髦的第 4 阶段斜坡（Stage 4   Slope of Funky）"
+	}
+	"baka2_5"
+	{
+		"en"		"第五阶段时髦刺客（Stage 5   Funky Assassin）"
+	}
+	"baka2_6"
+	{
+		"en"		"第六阶段时髦逃脱（Stage 6   Funky Escape）"
+	}
+	"baka2_7"
+	{
+		"en"		"Stage EX 时髦展览（Stage EX   Funky Exhibition）"
+	}
+	"baka3_1"
+	{
+		"en"		"1. Sea of Funky / Funky海"
+	}
+	"baka3_7"
+	{
+		"en"		"2. Lunatic Funky / 月狂的Funky"
+	}
+	"baka3_2"
+	{
+		"en"		"3. Forest of Funky / Funky森林"
+	}
+	"baka3_3"
+	{
+		"en"		"4. Funkyrinth / Funky迷宫"
+	}
+	"baka3_4"
+	{
+		"en"		"5. Funky Orange / Funky橙光"
+	}
+	"baka3_5"
+	{
+		"en"		"6. Funky Boss / Funky关底"
+	}
+	"baka3_6"
+	{
+		"en"		"EX. Funky Lake / Funky之湖"
+	}
+	"l4d2_planb1_v051"
+	{
+		"en"		"接触（Exposure）"
+	}
+	"l4d2_planb2_v051"
+	{
+		"en"		"Exploration"
+	}
+	"l4d2_planb3_v051"
+	{
+		"en"		"Exfiltration"
+	}
+	"hehe30_1"
+	{
+		"en"		"超速"
+	}
+	"hehe30_2"
+	{
+		"en"		"步步高升"
+	}
+	"hehe30_3"
+	{
+		"en"		"死亡漏斗"
+	}
+	"hehe30_4"
+	{
+		"en"		"机枪陷阱"
+	}
+	"hehe30_5"
+	{
+		"en"		"盘龙湾"
+	}
+	"hehe30_6"
+	{
+		"en"		"狙"
+	}
+	"hehe30_7"
+	{
+		"en"		"hehe回忆录1"
+	}
+	"hehe30_8"
+	{
+		"en"		"冰蚊香燃烧"
+	}
+	"hehe30_9"
+	{
+		"en"		"海上列车"
+	}
+	"hehe30_10"
+	{
+		"en"		"地府入口"
+	}
+	"hehe30_11"
+	{
+		"en"		"失心疯"
+	}
+	"hehe30_12"
+	{
+		"en"		"真管道恐惧"
+	}
+	"hehe30_13"
+	{
+		"en"		"楼梯谜题"
+	}
+	"hehe30_14"
+	{
+		"en"		"小橙图"
+	}
+	"hehe30_15"
+	{
+		"en"		"下山"
+	}
+	"hehe30_16"
+	{
+		"en"		"角斗场"
+	}
+	"hehe30_17"
+	{
+		"en"		"多重挑战"
+	}
+	"hehe30_18"
+	{
+		"en"		"沙漠-尘埃"
+	}
+	"hehe30_19"
+	{
+		"en"		"迷雾小镇"
+	}
+	"hehe30_20"
+	{
+		"en"		"丛林"
+	}
+	"hehe30_21"
+	{
+		"en"		"迷宫"
+	}
+	"hehe30_22"
+	{
+		"en"		"考研"
+	}
+	"hehe30_23"
+	{
+		"en"		"考公"
+	}
+	"hehe30_24"
+	{
+		"en"		"牛子山"
+	}
+	"hehe30_25"
+	{
+		"en"		"shenmejb-mini"
+	}
+	"hehe30_26"
+	{
+		"en"		"下班"
+	}
+	"hehe30_27"
+	{
+		"en"		"油罐挑战"
+	}
+	"hehe30_28"
+	{
+		"en"		"简单游戏"
+	}
+	"hehe30_29"
+	{
+		"en"		"十殿阎罗"
+	}
+	"hehe30_30"
+	{
+		"en"		"虚毛地图"
+	}
+	"hehe30_31"
+	{
+		"en"		"乱纪元"
+	}
+	"hehe30_32"
+	{
+		"en"		"巨人办公室"
+	}
+	"hehe30_33"
+	{
+		"en"		"死亡考场"
+	}
+	"hehe30_34"
+	{
+		"en"		"绝望漩涡"
+	}
+	"hehe30_35"
+	{
+		"en"		"费城博物馆"
+	}
+	"hehe30_36"
+	{
+		"en"		"佐伊的复仇"
+	}
+	"hehe30_37"
+	{
+		"en"		"铜墙铁壁"
+	}
+	"hehe30_38"
+	{
+		"en"		"迷宫（maze）"
+	}
+	"hehe30_39"
+	{
+		"en"		"胖胖的礼物"
+	}
+	"hehe30_40"
+	{
+		"en"		"杀死晨晨"
+	}
+	"hehe30_41"
+	{
+		"en"		"血月"
+	}
+	"hehe30_42"
+	{
+		"en"		"天梯难又难"
+	}
+	"hehe30_43"
+	{
+		"en"		"恶魔熔炉"
+	}
+	"hehe30_44"
+	{
+		"en"		"大乐购（Big Tesco）"
+	}
+	"hehe30_45"
+	{
+		"en"		"征服地狱"
+	}
+	"hehe30_46"
+	{
+		"en"		"感谢"
+	}
+	"hehe30_39_sdyjq"
+	{
+		"en"		"胖胖礼物-速度与激情"
+	}
+	"hehe30_39_pzwx"
+	{
+		"en"		"胖胖礼物-胖子蚊香"
+	}
+	"hehe30_39_zjdb"
+	{
+		"en"		"胖胖礼物-拯救大兵宝儿"
+	}
+	"hehe30_39_xiaoguan"
+	{
+		"en"		"hehe30_39_xiaoguan"
+	}
+	"hehe30_39_old"
+	{
+		"en"		"呵呵30_39_old（hehe30_39_old）"
+	}
+	"hehe36_1"
+	{
+		"en"		"湖泊"
+	}
+	"hehe36_2"
+	{
+		"en"		"水域陷阱"
+	}
+	"hehe36_3"
+	{
+		"en"		"颜色地狱"
+	}
+	"hehe36_4"
+	{
+		"en"		"过关斩将"
+	}
+	"hehe36_5"
+	{
+		"en"		"电梯平台"
+	}
+	"hehe36_paintrain"
+	{
+		"en"		"列车"
+	}
+	"hehe36_paincar"
+	{
+		"en"		"汽车"
+	}
+	"hehe36_hehebox"
+	{
+		"en"		"多彩星空"
+	}
+	"Doomsday_coming_m1"
+	{
+		"en"		"乡村"
+	}
+	"Doomsday_coming_m2"
+	{
+		"en"		"橙色站台"
+	}
+	"hehe36_222"
+	{
+		"en"		"牛子蚊香"
+	}
+	"hehe36jiuyuan"
+	{
+		"en"		"救援"
+	}
+	"hehe38_1"
+	{
+		"en"		"黑暗鲲叫"
+	}
+	"hehe38_2"
+	{
+		"en"		"鲲城"
+	}
+	"hehe38_3"
+	{
+		"en"		"鲲娱乐城"
+	}
+	"hehe38_4"
+	{
+		"en"		"鲲教城"
+	}
+	"hehe38_5"
+	{
+		"en"		"鲲遗迹"
+	}
+	"hehe38_6"
+	{
+		"en"		"鲲研究机构"
+	}
+	"hehe38_7"
+	{
+		"en"		"鲲瞭旺城"
+	}
+	"hehe40_1"
+	{
+		"en"		"梦西山庄"
+	}
+	"hehe40_2"
+	{
+		"en"		"呵呵古堡"
+	}
+	"hehe40_3"
+	{
+		"en"		"橙色游戏"
+	}
+	"hehe40_4"
+	{
+		"en"		"变异特感"
+	}
+	"hehe40_5"
+	{
+		"en"		"私人地牢"
+	}
+	"hehe40_6"
+	{
+		"en"		"鼠胆龙威"
+	}
+	"hehe40_7"
+	{
+		"en"		"雾中克"
+	}
+	"hehe40_8"
+	{
+		"en"		"逃至山上"
+	}
+	"hehe40_9"
+	{
+		"en"		"Funky之坡52"
+	}
+	"hehe40_10"
+	{
+		"en"		"潜艇基地"
+	}
+	"hehe40_11"
+	{
+		"en"		"法乌克斯要塞"
+	}
+	"hehe40_12"
+	{
+		"en"		"解密"
+	}
+	"hehe40_13"
+	{
+		"en"		"苞谷地传奇"
+	}
+	"hehe40_14"
+	{
+		"en"		"Tank篮球"
+	}
+	"hehe40_15"
+	{
+		"en"		"越南沼泽"
+	}
+	"hehe40_16"
+	{
+		"en"		"疯狂的麦克斯"
+	}
+	"c20m1_bunker_k"
+	{
+		"en"		"地堡（The Bunker）"
+	}
+	"c20m2_underground_k"
+	{
+		"en"		"地下世界（The Underground）"
+	}
+	"c20m3_city_k"
+	{
+		"en"		"城市（City）"
+	}
+	"c20m4_city2_k"
+	{
+		"en"		"City2"
+	}
+	"c20m5_lab_k"
+	{
+		"en"		"实验室（The Lab）"
+	}
+	"c20m6_dawn_k"
+	{
+		"en"		"黎明（The Dawn）"
+	}
+	"lastbreath_m1"
+	{
+		"en"		"健身中心（Fitness Center）"
+	}
+	"lastbreath_m2"
+	{
+		"en"		"地下设施（Underground Facility）"
+	}
+	"lastbreath_m3"
+	{
+		"en"		"Subway"
+	}
+	"lastbreath_m4"
+	{
+		"en"		"逃生（Escape）"
+	}
+	"ASH1"
+	{
+		"en"		"常态（Normality）"
+	}
+	"ASH2"
+	{
+		"en"		"模糊（Ambiguity）"
+	}
+	"ASH3"
+	{
+		"en"		"担忧（Concern）"
+	}
+	"ASH4"
+	{
+		"en"		"接种（Inoculation）"
+	}
+	"ASH5"
+	{
+		"en"		"效果（effectiveness）"
+	}
+	"l4d2_7hours_later_01"
+	{
+		"en"		"1) Forest"
+	}
+	"l4d2_7hours_later_02"
+	{
+		"en"		"2) 大桥（2) Bridge）"
+	}
+	"l4d2_7hours_later_03"
+	{
+		"en"		"3）森林公路（3) Forest highway）"
+	}
+	"l4d2_7hours_later_04"
+	{
+		"en"		"4) 工厂（4) Factory）"
+	}
+	"l4d2_7hours_later_05"
+	{
+		"en"		"5）森林机场（5) Forest airport）"
+	}
+	"l4d_almacen001_almacenext"
+	{
+		"en"		"仓库（Warehouse）"
+	}
+	"l4d_almacen002_caminoext"
+	{
+		"en"		"工业区（The Industrial Area）"
+	}
+	"l4d_almacen003_waterworksext"
+	{
+		"en"		"排水区（The Drainage）"
+	}
+	"l4d_almacen004_arbolesext"
+	{
+		"en"		"森林（The Woods）"
+	}
+	"l4d2_tgtn02_northaveext"
+	{
+		"en"		"北僵尸大道（North Zombie Ave.）"
+	}
+	"l4d2_tgtn01_fridayroadext"
+	{
+		"en"		"末日公路（Apocalypse Rd.）"
+	}
+	"l4d2_mimp1"
+	{
+		"en"		"1：登陆岛屿（1: Land on islands）"
+	}
+	"l4d2_mimp2"
+	{
+		"en"		"2: Cliff Highway"
+	}
+	"l4d2_mimp3"
+	{
+		"en"		"3: Underground passage"
+	}
+	"l4d2_mimp4"
+	{
+		"en"		"4: Abandoned base"
+	}
+	"l4d2_mimp5"
+	{
+		"en"		"5: The forest"
+	}
+	"l4d2_mimp6"
+	{
+		"en"		"6：矿山救援（6: Mine rescue）"
+	}
+	"sn_m1"
+	{
+		"en"		"1:港口"
+	}
+	"sn_m2"
+	{
+		"en"		"幸存者聚集地（2:The Wave Hotel）"
+	}
+	"sn_m3"
+	{
+		"en"		"3:CEDA接管区"
+	}
+	"sn_m4"
+	{
+		"en"		"4:返回旅馆"
+	}
+	"sn_m5GE"
+	{
+		"en"		"5G:音乐会"
+	}
+	"sn_m5BE"
+	{
+		"en"		"5B:屋顶"
+	}
+	"gg1"
+	{
+		"en"		"1:The Rooftop"
+	}
+	"gg2"
+	{
+		"en"		"2:下水道（2:The Sewer）"
+	}
+	"gg3"
+	{
+		"en"		"3：幕后？（3:Backroom?）"
+	}
+	"gg4"
+	{
+		"en"		"4：幕后？又来了？（4:Backroom?again?）"
+	}
+	"gg5"
+	{
+		"en"		"5：地下隧道（5:Underground tunne）"
+	}
+	"gg6"
+	{
+		"en"		"6：最后……（6:Finally...）"
+	}
+	"ccbn_offices"
+	{
+		"en"		"1：办公室（1: Offices）"
+	}
+	"ccbn_flooded"
+	{
+		"en"		"2：被水淹没（2: Flooded）"
+	}
+	"ccbn_old_hospital"
+	{
+		"en"		"3：老医院（3: Old Hospital）"
+	}
+	"ccbn_skyline"
+	{
+		"en"		"4：天际线（4: Skyline）"
+	}
+	"legow_01"
+	{
+		"en"		"地图1（Map 1）"
+	}
+	"legow_02"
+	{
+		"en"		"地图2（Map 2）"
+	}
+	"legow_03"
+	{
+		"en"		"地图3（Map 3）"
+	}
+	"legow_04"
+	{
+		"en"		"地图4（Map 4）"
+	}
+	"legow2_m1"
+	{
+		"en"		"1:城市"
+	}
+	"legow2_m2"
+	{
+		"en"		"2:地铁"
+	}
+	"legow2_m3"
+	{
+		"en"		"3:学校"
+	}
+	"legow2_m4"
+	{
+		"en"		"4:工厂"
+	}
+	"legow2_m5"
+	{
+		"en"		"5:海边"
+	}
+	"de_donnelley_m1"
+	{
+		"en"		"唐纳利（donnelley）"
+	}
+	"de_jakobson_m2"
+	{
+		"en"		"雅各布森（jakobson）"
+	}
+	"de_esther_m3"
+	{
+		"en"		"以斯帖（esther）"
+	}
+	"de_paul_m4"
+	{
+		"en"		"保罗（paul）"
+	}
+	"pt2_overgrown_m1"
+	{
+		"en"		"被毁（Destroyed）"
+	}
+	"pt2_overgrown_m2"
+	{
+		"en"		"钱伯斯（Chambers）"
+	}
+	"pt2_overgrown_m3"
+	{
+		"en"		"过渡（Transition）"
+	}
+	"pt2_overgrown_m4"
+	{
+		"en"		"外面（Outside）"
+	}
+	"London_Suburbs"
+	{
+		"en"		"1：郊区（1: Suburbs）"
+	}
+	"london_subway2"
+	{
+		"en"		"2：地下（2: Undergroud）"
+	}
+	"london_center2"
+	{
+		"en"		"3：中心（3: Center）"
+	}
+	"l4d2_palaciobuck3"
+	{
+		"en"		"4：白金汉（4: buckingham）"
+	}
+	"summer01_0"
+	{
+		"en"		"序章"
+	}
+	"summer01_1"
+	{
+		"en"		"小镇"
+	}
+	"summer01_2"
+	{
+		"en"		"村"
+	}
+	"summer01_3"
+	{
+		"en"		"山"
+	}
+	"l4d2_downtowndine01"
+	{
+		"en"		"法院大楼（The Court House）"
+	}
+	"l4d2_downtowndine02"
+	{
+		"en"		"餐厅（The Diner）"
+	}
+	"l4d2_downtowndine04"
+	{
+		"en"		"爵士俱乐部和公寓（The Jazzclub and Apartments）"
+	}
+	"l4d2_downtowndine05"
+	{
+		"en"		"逃生（The Escape）"
+	}
+	"l4d2_street"
+	{
+		"en"		"街道（Street）"
+	}
+	"l4d2maps_dust1"
+	{
+		"en"		"灰尘1（DUST1）"
+	}
+	"l4d2maps_dust2"
+	{
+		"en"		"灰尘2（DUST2）"
+	}
+	"l4d2maps_aztec"
+	{
+		"en"		"阿兹特克（AZTEC）"
+	}
+	"l4d2maps_inferno"
+	{
+		"en"		"地狱（INFERNO）"
+	}
+	"l4d2maps_estate"
+	{
+		"en"		"庄园（ESTATE）"
+	}
+	"l4d2_mapbgt"
+	{
+		"en"		"八卦掌（BAGUA）"
+	}
+	"grmap1"
+	{
+		"en"		"故障（Breakdown）"
+	}
+	"gridmap2"
+	{
+		"en"		"入口匝道（On-ramp）"
+	}
+	"gridmap3"
+	{
+		"en"		"69号出口（Exit 69）"
+	}
+	"grid4"
+	{
+		"en"		"卡车站（Truck Stop）"
+	}
+	"l4d_MIC2_TrapmentD"
+	{
+		"en"		"陷阱（Trapment）"
+	}
+	"l4d_mic2_decentd"
+	{
+		"en"		"体面的（Decent）"
+	}
+	"l4d_mic2_bunker_part1"
+	{
+		"en"		"地堡第1部分（Bunker Part1）"
+	}
+	"l4d_mic2_bunker_part2"
+	{
+		"en"		"地堡第二部分（Bunker Part2）"
+	}
+	"l4d_mic2_Inter_Vention"
+	{
+		"en"		"干预（Inter Vention）"
+	}
+	"l4d2_icecanyon1"
+	{
+		"en"		"峡谷（Gorge）"
+	}
+	"l4d2_icecanyon2"
+	{
+		"en"		"结冰的湖（Frozen Lake）"
+	}
+	"l4d2_icecanyon3"
+	{
+		"en"		"边缘深渊（Edge Abyss）"
+	}
+	"l4d2_icecanyon4"
+	{
+		"en"		"圣诞树（Christmas Tree）"
+	}
+	"l4d2_freezing_dc_01"
+	{
+		"en"		"1：低于零（1: Below Zero）"
+	}
+	"l4d2_freezing_dc_02"
+	{
+		"en"		"2：老宅邸（2: Old Mansion）"
+	}
+	"l4d2_freezing_dc_03"
+	{
+		"en"		"3: 综合设施（3: The Complex）"
+	}
+	"l4d2_freezing_dc_04"
+	{
+		"en"		"4：秘密实验室（4: Secret Lab）"
+	}
+	"l4d2_freezing_dc_05"
+	{
+		"en"		"5：挑战结局（5: Gauntlet Finale）"
+	}
+	"fbc_1"
+	{
+		"en"		"1：街道"
+	}
+	"fbc_2"
+	{
+		"en"		"2：山谷"
+	}
+	"fbc_3"
+	{
+		"en"		"3：覆雪平原"
+	}
+	"fbc_4"
+	{
+		"en"		"4：冰锥高原"
+	}
+	"fbc_5"
+	{
+		"en"		"5：滑雪追击"
+	}
+	"fbc_6"
+	{
+		"en"		"6：极寒冰窟"
+	}
+	"fbc_7"
+	{
+		"en"		"7：回归（7：回归(Outro)）"
+	}
+	"fbc_6_survival"
+	{
+		"en"		"极寒冰窟"
+	}
+	"li_c1m1_mainsquare"
+	{
+		"en"		"武器广场曹斯（Caos en Plaza de Armas）"
+	}
+	"li_c1m2_streets"
+	{
+		"en"		"桑格雷恩普耶斯塔罗莎（Sangre en Pje Sta Rosa）"
+	}
+	"li_c1m3_civiccenter"
+	{
+		"en"		"科拉普索市政中心（Colapso en Centro Civico）"
+	}
+	"li_c1m4_jcterminal"
+	{
+		"en"		"豪尔赫·查韦斯逃脱（Escape en Jorge Chavez）"
+	}
+	"li_c1m5_jcrunway"
+	{
+		"en"		"死亡之路（Pista de la muerte）"
+	}
+	"exempt_dontfall_update_c1"
+	{
+		"en"		"上升（Ascent）"
+	}
+	"exempt_dontfall_update"
+	{
+		"en"		"屋顶（Rooftops）"
+	}
+	"bhm1_outskirts"
+	{
+		"en"		"1. 郊外（1. The Outskirts）"
+	}
+	"bhm2_dam"
+	{
+		"en"		"2. 大坝（2. The Dam）"
+	}
+	"bhm3_station"
+	{
+		"en"		"3. 车站（3. The Station）"
+	}
+	"bhm4_base"
+	{
+		"en"		"4. 基地（4. The Base）"
+	}
+	"l4d2_kinkm1"
+	{
+		"en"		"湿热身（Wet Warming Up）"
+	}
+	"l4d2_kinkm2"
+	{
+		"en"		"疼吗？（Does it Hurt?）"
+	}
+	"l4d2_kinkm3"
+	{
+		"en"		"冲冲冲冲（Rush 'n' Flush）"
+	}
+	"l4d2_kinkm4"
+	{
+		"en"		"这就是圣灵！（That's the Spirit!）"
+	}
+	"nc_forest"
+	{
+		"en"		"大河（Taiga）"
+	}
+	"nc_littletown"
+	{
+		"en"		"小小镇（Little Town）"
+	}
+	"nc_esqape"
+	{
+		"en"		"广场（Square）"
+	}
+	"nc_helicopter"
+	{
+		"en"		"消防局（Fire Station）"
+	}
+	"mrr_01_darkforest"
+	{
+		"en"		"黑暗森林（Dark Forest）"
+	}
+	"mrr_02_schoolsout"
+	{
+		"en"		"学校外出（Schools Out）"
+	}
+	"mrr_03_alleys"
+	{
+		"en"		"小巷（Alleys）"
+	}
+	"mrr_04_stationfinale"
+	{
+		"en"		"站终局（Station Finale）"
+	}
+	"half_life_escape_2_1"
+	{
+		"en"		"HLE2_m1"
+	}
+	"half_life_escape_2_2"
+	{
+		"en"		"HLE2_m2"
+	}
+	"half_life_escape_2_3"
+	{
+		"en"		"HLE2_m3"
+	}
+	"half_life_escape_2_4"
+	{
+		"en"		"HLE2_m4"
+	}
+	"half_life_escape_2_5"
+	{
+		"en"		"HLE2_m5"
+	}
+	"half_life_escape_1"
+	{
+		"en"		"HLE1"
+	}
+	"half_life_escape_2"
+	{
+		"en"		"HLE2"
+	}
+	"half_life_escape_3"
+	{
+		"en"		"HLE3"
+	}
+	"half_life_escape_4"
+	{
+		"en"		"HLE4"
+	}
+	"half_life_escape_5"
+	{
+		"en"		"HLE5"
+	}
+	"indiana_adventure"
+	{
+		"en"		"线路（The Line）"
+	}
+	"indiana_adventure2"
+	{
+		"en"		"骑行（The Ride）"
+	}
+	"indiana_adventure3"
+	{
+		"en"		"逃生（The Escape）"
+	}
+	"indiana_adventure_whole"
+	{
+		"en"		"自由滑行（Freeride）"
+	}
+	"ins_m1_buhriz"
+	{
+		"en"		"布赫里兹（buhriz）"
+	}
+	"ins_m2_district1"
+	{
+		"en"		"区1（district1）"
+	}
+	"ins_m3_district2"
+	{
+		"en"		"区2（district2）"
+	}
+	"ins_m4_revolt"
+	{
+		"en"		"反抗（revolt）"
+	}
+	"ins_m5_tell"
+	{
+		"en"		"告诉（tell）"
+	}
+	"ins_m6_ministry"
+	{
+		"en"		"部委（ministry）"
+	}
+	"persecucion"
+	{
+		"en"		"只有一种方法（There is only one way）"
+	}
+	"persecucion_versus"
+	{
+		"en"		"只有一种方法——VS（There is only one way - Versus）"
+	}
+	"persecucion_survival"
+	{
+		"en"		"只有一种方法——生存（There is only one way - Survival）"
+	}
+	"anemoia_party"
+	{
+		"en"		"派对（Party）"
+	}
+	"anemoia_poolrooms"
+	{
+		"en"		"泳池房（PoolRooms）"
+	}
+	"anemoia_poolrooms2"
+	{
+		"en"		"泳池房（PoolRooms）"
+	}
+	"anemoia_kitty"
+	{
+		"en"		"凯蒂跑 ¡ 麦片？（kitty Run ¿cereal?）"
+	}
+	"anemoia_arcade"
+	{
+		"en"		"交朋友的好地方（A good place to make friends）"
+	}
+	"anemoia_reality"
+	{
+		"en"		"现实！（reality!）"
+	}
+	"lf1_one_backrooms"
+	{
+		"en"		"1：一间密室（1: One Backrooms）"
+	}
+	"lf2_two_backrooms"
+	{
+		"en"		"2：两个密室（2: Two Backrooms）"
+	}
+	"lf3_three_poolrooms"
+	{
+		"en"		"3：三间台球室（3: Three Poolrooms）"
+	}
+	"lf4_unknown"
+	{
+		"en"		"4：未知（4: Unknown）"
+	}
+	"lf5_end"
+	{
+		"en"		"5：结束（5: End）"
+	}
+	"The_Begining"
+	{
+		"en"		"1：开始（1:The Begining）"
+	}
+	"The_Dream"
+	{
+		"en"		"2：梦想（2:The Dream）"
+	}
+	"The_Continue"
+	{
+		"en"		"3：继续（3:The Continue）"
+	}
+	"The_Escape"
+	{
+		"en"		"4：逃亡（4:The Escape）"
+	}
+	"oot_forest"
+	{
+		"en"		"科奇里森林（Kokiri Forest）"
+	}
+	"oot_temple"
+	{
+		"en"		"森林神庙（The Forest Temple）"
+	}
+	"oot_boss"
+	{
+		"en"		"森林神殿的Boss（Forest Temple's Boss）"
+	}
+	"l4d_cardiff"
+	{
+		"en"		"1：道路（1: Road）"
+	}
+	"l4d_cardiff_2"
+	{
+		"en"		"2：玉米田（2: Cornfield）"
+	}
+	"l4d_cardiff_3"
+	{
+		"en"		"3: 街道（3: Streets）"
+	}
+	"l4d_cardiff_4"
+	{
+		"en"		"4：风暴（4: Storm）"
+	}
+	"l4d2_diescraper1_apartment_361"
+	{
+		"en"		"公寓大楼（Apartment complex）"
+	}
+	"l4d2_diescraper2_streets_361"
+	{
+		"en"		"市中心军事哨所（Downtown military outpost）"
+	}
+	"l4d2_diescraper3_mid_361"
+	{
+		"en"		"天空商城（The Skymall）"
+	}
+	"l4d2_diescraper4_top_361"
+	{
+		"en"		"顶级套房（The top suites）"
+	}
+	"nh2c1_port_c"
+	{
+		"en"		"NH2：第 1 章（NH2: Chapter 1）"
+	}
+	"nh2c2_port_c"
+	{
+		"en"		"NH2：第 2 章（NH2: Chapter 2）"
+	}
+	"nh2c3_port_c"
+	{
+		"en"		"NH2：第 3 章（NH2: Chapter 3）"
+	}
+	"nh2c4_port_c"
+	{
+		"en"		"NH2：第 4 章（NH2: Chapter 4）"
+	}
+	"nh2c5_port_c"
+	{
+		"en"		"NH2：第 5 章（NH2: Chapter 5）"
+	}
+	"l4d2_bts01_forest"
+	{
+		"en"		"1：森林（1: Forest）"
+	}
+	"l4d2_bts02_station"
+	{
+		"en"		"2: Railroad Station"
+	}
+	"l4d2_bts03_town"
+	{
+		"en"		"3: 小镇（3: Town）"
+	}
+	"l4d2_bts04_cinema"
+	{
+		"en"		"4：电影院（4: Cinema）"
+	}
+	"l4d2_bts05_church"
+	{
+		"en"		"5：教堂（5: Church）"
+	}
+	"l4d2_bts06_school"
+	{
+		"en"		"6：学校决赛（6: School Finale）"
+	}
+	"l4d2_echo"
+	{
+		"en"		"Echo"
+	}
+	"l4d2_ceda"
+	{
+		"en"		"CEDA"
+	}
+	"l4d2_hub"
+	{
+		"en"		"Hub"
+	}
+	"cixiucun_m1"
+	{
+		"en"		"1:燃料短缺"
+	}
+	"cixiucun_m2"
+	{
+		"en"		"2:通道堵塞"
+	}
+	"cixiucun_m3"
+	{
+		"en"		"3:供电危机"
+	}
+	"re_confused_m1"
+	{
+		"en"		"破墙而入"
+	}
+	"re_confused_m2"
+	{
+		"en"		"地狱城市"
+	}
+	"re_confused_m3"
+	{
+		"en"		"印象小镇"
+	}
+	"re_confused_m4"
+	{
+		"en"		"奔向黎明"
+	}
+	"l4d_powerstation_utg_01"
+	{
+		"en"		"The Underground Caverns"
+	}
+	"l4d_powerstation_utg_02"
+	{
+		"en"		"秘密设施（The Secret Facility）"
+	}
+	"l4d_powerstation_utg_03"
+	{
+		"en"		"秘密设施混乱（Secret Facility Mayhem）"
+	}
+	"l4d_powerstation_utg_04"
+	{
+		"en"		"秘密设施疯狂（Secret Facility Insanity）"
+	}
+	"l4d_powerstation_utg_05"
+	{
+		"en"		"坦帕湾畔逍遥游（Tampa Bayside Escape）"
+	}
+	"ugc_m1"
+	{
+		"en"		"地下通道（Underground）"
+	}
+	"ugc_m2"
+	{
+		"en"		"Sewer"
+	}
+	"ugc_m3"
+	{
+		"en"		"Entryway"
+	}
+	"ugc_m4"
+	{
+		"en"		"Railway"
+	}
+	"dxyl1"
+	{
+		"en"		"Tunnel"
+	}
+	"dxyl2"
+	{
+		"en"		"监狱（Prison）"
+	}
+	"dxyl3"
+	{
+		"en"		"反应堆（Reactor）"
+	}
+	"dxyl4"
+	{
+		"en"		"实验室（Lab）"
+	}
+	"dxyl4_f"
+	{
+		"en"		"地铁（Metro）"
+	}
+	"highway01_apt_20130613"
+	{
+		"en"		"Apartment 逃生（Apartment Escape）"
+	}
+	"highway02_megamart_20130613"
+	{
+		"en"		"Interstate 10"
+	}
+	"highway03_hood01_20130614"
+	{
+		"en"		"The Hood"
+	}
+	"highway04_afb_a_02_20130616"
+	{
+		"en"		"Basic Training"
+	}
+	"highway05_afb02_20130820"
+	{
+		"en"		"C17 Hangar"
+	}
+	"l4d2_ic01_forest"
+	{
+		"en"		"森林（The Forest）"
+	}
+	"l4d2_ic02_neighborhood"
+	{
+		"en"		"邻里（The Neighborhood）"
+	}
+	"l4d2_ic03_city"
+	{
+		"en"		"城市（The City）"
+	}
+	"l4d2_ic04_mall"
+	{
+		"en"		"商场（The Mall）"
+	}
+	"l4d2_ic05_skyscraper"
+	{
+		"en"		"摩天大楼（The Skyscraper）"
+	}
+	"l4d2_ic06_rooftop"
+	{
+		"en"		"The 屋顶（The Rooftop）"
+	}
+	"c4m1_mountains"
+	{
+		"en"		"1: 高速公路（1: Highway）"
+	}
+	"c4m2_desertporty"
+	{
+		"en"		"2: DesertAirport"
+	}
+	"c4m3_mine"
+	{
+		"en"		"3：机场出口（3: AirportExit）"
+	}
+	"c4m4_ship"
+	{
+		"en"		"4：混沌港（4: PortChaos）"
+	}
+	"c4m5_shipfinale"
+	{
+		"en"		"5：游轮（5: CruiseShip）"
+	}
+	"wth_1"
+	{
+		"en"		"热区（The HotZone）"
+	}
+	"WTH_2"
+	{
+		"en"		"墙（The Wall）"
+	}
+	"WTH_3"
+	{
+		"en"		"大桥（The Bridge）"
+	}
+	"WTH_4"
+	{
+		"en"		"小巷（The Alleys）"
+	}
+	"WTH_5"
+	{
+		"en"		"火车站终局（Trainstation Finale）"
+	}
+	"labirinferno_parte1"
+	{
+		"en"		"1: 地狱迷宫（1: Labirinferno）"
+	}
+	"labirinferno_parte2"
+	{
+		"en"		"2: 地狱迷宫（2: Labirinferno）"
+	}
+	"l4d2_fallindeath01"
+	{
+		"en"		"小小镇（Small Town）"
+	}
+	"l4d2_fallindeath02"
+	{
+		"en"		"森林（Forest）"
+	}
+	"l4d2_fallindeath03"
+	{
+		"en"		"山（Mountain）"
+	}
+	"l4d2_fallindeath04"
+	{
+		"en"		"缆车（Cablecar）"
+	}
+	"alejki"
+	{
+		"en"		"巷子狩猎（Alley Hunting）"
+	}
+	"baza"
+	{
+		"en"		"公寓杀人（Apartment Killing）"
+	}
+	"baza2"
+	{
+		"en"		"结局和逃脱！（Finale and ESCAPE!）"
+	}
+	"CCR1_alleys"
+	{
+		"en"		"小巷（Alleys）"
+	}
+	"CCR2_lots"
+	{
+		"en"		"很多（Lots）"
+	}
+	"CCR3_Factories"
+	{
+		"en"		"工厂（Factories）"
+	}
+	"CCR4_Waterworks"
+	{
+		"en"		"自来水厂（Waterworks）"
+	}
+	"CCR5_Storage_f"
+	{
+		"en"		"存储（Storage）"
+	}
+	"l4d_fallen01_approach"
+	{
+		"en"		"方法（Approach）"
+	}
+	"l4d_fallen02_trenches"
+	{
+		"en"		"战壕（Trenches）"
+	}
+	"l4d_fallen03_tower"
+	{
+		"en"		"高塔（Tower）"
+	}
+	"l4d_fallen04_cliff"
+	{
+		"en"		"悬崖（Cliff）"
+	}
+	"l4d_fallen05_shaft"
+	{
+		"en"		"轴（Shaft）"
+	}
+	"l4d2_tanksplayground"
+	{
+		"en"		"鸡舍（Coop）"
+	}
+	"l4d2_tanksplayground_surv_2_8"
+	{
+		"en"		"塔楼生存（Tower survival）"
+	}
+	"l4d2_tanksplayground_night"
+	{
+		"en"		"与夜间对比（Versus By Night）"
+	}
+	"Gasometer"
+	{
+		"en"		"煤气表（Gasometer）"
+	}
+	"Centro"
+	{
+		"en"		"中心（Centro）"
+	}
+	"Centro_Final"
+	{
+		"en"		"决赛（Final）"
+	}
+	"l4d2_cc_street_d"
+	{
+		"en"		"火之街道（Streets Of Fire）"
+	}
+	"l4d2_cc_basement_c"
+	{
+		"en"		"地下室恐怖（Basement Terror）"
+	}
+	"l4d2_cc_ascent_a"
+	{
+		"en"		"糖山僵尸（Sugarhill Zombos）"
+	}
+	"l4d2_cc_hotel"
+	{
+		"en"		"酒店、汽车旅馆、假日酒店（Hotel, Motel, Holiday Inn）"
+	}
+	"l4d2_cc_station-a"
+	{
+		"en"		"僵尸火车站（Zombie Train Station）"
+	}
+	"l4d2_cc_finale"
+	{
+		"en"		"屋顶逃生（Rooftop Escape）"
+	}
+	"ud_map01"
+	{
+		"en"		"开始（The Beginning）"
+	}
+	"ud_map02"
+	{
+		"en"		"工厂（The Factory）"
+	}
+	"ud_map03"
+	{
+		"en"		"航空区（Airzone）"
+	}
+	"ud_map04"
+	{
+		"en"		"幽灵小镇（Ghost Town）"
+	}
+	"ud_map05"
+	{
+		"en"		"要么跑，要么死！（Run or Die!）"
+	}
+	"uf1_boulevard"
+	{
+		"en"		"1：林荫大道（1: Boulevard）"
+	}
+	"uf2_rooftops"
+	{
+		"en"		"2：屋顶（2: Rooftops）"
+	}
+	"uf3_harbor"
+	{
+		"en"		"3：港口（3: Harbor）"
+	}
+	"uf4_airfield"
+	{
+		"en"		"4：机场（4: Airfield）"
+	}
+	"l4d_suburb01_school"
+	{
+		"en"		"1：学校体育馆（1: School Gym）"
+	}
+	"l4d_suburb02_campus"
+	{
+		"en"		"2：校园（2: Campus）"
+	}
+	"l4d_suburb03_neighborhood"
+	{
+		"en"		"3：体育场（3: Stadium）"
+	}
+	"dead_of_the_class_surv"
+	{
+		"en"		"体育场坚守（Stadium Holdout）"
+	}
+	"l4d2_cc_stranded"
+	{
+		"en"		"搁浅（Stranded）"
+	}
+	"l4d2_cc_sampling"
+	{
+		"en"		"取样（Sampling）"
+	}
+	"l4d2_cc_gauntlet"
+	{
+		"en"		"挑战（Gauntlet）"
+	}
+	"l4d2_cc_tower"
+	{
+		"en"		"高塔（Tower）"
+	}
+	"l4d2_cc_ai"
+	{
+		"en"		"人工智能（AI）"
+	}
+	"l4d2_cc_escape"
+	{
+		"en"		"逃生（Escape）"
+	}
+	"l4d2_cc_escape_sr"
+	{
+		"en"		"没有逃生（No Escape）"
+	}
+	"map_part1"
+	{
+		"en"		"集数：1（Episode: 1）"
+	}
+	"map_part2"
+	{
+		"en"		"集数：2（Episode: 2）"
+	}
+	"map_part3"
+	{
+		"en"		"集数：3（Episode: 3）"
+	}
+	"map_part4"
+	{
+		"en"		"集数：4（Episode: 4）"
+	}
+	"map_part5"
+	{
+		"en"		"集数：5（Episode: 5）"
+	}
+	"map_part6"
+	{
+		"en"		"集数：6（Episode: 6）"
+	}
+	"map_part7"
+	{
+		"en"		"集数：7（Episode: 7）"
+	}
+	"map_part8"
+	{
+		"en"		"集数：8（Episode: 8）"
+	}
+	"map_part9"
+	{
+		"en"		"集数：9（Episode: 9）"
+	}
+	"map_part10"
+	{
+		"en"		"集数：10（Episode: 10 (Final)）"
+	}
+	"nt01_mansion"
+	{
+		"en"		"封锁（Blockade）"
+	}
+	"nt02_haunts"
+	{
+		"en"		"鬼屋（Haunted Mansion）"
+	}
+	"nt03_moria"
+	{
+		"en"		"莫里亚（Moria）"
+	}
+	"nt04_jungleruins"
+	{
+		"en"		"丛林废墟（Jungle Ruins）"
+	}
+	"nt05_wake"
+	{
+		"en"		"唤醒（Wake）"
+	}
+	"bwm1_climb"
+	{
+		"en"		"1：攀爬（1: Climb）"
+	}
+	"bwm2_city"
+	{
+		"en"		"2: 城市（2: City）"
+	}
+	"bwm3_forest"
+	{
+		"en"		"3：森林（3: Forest）"
+	}
+	"bwm4_rooftops"
+	{
+		"en"		"4：屋顶（4: Rooftops）"
+	}
+	"bwm5_bridge"
+	{
+		"en"		"5: 大桥（5: Bridge）"
+	}
+	"c14m1_orchard"
+	{
+		"en"		"果园（Orchard）"
+	}
+	"c14m2_campground"
+	{
+		"en"		"露营地（Campground）"
+	}
+	"c14m3_dam"
+	{
+		"en"		"坝（Dam）"
+	}
+	"damitdc1"
+	{
+		"en"		"方法（Approach）"
+	}
+	"damitdc2"
+	{
+		"en"		"水边（Waterside）"
+	}
+	"damitdc3"
+	{
+		"en"		"化合物（Compound）"
+	}
+	"damitdc4"
+	{
+		"en"		"事后诸葛亮（Hindsight）"
+	}
+	"l4d2_motamap_m1"
+	{
+		"en"		"渗透（Infiltration）"
+	}
+	"l4d2_motamap_m2"
+	{
+		"en"		"A1-180 跑道（A1-180 Runway）"
+	}
+	"l4d2_motamap_m3"
+	{
+		"en"		"水坝停靠点（A Dam Stop）"
+	}
+	"l4d2_motamap_m4"
+	{
+		"en"		"地下震动（Underground Shake）"
+	}
+	"l4d2_motamap_m5"
+	{
+		"en"		"萃取（Extraction）"
+	}
+	"l4d_damitc01_orchard"
+	{
+		"en"		"1：果园（1: Orchard）"
+	}
+	"l4d_damitc02_campground"
+	{
+		"en"		"2：露营地（2: Campground）"
+	}
+	"l4d_damitc03_dam"
+	{
+		"en"		"3：水坝（3: Dam）"
+	}
+	"l4d_damitcsv_freighter"
+	{
+		"en"		"煤炭货轮（Coal Freighter）"
+	}
+	"l4d_damitcsv_highrise"
+	{
+		"en"		"高层建筑（Highrise）"
+	}
+	"hcw1_aircrash"
+	{
+		"en"		"1：空难（1: AirCrash）"
+	}
+	"hcw2_rivermotel"
+	{
+		"en"		"2: 河畔汽车旅馆（2: RiverMotel）"
+	}
+	"hcw3_outskirts"
+	{
+		"en"		"3：郊区（3: OutSkirts）"
+	}
+	"hcw4_cityhall"
+	{
+		"en"		"4：市政厅（4: CityHall）"
+	}
+	"hcw5_bombshelter"
+	{
+		"en"		"5：防空洞（5: BombShelter）"
+	}
+	"hls_05"
+	{
+		"en"		"天梯前段"
+	}
+	"hls_06"
+	{
+		"en"		"天梯中段"
+	}
+	"hls_07"
+	{
+		"en"		"天梯后段"
+	}
+	"hls_09"
+	{
+		"en"		"天梯顶部"
+	}
+	"hls_10"
+	{
+		"en"		"天梯前段"
+	}
+	"hls_11"
+	{
+		"en"		"天梯中段"
+	}
+	"hls_12"
+	{
+		"en"		"天梯缓层"
+	}
+	"hls_13"
+	{
+		"en"		"天梯后段"
+	}
+	"hls_14"
+	{
+		"en"		"天梯顶部"
+	}
+	"l4d2map_warehouse"
+	{
+		"en"		"仓库（warehouse）"
+	}
+	"l4d2_tower"
+	{
+		"en"		"塔（tower）"
+	}
+	"l4d2_wheel"
+	{
+		"en"		"轮子（wheel）"
+	}
+	"l4d2_town"
+	{
+		"en"		"镇（town）"
+	}
+	"l4d2_fs"
+	{
+		"en"		"决赛（final）"
+	}
+	"afterdark_part_01"
+	{
+		"en"		"天黑后第1章（After Dark Chapter 1）"
+	}
+	"afterdark_part_02"
+	{
+		"en"		"天黑后第二章（After Dark Chapter 2）"
+	}
+	"afterdark_part_03"
+	{
+		"en"		"天黑后第3章（After Dark Chapter 3）"
+	}
+	"SpaceJockeysbackup"
+	{
+		"en"		"太空骑师（Space Jockeys）"
+	}
+	"wh_welcome_to_aperture"
+	{
+		"en"		"欢迎来到光圈（Welcome to Aperture）"
+	}
+	"wh_the_turnover"
+	{
+		"en"		"营业额（The Turnover）"
+	}
+	"wh_behind_the_scenes"
+	{
+		"en"		"幕后花絮（Behind the scenes）"
+	}
+	"wh_escape"
+	{
+		"en"		"逃生（Escape）"
+	}
+	"c1m2_rain"
+	{
+		"en"		"1：雨（1:Rain）"
+	}
+	"c1m3_pre"
+	{
+		"en"		"2：疤痕（2:Scar）"
+	}
+	"c1m4_graduation_pro"
+	{
+		"en"		"3：毕业（3:Graduation）"
+	}
+	"yichang_01"
+	{
+		"en"		"逃离"
+	}
+	"yichang_02"
+	{
+		"en"		"医院"
+	}
+	"yichang_03"
+	{
+		"en"		"CBD"
+	}
+	"yichang_04"
+	{
+		"en"		"夷陵广场"
+	}
+	"yichang02_1"
+	{
+		"en"		"宜昌东站"
+	}
+	"yichang02_2"
+	{
+		"en"		"列车"
+	}
+	"yichang02_3"
+	{
+		"en"		"村落"
+	}
+	"yichang02_4"
+	{
+		"en"		"增城-廖村村"
+	}
+	"silenthill3mall"
+	{
+		"en"		"中央广场（Central Square）"
+	}
+	"silenthill3othermall"
+	{
+		"en"		"异世界购物中心（Otherworld Mall）"
+	}
+	"silenthill3subway"
+	{
+		"en"		"地铁站（Subway Station）"
+	}
+	"silenthill3underground"
+	{
+		"en"		"地下通行证（Underground Pass）"
+	}
+	"silenthill3site"
+	{
+		"en"		"山顶中心（Hilltop Center）"
+	}
+	"silenthill3otherofficebuilding"
+	{
+		"en"		"异世界山顶（Otherworld Hilltop）"
+	}
+	"silenthill3apartment"
+	{
+		"en"		"卑尔根街（Bergen Street）"
+	}
+	"l4d_sh01_oldsh"
+	{
+		"en"		"老寂静岭（Old Silent Hill）"
+	}
+	"l4d_sh02_school"
+	{
+		"en"		"学校（School）"
+	}
+	"l4d_sh03_schoolalt"
+	{
+		"en"		"另类学校（Alternative School）"
+	}
+	"l4d_sh04_church"
+	{
+		"en"		"教堂（Church）"
+	}
+	"l4d_sh05_hospital"
+	{
+		"en"		"医院（Hospital）"
+	}
+	"l4d_sh06_hospitalalt"
+	{
+		"en"		"另类医院（Alternative Hospital）"
+	}
+	"l4d_sh07_otherchurch"
+	{
+		"en"		"其他教会（Other Church）"
+	}
+	"l4d_sh08_sewers"
+	{
+		"en"		"下水道（Sewers）"
+	}
+	"l4d_sh09_resort"
+	{
+		"en"		"度假区（Resort Area）"
+	}
+	"l4d_sh10_amusementpark"
+	{
+		"en"		"游乐园（Amusement Park）"
+	}
+	"l4d_sh11_nowhere"
+	{
+		"en"		"无处（Nowhere）"
+	}
+	"l4d_sh12_theend"
+	{
+		"en"		"结局#1（Finale #1）"
+	}
+	"l4d_sh_theend2"
+	{
+		"en"		"结局#2（Finale #2）"
+	}
+	"l4d_sh_theend3"
+	{
+		"en"		"结局#3（Finale #3）"
+	}
+	"l4d_sh_theend4"
+	{
+		"en"		"结局#4（Finale #4）"
+	}
+	"l4d_sh_credits"
+	{
+		"en"		"制作人员（Credits）"
+	}
+	"SA_01"
+	{
+		"en"		"迷失（Lost）"
+	}
+	"SA_02"
+	{
+		"en"		"混乱（Confusion）"
+	}
+	"SA_03"
+	{
+		"en"		"沉默的灵魂之城（Town of the Silent Spirits）"
+	}
+	"SA_04"
+	{
+		"en"		"伍德克里克（Woodcreek）"
+	}
+	"SA_05"
+	{
+		"en"		"失职（Dereliction）"
+	}
+	"SA_06"
+	{
+		"en"		"彼岸（Otherside）"
+	}
+	"SA_07"
+	{
+		"en"		"真相（The Truth）"
+	}
+	"l4d_deadline01"
+	{
+		"en"		"截止日期1（Deadline 1）"
+	}
+	"rooftops_d"
+	{
+		"en"		"寂静村"
+	}
+	"bt1"
+	{
+		"en"		"郊区（The Suburbs）"
+	}
+	"bt2"
+	{
+		"en"		"医院集合点（Hospital Rendezvous）"
+	}
+	"bt3"
+	{
+		"en"		"与死者一起购物（Shopping With The Dead）"
+	}
+	"bt4"
+	{
+		"en"		"城市（City）"
+	}
+	"bt5"
+	{
+		"en"		"新曙光（New Dawn）"
+	}
+	"ld1"
+	{
+		"en"		"1：障碍（1: Roadblocks）"
+	}
+	"ld2"
+	{
+		"en"		"2：加油站（2: Gas station）"
+	}
+	"ld3"
+	{
+		"en"		"3：旅游景点（3: Tourist attraction）"
+	}
+	"ld4"
+	{
+		"en"		"4：军事基地（4: Military base）"
+	}
+	"ld5"
+	{
+		"en"		"5：悬崖边的豪宅（5: Cliffside mansion）"
+	}
+	"ld1dlc"
+	{
+		"en"		"1：障碍（1: Roadblocks）"
+	}
+	"ld2dlc"
+	{
+		"en"		"2：加油站（2: Gas station）"
+	}
+	"ld3dlc"
+	{
+		"en"		"3：旅游景点（3: Tourist attraction）"
+	}
+	"ld4dlc"
+	{
+		"en"		"4：父亲的天堂（4: A father's paradise）"
+	}
+	"ld5dlc"
+	{
+		"en"		"5：军事基地（5: Military base）"
+	}
+	"ld6dlc"
+	{
+		"en"		"6：悬崖边的豪宅（6: Cliffside mansion）"
+	}
+	"cnm1_city1"
+	{
+		"en"		"1: 0号城市"
+	}
+	"cnm2_gay1"
+	{
+		"en"		"2: 尻山基地"
+	}
+	"cnm3_boy1"
+	{
+		"en"		"3: 尻神试炼"
+	}
+	"cnm4_kaoming"
+	{
+		"en"		"4: 羊村"
+	}
+	"mandrillmaze_01"
+	{
+		"en"		"香蕉商场（Banana Mall）"
+	}
+	"mandrillmaze_02"
+	{
+		"en"		"山魈跑道场（Mandrill Track Yard）"
+	}
+	"mandrillmaze_03"
+	{
+		"en"		"火车追逐（Train Chase）"
+	}
+	"mandrillmaze_04"
+	{
+		"en"		"山魈森林（Mandrill Forest）"
+	}
+	"mandrillmaze_05"
+	{
+		"en"		"山魈高塔（Mandrill Tower）"
+	}
+	"mandrillmaze_06"
+	{
+		"en"		"山魈王（Mandrill King）"
+	}
+	"mandrillmaze_07"
+	{
+		"en"		"最终逃生（Final Escape）"
+	}
+	"bazinga_01"
+	{
+		"en"		"巴津加小镇（Bazinga Town）"
+	}
+	"bazinga_02"
+	{
+		"en"		"巴津加工厂（Bazinga Factory）"
+	}
+	"bazinga_03"
+	{
+		"en"		"巴津加总部（Bazinga Headquarters）"
+	}
+	"bazinga_04"
+	{
+		"en"		"逃离总部（Escape from Headquarters）"
+	}
+	"bazinga_05"
+	{
+		"en"		"巴津加站（Bazinga Station）"
+	}
+	"bazinga_06"
+	{
+		"en"		"终局（Bazinga Finale）"
+	}
+	"srocchurch"
+	{
+		"en"		"邻里（neighborhood）"
+	}
+	"plaza_espana"
+	{
+		"en"		"广场（plaza）"
+	}
+	"maria_cristina"
+	{
+		"en"		"大道（avenue）"
+	}
+	"mnac"
+	{
+		"en"		"花园（gardens）"
+	}
+	"l4d2_csscity01_map1"
+	{
+		"en"		"1: 下水道"
+	}
+	"l4d2_csscity01_map2"
+	{
+		"en"		"2: 街道"
+	}
+	"l4d2_csscity01_map3"
+	{
+		"en"		"3: 小巷"
+	}
+	"bsas_m1_barrios"
+	{
+		"en"		"巴里奥斯（Barrios）"
+	}
+	"bsas_m2_adrogue"
+	{
+		"en"		"阿德罗盖（Adrogué）"
+	}
+	"bsas_m3_capital"
+	{
+		"en"		"首都联邦（Capital Federal）"
+	}
+	"bsas_m4_costanera"
+	{
+		"en"		"生态珍藏（Reserva Ecologica）"
+	}
+	"prague_1_old_town"
+	{
+		"en"		"老小镇（Old Town）"
+	}
+	"prague_2_middle_class"
+	{
+		"en"		"中产阶级（Middle Class）"
+	}
+	"prague_3_park"
+	{
+		"en"		"公园（Park）"
+	}
+	"prague_4_bus_depo"
+	{
+		"en"		"巴士车站（Bus Depo）"
+	}
+	"g22m1"
+	{
+		"en"		"1：僵尸吃了我的邻居（1: Zeds Ate My Neighbours）"
+	}
+	"g22m2"
+	{
+		"en"		"2: 邪恶的方式（2: Wicked Ways）"
+	}
+	"g22m3"
+	{
+		"en"		"3：不给糖就捣蛋（3: Trick or Treat）"
+	}
+	"l4d_deathaboard01_prison"
+	{
+		"en"		"监狱（Prison）"
+	}
+	"l4d_deathaboard02_yard"
+	{
+		"en"		"监狱院子（Prison Yard）"
+	}
+	"l4d_deathaboard03_docks"
+	{
+		"en"		"码头（Docks）"
+	}
+	"l4d_deathaboard04_ship"
+	{
+		"en"		"船舶（Ship）"
+	}
+	"l4d_deathaboard05_light"
+	{
+		"en"		"灯塔（Lighthouse）"
+	}
+	"l4d_sv_deathaboard_ship"
+	{
+		"en"		"船舶生存（Ship Survival）"
+	}
+	"claustrophobia1"
+	{
+		"en"		"玛瑙圣下水道（Onyx St. Sewer）"
+	}
+	"claustrophobia2"
+	{
+		"en"		"威克兰精神病院（Wickland Mental Hospital）"
+	}
+	"claustrophobia3"
+	{
+		"en"		"反应堆（Reactor）"
+	}
+	"claustrophobia4"
+	{
+		"en"		"地铁 地铁（Metro Subway）"
+	}
+	"claustrophobia5"
+	{
+		"en"		"地铁 地铁隧道（Metro Subway Tunnels）"
+	}
+	"claustrophobia6"
+	{
+		"en"		"运河（Canals）"
+	}
+	"claustrophobia7"
+	{
+		"en"		"峡谷（Canyon）"
+	}
+	"1_m1"
+	{
+		"en"		"城丰村"
+	}
+	"2_m2"
+	{
+		"en"		"沿江路"
+	}
+	"3_m3"
+	{
+		"en"		"东门桥"
+	}
+	"4_m4"
+	{
+		"en"		"前进路"
+	}
+	"5_m5"
+	{
+		"en"		"凤凰山公园"
+	}
+	"nanningcity_departure_m1"
+	{
+		"en"		"1: 启程/Departure"
+	}
+	"nanningcity_chaoyang_square_m2"
+	{
+		"en"		"2: 广场/Square"
+	}
+	"nanningcity_main_street_m3"
+	{
+		"en"		"3: 主街/Main street"
+	}
+	"nanningcity_main_road_m4"
+	{
+		"en"		"4: 主干道/Main road"
+	}
+	"nanningcity_workzone_m5"
+	{
+		"en"		"5: 施工区/Work zone"
+	}
+	"nanningcity_bridge_m6"
+	{
+		"en"		"6: 大桥/Bridge"
+	}
+	"LS_FSL"
+	{
+		"en"		"灵城-丰收路"
+	}
+	"LS_FJL"
+	{
+		"en"		"灵城-丰江路"
+	}
+	"LS_ZSXML"
+	{
+		"en"		"灵城-中山路与第一幼儿园"
+	}
+	"LS_XML"
+	{
+		"en"		"灵城-西门街"
+	}
+	"LS_DXSC"
+	{
+		"en"		"灵城-地下商场"
+	}
+	"LS_RMGC"
+	{
+		"en"		"灵城-人民广场"
+	}
+	"LS_MEJAN"
+	{
+		"en"		"灵城-江岸"
+	}
+	"LS_LFSJQ"
+	{
+		"en"		"六峰山景区"
+	}
+	"LS_LFSJQ_CXF"
+	{
+		"en"		"六峰山-冲霄峰"
+	}
+	"dworld01_point"
+	{
+		"en"		"Ⅰ.谜题"
+	}
+	"dworld02_falling"
+	{
+		"en"		"Ⅱ.遗迹"
+	}
+	"dworld03_noctis"
+	{
+		"en"		"Ⅲ.山峦"
+	}
+	"dworld04_monolith"
+	{
+		"en"		"Ⅳ.要塞"
+	}
+	"dworld05_forgotten"
+	{
+		"en"		"Ⅴ.沉睡"
+	}
+	"dworld06_sheep"
+	{
+		"en"		"Ⅵ.梦境"
+	}
+	"dworld07_new_eden"
+	{
+		"en"		"Ⅶ.新界"
+	}
+	"dworld08_tuto"
+	{
+		"en"		"Ⅷ.探求"
+	}
+	"dworld09_tuto2"
+	{
+		"en"		"Ⅸ.死刑"
+	}
+	"dworld10_ancient"
+	{
+		"en"		"Ⅹ.古殿"
+	}
+	"dworld11_purge"
+	{
+		"en"		"Ⅺ.花园"
+	}
+	"dworld12_warp"
+	{
+		"en"		"Ⅻ.终章"
+	}
+	"l4d_alientsection1-12"
+	{
+		"en"		"入口处（Entrance）"
+	}
+	"l4d_alientsection1-34"
+	{
+		"en"		"休闲室（Recreation Room）"
+	}
+	"l4d_alientsection1-56"
+	{
+		"en"		"医学。实验室（Med. Lab）"
+	}
+	"l4d_alientsection1-78"
+	{
+		"en"		"车库（Garage）"
+	}
+	"l4d_alientsection1-910"
+	{
+		"en"		"气氛处理器（Atmoshpere Processor）"
+	}
+	"l4d_alientsection1-1112"
+	{
+		"en"		"女王的巢穴（Queen's Lair）"
+	}
+	"the_return_lvl1"
+	{
+		"en"		"小镇（Town）"
+	}
+	"the_return_lvl2"
+	{
+		"en"		"老路（The Old Road）"
+	}
+	"the_return_level3"
+	{
+		"en"		"沼泽（Swamp）"
+	}
+	"the_return_level4"
+	{
+		"en"		"施工现场（Construction site）"
+	}
+	"the_return_lvl5"
+	{
+		"en"		"依凡克中心（Evac Center）"
+	}
+	"TheReturnOfTheJockeys"
+	{
+		"en"		"骑师回归（The Return of the Jockeys）"
+	}
+	"appartments"
+	{
+		"en"		"老公寓（The Old Apartments）"
+	}
+	"district"
+	{
+		"en"		"地狱区（District of Hell）"
+	}
+	"deepforest"
+	{
+		"en"		"森林恐惧症（Forest Fright）"
+	}
+	"powerplant"
+	{
+		"en"		"弗里金动力装置（Friggin Powerplant）"
+	}
+	"centr"
+	{
+		"en"		"疯狂的老城（Insane Old Town）"
+	}
+	"coast"
+	{
+		"en"		"海滨航行（Waterfront Sailing）"
+	}
+	"Glubtastic"
+	{
+		"en"		"格鲁布高塔（Glub Tower）"
+	}
+	"Glubtastic_2"
+	{
+		"en"		"过山车（Glub-o-coaster）"
+	}
+	"Glubtastic_3"
+	{
+		"en"		"格鲁布高速公路（Glub Highway）"
+	}
+	"Glubtastic_4"
+	{
+		"en"		"格鲁布的下水道洞（Glub's Sewer Hole）"
+	}
+	"Glubtastic_5"
+	{
+		"en"		"最后的Glub（The Final Glub）"
+	}
+	"Glubtastic2_1"
+	{
+		"en"		"格鲁布·格雷夫斯（Glub Graves）"
+	}
+	"Glubtastic2_2"
+	{
+		"en"		"Glub 的黑色星期五井喷（Glub's Blackfriday Blowout）"
+	}
+	"Glubtastic2_3"
+	{
+		"en"		"格鲁布城市（Glub City）"
+	}
+	"Glubtastic2_4"
+	{
+		"en"		"黑暗中的咕噜（Glub In The Dark）"
+	}
+	"Glubtastic2_5"
+	{
+		"en"		"膝盖深的地方（Knee Deep in the Glub）"
+	}
+	"Glubtastic2_6"
+	{
+		"en"		"格鲁布齐拉（Glubzilla）"
+	}
+	"Glubtastic3_1"
+	{
+		"en"		"冰上的Glubs（Glubs on Ice）"
+	}
+	"Glubtastic3_2"
+	{
+		"en"		"拉皮条我的 Glub（Pimp my Glub）"
+	}
+	"Glubtastic3_3"
+	{
+		"en"		"格鲁布森林（Glub Forest）"
+	}
+	"Glubtastic3_vince"
+	{
+		"en"		"姐姐碎片（The Sis Fragments）"
+	}
+	"Glubtastic3_4"
+	{
+		"en"		"忧郁 The Express（The Glubtastic Express）"
+	}
+	"Glubtastic3_5"
+	{
+		"en"		"师父姐姐（The Master Sis）"
+	}
+	"glubtastic4_1"
+	{
+		"en"		"空军俱乐部（Airforce Glub）"
+	}
+	"glubtastic4_2"
+	{
+		"en"		"格鲁布洞穴（Glub Caverns）"
+	}
+	"glubtastic4_3"
+	{
+		"en"		"忧郁 Inc.（Glubtastic Inc.）"
+	}
+	"glubtastic4_4"
+	{
+		"en"		"姐姐尺寸（Sis Dimension）"
+	}
+	"glubtastic4_5"
+	{
+		"en"		"姐姐废物（Sis Wastes）"
+	}
+	"glubtastic4_6"
+	{
+		"en"		"姐姐工厂（The Sis Factory）"
+	}
+	"glubtastic4_7"
+	{
+		"en"		"王姐姐（The Sis King）"
+	}
+	"Back4Glub"
+	{
+		"en"		"布里特兰（Britland）"
+	}
+	"glubtastic5_1"
+	{
+		"en"		"迫降（Crash Landing）"
+	}
+	"glubtastic5_2"
+	{
+		"en"		"走向地下通道（Going Underground）"
+	}
+	"glubtastic5_3"
+	{
+		"en"		"兰德姐姐（Sis Land）"
+	}
+	"glubtastic5_4"
+	{
+		"en"		"坚守者（The Holdout）"
+	}
+	"glubtastic5_5"
+	{
+		"en"		"返回格鲁布市（Return to Glub City）"
+	}
+	"glubtastic5_6"
+	{
+		"en"		"格鲁布齐拉回归（Glubzilla Returns）"
+	}
+	"glubtastic5_bigtesco"
+	{
+		"en"		"  "
+	}
+	"eu01_residential_b16"
+	{
+		"en"		"住宅（Residential）"
+	}
+	"eu02_castle_b16"
+	{
+		"en"		"城堡（Castle）"
+	}
+	"eu03_oldtown_b16"
+	{
+		"en"		"旧镇（Oldtown）"
+	}
+	"eu04_freeway_b16"
+	{
+		"en"		"高速公路（Freeway）"
+	}
+	"eu05_train_b16"
+	{
+		"en"		"火车站（Trainstation）"
+	}
+	"sv_eu_park_b02"
+	{
+		"en"		"公园（Park）"
+	}
+	"sv_eu_castle_b01"
+	{
+		"en"		"城堡（Castle）"
+	}
+	"sv_eu_courtyard_b03"
+	{
+		"en"		"庭院（Courtyard）"
+	}
+	"sv_eu_freeway_b01"
+	{
+		"en"		"高速公路（Freeway）"
+	}
+	"beldurra01_urbanbrawl"
+	{
+		"en"		"都市乱斗（Urban Brawl）"
+	}
+	"beldurra02_killdesac"
+	{
+		"en"		"杀死德萨克（Kill de Sac）"
+	}
+	"beldurra03_riverside"
+	{
+		"en"		"河畔逃生（Riverside Escape）"
+	}
+	"beldurra2_1"
+	{
+		"en"		"荒野（Wilderness）"
+	}
+	"beldurra2_2"
+	{
+		"en"		"恐怖固件（Terror Firma）"
+	}
+	"beldurra2_3"
+	{
+		"en"		"都市乱斗（Urban Brawl）"
+	}
+	"beldurra2_4"
+	{
+		"en"		"杀死德萨克（Kill de Sac）"
+	}
+	"beldurra2_5"
+	{
+		"en"		"逆流而上（Up the River）"
+	}
+	"w4e1_basement"
+	{
+		"en"		"1.地下室（1.Basement）"
+	}
+	"w4e2_asylum"
+	{
+		"en"		"2.庇护（2.Asylum）"
+	}
+	"w4e3_keeper"
+	{
+		"en"		"3.守门员（3.Keeper）"
+	}
+	"w4e4_mansion"
+	{
+		"en"		"4.豪宅（4.Mansion）"
+	}
+	"w4e5_evil"
+	{
+		"en"		"5.恶灵附身（5.TheEvilWithin）"
+	}
+	"tew2_1stem"
+	{
+		"en"		"1.茎（1.Stem）"
+	}
+	"tew2_2union"
+	{
+		"en"		"2.联盟（2.Union）"
+	}
+	"tew2_3gallery"
+	{
+		"en"		"3.美术馆（3.Art Gallery）"
+	}
+	"tew2_4anima"
+	{
+		"en"		"4.阿尼玛（4.The Anima）"
+	}
+	"tew2_5finale"
+	{
+		"en"		"5.一条出路（5.A Way Out）"
+	}
+	"demania3m1"
+	{
+		"en"		"公路恶作剧（Road prank）"
+	}
+	"demania3m2"
+	{
+		"en"		"路易斯废墟（Louis ruins）"
+	}
+	"demania3m3"
+	{
+		"en"		"高桥（High bridge）"
+	}
+	"demania3m4"
+	{
+		"en"		"战区（Warzone）"
+	}
+	"demania3m5"
+	{
+		"en"		"赫希的有效载荷（Hersch's Payload）"
+	}
+	"demania3m6"
+	{
+		"en"		"死屋（Dead House）"
+	}
+	"demania3m7"
+	{
+		"en"		"挑战者逼近（Challenger approaches）"
+	}
+	"demania3m8"
+	{
+		"en"		"冬季森林（Winter Forest）"
+	}
+	"demania3m9"
+	{
+		"en"		"冬天逃生（Winter Escape）"
+	}
+	"1BM"
+	{
+		"en"		"矿山（The Mine）"
+	}
+	"1BM-2"
+	{
+		"en"		"秘密基地（The Secret Base）"
+	}
+	"1BM-3"
+	{
+		"en"		"黑暗森林（The Dark Forest）"
+	}
+	"1BM-4"
+	{
+		"en"		"黑暗沼泽（The Dark Swamp）"
+	}
+	"1BM-5"
+	{
+		"en"		"兰兹角（Lands End）"
+	}
+	"1BM-6"
+	{
+		"en"		"那是什么味道（Whats That Smell）"
+	}
+	"1BM-7"
+	{
+		"en"		"河流前哨站（River OutPost）"
+	}
+	"ygschool_01"
+	{
+		"en"		"教学楼（teaching_building）"
+	}
+	"ygschool_02"
+	{
+		"en"		"游乐场（playground）"
+	}
+	"l4d_naniwa01_shoppingmall"
+	{
+		"en"		"谷女孩商城（Valley Girl Mall）"
+	}
+	"l4d_naniwa02_arcade"
+	{
+		"en"		"死亡街机（Death Arcade）"
+	}
+	"l4d_naniwa03_highway"
+	{
+		"en"		"死亡是一条高速公路（Death Is A Highway）"
+	}
+	"l4d_naniwa04_subway"
+	{
+		"en"		"向地铁而死（Dying To Subway）"
+	}
+	"l4d_naniwa05_tower"
+	{
+		"en"		"塔楼逃亡（The Tower Escape）"
+	}
+	"l4d2_ravenholmwar_1"
+	{
+		"en"		"欢迎来到拉文霍姆（Welcome To Ravenholm）"
+	}
+	"l4d2_ravenholmwar_2"
+	{
+		"en"		"街道（The Streets）"
+	}
+	"l4d2_ravenholmwar_3"
+	{
+		"en"		"矿山（The Mines）"
+	}
+	"l4d2_ravenholmwar_4"
+	{
+		"en"		"火车站（The Trainyard）"
+	}
+	"l4d2_ravenholmwar_sv"
+	{
+		"en"		"城镇广场（Town Square）"
+	}
+	"omf_01"
+	{
+		"en"		"森林（Forest）"
+	}
+	"omf_02"
+	{
+		"en"		"筒仓（Silo）"
+	}
+	"omf_03"
+	{
+		"en"		"机库（Hangar）"
+	}
+	"l4d_ihm01_forest"
+	{
+		"en"		"1：迷失在树林里（1: Lost in the Woods）"
+	}
+	"l4d_ihm02_manor"
+	{
+		"en"		"2：攀登庄园（2: Climbing the Manor）"
+	}
+	"l4d_ihm03_underground"
+	{
+		"en"		"3：地下之路（3: The Underground Way）"
+	}
+	"l4d_ihm04_lumberyard"
+	{
+		"en"		"4：伐木场疏散（4: Lumberyard Evacuation）"
+	}
+	"l4d_ihm05_lakeside"
+	{
+		"en"		"5：湖畔结局（5: Lakeside Finale）"
+	}
+	"l4d2_deathcraft_01_town"
+	{
+		"en"		"小镇（The Town）"
+	}
+	"l4d2_deathcraft_02_ravine"
+	{
+		"en"		"熔岩湖峡谷（Lava Lake Ravine）"
+	}
+	"l4d2_deathcraft_03_stronghold"
+	{
+		"en"		"要塞（Stronghold）"
+	}
+	"l4d2_deathcraft_04_nether"
+	{
+		"en"		"地狱要塞（Nether Fortress）"
+	}
+	"l4d2_deathcraft_05_lighthouse"
+	{
+		"en"		"菌丝岛（Mycelium Island）"
+	}
+	"l4d2_minecraft_evolution"
+	{
+		"en"		"我的世界进化（Minecraft Evolution）"
+	}
+	"l4d_grave_city"
+	{
+		"en"		"离开小镇（Leaving Town）"
+	}
+	"l4d_grave_mall_beta"
+	{
+		"en"		"零售疗法（Retail Therapy）"
+	}
+	"l4d_grave_sewers_beta"
+	{
+		"en"		"地下冒险（Underground Adventures）"
+	}
+	"l4d_grave_factory_beta"
+	{
+		"en"		"工业事故（Industrial Incident）"
+	}
+	"l4d_grave_outside_beta"
+	{
+		"en"		"来源？（The Source?）"
+	}
+	"l4d_grave_rural"
+	{
+		"en"		"乡村跑（Rural Run）"
+	}
+	"l4d_grave_prison"
+	{
+		"en"		"越狱（Prison Break）"
+	}
+	"l4d_grave_station"
+	{
+		"en"		"骑乘贝西（Riding Bessie）"
+	}
+	"dc3m1_arrival"
+	{
+		"en"		"1. 到来（1. The Arrival）"
+	}
+	"dc3m2_riverside"
+	{
+		"en"		"2. 河滨（2. Riverside）"
+	}
+	"dc3m3_backalley"
+	{
+		"en"		"3. 后巷（3. Backalley）"
+	}
+	"dc3m4_bridge"
+	{
+		"en"		"4. 大桥（4. Bridge）"
+	}
+	"dc3m5_plant"
+	{
+		"en"		"5. 工厂（5. The Plant）"
+	}
+	"dc3m6_station"
+	{
+		"en"		"6. 屋顶（6. RoofTop）"
+	}
+	"castle_map_01"
+	{
+		"en"		"到达（The Arrive）"
+	}
+	"prison_map_02"
+	{
+		"en"		"到深处（To the Depths）"
+	}
+	"lab_map_03"
+	{
+		"en"		"死亡实验室（Death lab）"
+	}
+	"cemetery_map_04"
+	{
+		"en"		"黑暗中的秘密（Secrets in the dark）"
+	}
+	"theend_map_05"
+	{
+		"en"		"我们还活着（We are alive）"
+	}
+	"bs2_1"
+	{
+		"en"		"交通事故（Traffic accident）"
+	}
+	"bs2_2"
+	{
+		"en"		"地狱吧（Mis hell）"
+	}
+	"bs2_3"
+	{
+		"en"		"古树地狱（Ancient tree hell）"
+	}
+	"bs2_4"
+	{
+		"en"		"绿水地狱（Green water hell）"
+	}
+	"bs2_5"
+	{
+		"en"		"天空地狱（Sky hell）"
+	}
+	"bs2_6"
+	{
+		"en"		"狂风地狱（Crazzy wind hell）"
+	}
+	"bs2_7"
+	{
+		"en"		"火焰地狱（Flame hell）"
+	}
+	"bs2_8"
+	{
+		"en"		"果子露地狱（Sherbet hell）"
+	}
+	"bs2_9"
+	{
+		"en"		"毒液地狱（Venom hell）"
+	}
+	"bs2_10"
+	{
+		"en"		"雷霆地狱（Thunder hell）"
+	}
+	"bs2_11"
+	{
+		"en"		"天空之城（sky city）"
+	}
+	"bs2_12"
+	{
+		"en"		"你真的逃出来了吗？（Did you really escape?）"
+	}
+	"l4d2_lotrm1_moria"
+	{
+		"en"		"莫瑞亚矿井（Mines of Moria）"
+	}
+	"l4d2_lotrm2_mordor"
+	{
+		"en"		"魔多末日火山（Mount Doom of Mordor）"
+	}
+	"l4d2_lotrm3_helms_deep_redux"
+	{
+		"en"		"圣盔谷之战（Battle of Helm's Deep）"
+	}
+	"l4d_yama_1"
+	{
+		"en"		"东京街道（Tokyo Streets）"
+	}
+	"l4d_yama_2"
+	{
+		"en"		"森林小镇（Forest Town）"
+	}
+	"l4d_yama_3"
+	{
+		"en"		"清水寺（Kiyomizu Temple）"
+	}
+	"l4d_yama_4"
+	{
+		"en"		"矿业村（Mining Village）"
+	}
+	"l4d_yama_5"
+	{
+		"en"		"玛雅观光酒店（Maya Kanko Hotel）"
+	}
+	"l4d2-DisposalFacility"
+	{
+		"en"		"处置设施（DISPOSAL FACILITY）"
+	}
+	"l4d2_NukeWarehouse"
+	{
+		"en"		"弹头储存设施（WARHEAD STORAGE FACILITY）"
+	}
+	"l4d2_CommTowers-SnowField"
+	{
+		"en"		"通讯塔（COMMUNICATION TOWERS）"
+	}
+	"l4d2_BlastFurnace"
+	{
+		"en"		"高炉（THE BLAST FURNACE）"
+	}
+	"l4d2_UndergorundBase"
+	{
+		"en"		"地下基地（THE UNDERGROUND BASE）"
+	}
+	"q_ancienttown"
+	{
+		"en"		"1：雨"
+	}
+	"q_ancienttown2"
+	{
+		"en"		"2：雾"
+	}
+	"q_fleshbridge1"
+	{
+		"en"		"5：山"
+	}
+	"q_fleshbridge2"
+	{
+		"en"		"6：桥"
+	}
+	"q_fleshbridgesurvive"
+	{
+		"en"		"桥"
+	}
+	"redemptionII-deadstop"
+	{
+		"en"		"死停（Deadstop）"
+	}
+	"redemptionII-plantworks"
+	{
+		"en"		"遮盖（Cover-UP）"
+	}
+	"redemptionII-ceda-pt1"
+	{
+		"en"		"深入探究（Delve Deeper）"
+	}
+	"redemptionii-ceda-pt2"
+	{
+		"en"		"真相（The Truth）"
+	}
+	"roundhouse"
+	{
+		"en"		"逃生（Escape）"
+	}
+	"salvation_rescue"
+	{
+		"en"		"救世救援点（Salvation Rescue Point）"
+	}
+	"salvation_town_bridge"
+	{
+		"en"		"救赎小镇（Salvation Town）"
+	}
+	"salvation_falls"
+	{
+		"en"		"救赎瀑布（Salvation Falls）"
+	}
+	"salvation_funicular"
+	{
+		"en"		"救赎缆车（Salvation Funicular）"
+	}
+	"salvation_falls_survival"
+	{
+		"en"		"救赎瀑布（Salvation Falls）"
+	}
+	"salvation_falls_clown_survival"
+	{
+		"en"		"救赎瀑布 - 小丑锯（Salvation Falls - Clownsaw）"
+	}
+	"salvation_town_bridge_survival"
+	{
+		"en"		"救赎镇桥（Salvation Town Bridge）"
+	}
+	"salvation_funicular_survival"
+	{
+		"en"		"救赎瀑布缆车（Salvation Falls Funicular）"
+	}
+	"PR1_Waterfront_F"
+	{
+		"en"		"滨水区（Waterfront）"
+	}
+	"PR2_Park_F"
+	{
+		"en"		"公园（park）"
+	}
+	"PR3_Highway_F"
+	{
+		"en"		"高速公路（Highway）"
+	}
+	"PR4_Quarter_F"
+	{
+		"en"		"街区（Quarter）"
+	}
+	"PR5_Bridge_F"
+	{
+		"en"		"桥（bridge）"
+	}
+	"bh_z_m1"
+	{
+		"en"		"1：岛屿（1: island）"
+	}
+	"bh_z_m2"
+	{
+		"en"		"2：陈（2: chen）"
+	}
+	"bh_z_m3"
+	{
+		"en"		"3：冷神1（3:cold god 1）"
+	}
+	"bh_z_m5"
+	{
+		"en"		"5：音乐会（5: concert）"
+	}
+	"swamp1_b6nwoe"
+	{
+		"en"		"跑到山上去！（Run To The Hills!）"
+	}
+	"swamp2_b3nwoe"
+	{
+		"en"		"穿过可怕的树林（Through The Scary Woods）"
+	}
+	"swamp3_b1nwoe"
+	{
+		"en"		"我们去奶奶家（To Grandmothers House We Go）"
+	}
+	"l4d2_feetunder_outpostnwoe"
+	{
+		"en"		"戒严法（Martial Law）"
+	}
+	"l4d2_haarpnwoe"
+	{
+		"en"		"H.A.A.R.P."
+	}
+	"l4d2_femacampnwoe"
+	{
+		"en"		"联邦应急管理局营地（FEMA Camp）"
+	}
+	"l4d2_ravenrocknwoe"
+	{
+		"en"		"乌鸦岩（Raven Rock）"
+	}
+	"l4d_ft_station01nwoe"
+	{
+		"en"		"街道（The Streets）"
+	}
+	"l4d_ft_station02nwoe"
+	{
+		"en"		"下水道（The Sewers）"
+	}
+	"l4d_withoutname_complexnwoe"
+	{
+		"en"		"综合设施（The Complex）"
+	}
+	"l4d_withoutname_lakenwoe"
+	{
+		"en"		"湖景（Lake View）"
+	}
+	"l4d_withoutname_townnwoe"
+	{
+		"en"		"我们的城镇（Our Town）"
+	}
+	"kshatriya_tutorial99"
+	{
+		"en"		"刹帝利_tutorial99（kshatriya_tutorial99）"
+	}
+	"ksh_lvl4_demo7"
+	{
+		"en"		"ksh_lvl4_demo7"
+	}
+	"ksh_lvl5_22"
+	{
+		"en"		"ksh_lvl5_22"
+	}
+	"l4d_noe1"
+	{
+		"en"		"军事基地（Military Base）"
+	}
+	"l4d_noe2"
+	{
+		"en"		"秘密设施（Secret Facility）"
+	}
+	"l4d_noe3"
+	{
+		"en"		"屋顶上的提琴手结局（Fiddler On The Rooftop Finale）"
+	}
+	"tripday_m1"
+	{
+		"en"		"废区"
+	}
+	"tripday_m2"
+	{
+		"en"		"郊野"
+	}
+	"tripday_m3"
+	{
+		"en"		"野外"
+	}
+	"tripday_m4"
+	{
+		"en"		"加油站"
+	}
+	"zerowarn_1r"
+	{
+		"en"		"1：河滨公园（1: Riverside Park）"
+	}
+	"zerowarn_2r"
+	{
+		"en"		"2：寒冷潮湿的夜晚（2: A Cold, Wet Night）"
+	}
+	"zerowarn_3r"
+	{
+		"en"		"3：最后一次早晨徒步旅行（3: The Last Morning Hike）"
+	}
+	"c3m1_rurallighthouse"
+	{
+		"en"		"1：村庄（1: Village）"
+	}
+	"c3m2_urbansmile"
+	{
+		"en"		"2：城市微笑（2: Urbansmile）"
+	}
+	"c3m3_longbridge"
+	{
+		"en"		"3: 大桥（3: Bridge）"
+	}
+	"c3m4_prison"
+	{
+		"en"		"4：监狱（4: Prison）"
+	}
+	"c3m5_vertigo"
+	{
+		"en"		"5：眩晕（5: Vertigo）"
+	}
+	"c3m1_rurallighthouseVS"
+	{
+		"en"		"1：村庄（1: Village (VS)）"
+	}
+	"c3m2_urbansmileVS"
+	{
+		"en"		"2：城市微笑（2: Urbansmile (VS)）"
+	}
+	"c3m3_longbridgeVS"
+	{
+		"en"		"3：桥（3: Bridge (VS)）"
+	}
+	"c3m4_prisonVS"
+	{
+		"en"		"4：监狱（4: Prison (VS)）"
+	}
+	"c3m5_vertigo_vs"
+	{
+		"en"		"5：眩晕（5: Vertigo (VS)）"
+	}
+	"deadbeat01_forest"
+	{
+		"en"		"1：森林（1: Forest）"
+	}
+	"deadbeat02_alley"
+	{
+		"en"		"2：胡同（2: Alley）"
+	}
+	"deadbeat03_street"
+	{
+		"en"		"3: 街道（3: Streets）"
+	}
+	"deadbeat04_park"
+	{
+		"en"		"4：公园结局（4: Park Finale）"
+	}
+	"mayuns_1"
+	{
+		"en"		"图书馆（Library）"
+	}
+	"office"
+	{
+		"en"		"办事处（Offices）"
+	}
+	"mainstreet"
+	{
+		"en"		"主街（Mainstreet）"
+	}
+	"dump"
+	{
+		"en"		"高速公路（Freeway）"
+	}
+	"datacenter"
+	{
+		"en"		"数据中心（Datacenter）"
+	}
+	"oldcave5m1"
+	{
+		"en"		"旧洞5平方米（oldcave5m1）"
+	}
+	"oldcave5m2"
+	{
+		"en"		"旧洞5平方米（oldcave5m2）"
+	}
+	"oldcave5m3"
+	{
+		"en"		"旧洞5m3（oldcave5m3）"
+	}
+	"oldcave5m4"
+	{
+		"en"		"旧洞5m4（oldcave5m4）"
+	}
+	"oldcave5m5"
+	{
+		"en"		"旧洞5米5（oldcave5m5）"
+	}
+	"oldcave5m6"
+	{
+		"en"		"旧洞5米6（oldcave5m6）"
+	}
+	"oldcave5m7"
+	{
+		"en"		"旧洞5米7（oldcave5m7）"
+	}
+	"oldcave5m8"
+	{
+		"en"		"旧洞5米8（oldcave5m8）"
+	}
+	"oldcave5m9"
+	{
+		"en"		"老洞穴5米9（oldcave5m9）"
+	}
+	"oldcave5m10"
+	{
+		"en"		"老洞穴5米10（oldcave5m10）"
+	}
+	"oldcave5m11"
+	{
+		"en"		"老洞穴5米11（oldcave5m11）"
+	}
+	"oldcave5m12"
+	{
+		"en"		"老洞穴5米12（oldcave5m12）"
+	}
+	"potc1"
+	{
+		"en"		"夏延山综合体（Cheyene Mountain Complex）"
+	}
+	"potc2"
+	{
+		"en"		"星际之门指挥中心（Stargate Command Center）"
+	}
+	"potc3b"
+	{
+		"en"		"回去（Going back）"
+	}
+	"potc3"
+	{
+		"en"		"寻找文物（Finding artefacts）"
+	}
+	"potc4"
+	{
+		"en"		"感染源（The infection source）"
+	}
+	"1-cheyenne"
+	{
+		"en"		"新的合作（Un nuevo comienzo）"
+	}
+	"2-comandosgc"
+	{
+		"en"		"突击队SGC（Comando SGC）"
+	}
+	"3-BaseGamma"
+	{
+		"en"		"基础伽玛值（Base Gamma）"
+	}
+	"4-DnalsiYeknom"
+	{
+		"en"		"行星 Dnalsi Yeknom（Planeta Dnalsi Yeknom）"
+	}
+	"5-dedalo"
+	{
+		"en"		"德达洛（Dedalo）"
+	}
+	"6-despegando"
+	{
+		"en"		"德斯佩甘多（Despegando）"
+	}
+	"cc_thecity"
+	{
+		"en"		"小区"
+	}
+	"cc_thecity2"
+	{
+		"en"		"小区救援"
+	}
+	"cc_thestreet"
+	{
+		"en"		"晨晨市"
+	}
+	"cc_thesewer"
+	{
+		"en"		"下水道"
+	}
+	"cc_thesupermarket"
+	{
+		"en"		"购物中心"
+	}
+	"cc_thevocalconcert"
+	{
+		"en"		"演唱会"
+	}
+	"ddg1_tower_v2_1"
+	{
+		"en"		"塔（tower）"
+	}
+	"ddg2_gristmill_v2"
+	{
+		"en"		"磨坊（gristmill）"
+	}
+	"ddg3_bluff_v2_1"
+	{
+		"en"		"虚张声势（bluff）"
+	}
+	"dprm1_milltown_a"
+	{
+		"en"		"第一章：米尔敦（Chapter 1: Milltown）"
+	}
+	"dprm2_sugarmill_a"
+	{
+		"en"		"第2章：糖厂（Chapter 2: Sugarmill）"
+	}
+	"dprm3_sugarmill_b"
+	{
+		"en"		"第3章：糖厂回归（Chapter 3: Sugarmill Return）"
+	}
+	"dprm4_milltown_b"
+	{
+		"en"		"第4章：米尔敦归来（Chapter 4: Milltown Return）"
+	}
+	"dprm5_milltown_escape"
+	{
+		"en"		"第5章：米尔镇逃亡（Chapter 5: Milltown Escape）"
+	}
+	"l4d2_lastorange1"
+	{
+		"en"		"1: 坠毁现场（1: The Crash）"
+	}
+	"l4d2_lastorange2"
+	{
+		"en"		"2: 桥（2: The Bridge）"
+	}
+	"l4d2_lastorange3"
+	{
+		"en"		"3：伍兹（3: Woods）"
+	}
+	"l4d2_lastorange4"
+	{
+		"en"		"4: 小巷（4: The Alleyway）"
+	}
+	"l4d2_lastorange5"
+	{
+		"en"		"5：要塞（5: The Fortress）"
+	}
+	"vux_suken_re_m1"
+	{
+		"en"		"站错了（Wrong Stop）"
+	}
+	"vux_suken_re_m2"
+	{
+		"en"		"下街（Lower Street）"
+	}
+	"vux_suken_re_m3"
+	{
+		"en"		"水处理（Water Treatment）"
+	}
+	"vux_suken_re_m4"
+	{
+		"en"		"上街（Upper Street）"
+	}
+	"l4d_lh_01"
+	{
+		"en"		"不吃（Not Eat）"
+	}
+	"l4d_lh_02"
+	{
+		"en"		"欢迎回家（WelcomeHome）"
+	}
+	"l4d_lh_03"
+	{
+		"en"		"崩溃（Crash）"
+	}
+	"l4d_lh_end_04"
+	{
+		"en"		"上帝死了（GodIsDead）"
+	}
+	"tlv01_city"
+	{
+		"en"		"1: 城市（1: City）"
+	}
+	"tlv02_powerplant"
+	{
+		"en"		"2：发电厂（2: Power Plant）"
+	}
+	"tlv03_riverside"
+	{
+		"en"		"3：河滨设施（3: Riverside Facility）"
+	}
+	"bh2m1_station"
+	{
+		"en"		"1. 车站（1. The Station）"
+	}
+	"bh2m2_base"
+	{
+		"en"		"2. 基地（2. The Base）"
+	}
+	"bh2m3_forest"
+	{
+		"en"		"3. 森林（3. The Forest）"
+	}
+	"bh2m4_terrain"
+	{
+		"en"		"4. 地形（4. The Terrain）"
+	}
+	"bh2m5_departure"
+	{
+		"en"		"5. 出发（5. The Departure (Part 1)）"
+	}
+	"bh2m6_departure2"
+	{
+		"en"		"6. 出发（6. The Departure (Part 2)）"
+	}
+	"LastBaktun"
+	{
+		"en"		"入口处（Entrance）"
+	}
+	"LastBaktun1"
+	{
+		"en"		"扬升（Ascension）"
+	}
+	"LastBaktun2"
+	{
+		"en"		"最后的巴克顿（Last Baktun）"
+	}
+	"militaryzone"
+	{
+		"en"		"军事区（military zone）"
+	}
+	"backtracking"
+	{
+		"en"		"回溯（backtracking）"
+	}
+	"wetlandsofLouisiana"
+	{
+		"en"		"路易斯安那州湿地（wetlands of Louisiana）"
+	}
+	"gardenofevil"
+	{
+		"en"		"邪恶花园（garden of evil）"
+	}
+	"fm_smokerssand01"
+	{
+		"en"		"吸烟者的沙子（Smoker's sand）"
+	}
+	"fm_jockeyofthecorn02"
+	{
+		"en"		"玉米骑师（Jockey of the corn）"
+	}
+	"fm_spitterspit03"
+	{
+		"en"		"吐痰坑（Spitters pit）"
+	}
+	"fm_chargercorrida04"
+	{
+		"en"		"充电器斗牛（Сhargers corrida）"
+	}
+	"fm_boomersrain05"
+	{
+		"en"		"婴儿潮一代的雨（Boomers rain）"
+	}
+	"fm_tankring06"
+	{
+		"en"		"罐环（Tank ring）"
+	}
+	"earlydays1"
+	{
+		"en"		"住宅（Residential）"
+	}
+	"earlydays2"
+	{
+		"en"		"市中心（Downtown）"
+	}
+	"earlydays3"
+	{
+		"en"		"学校（School）"
+	}
+	"earlydays4"
+	{
+		"en"		"郊区（Suburbs）"
+	}
+	"earlydays5"
+	{
+		"en"		"发电厂（Power Plant）"
+	}
+	"carnage_jail"
+	{
+		"en"		"屠杀监狱（CARNAGE Jail）"
+	}
+	"carnage_canyon"
+	{
+		"en"		"屠杀峡谷（CARNAGE Canyon）"
+	}
+	"carnage_basement"
+	{
+		"en"		"大屠杀地下室（CARNAGE Basement）"
+	}
+	"carnage_warehouse"
+	{
+		"en"		"屠杀仓库（CARNAGE Warehouse）"
+	}
+	"d1c1"
+	{
+		"en"		"死气沉沉的郊区（Dead Suburbs）"
+	}
+	"d1c2"
+	{
+		"en"		"树林中的小屋（A Cabin In The Woods）"
+	}
+	"d1c3"
+	{
+		"en"		"实验（The Experiment）"
+	}
+	"d1c4"
+	{
+		"en"		"死亡站（Dead Station）"
+	}
+	"d1c5"
+	{
+		"en"		"逃离梦想（Escaping the dream）"
+	}
+	"zccity_lasthope_m1"
+	{
+		"en"		"地铁站"
+	}
+	"zccity_lasthope_m2"
+	{
+		"en"		"购物中心"
+	}
+	"zccity_lasthope_m3"
+	{
+		"en"		"货运码头"
+	}
+	"zccity_lasthope_m4"
+	{
+		"en"		"水坝"
+	}
+	"NewRise"
+	{
+		"en"		"垃圾场（Junkyard）"
+	}
+	"NewRiseMap2"
+	{
+		"en"		"结构（Structure）"
+	}
+	"NewRiseMap3"
+	{
+		"en"		"主教平底鞋（Bishop Flats）"
+	}
+	"NewRiseMapFinale"
+	{
+		"en"		"铁路（Railways）"
+	}
+	"ogb2_1"
+	{
+		"en"		"地图1（Map 1）"
+	}
+	"ogb2_2"
+	{
+		"en"		"地图2（Map 2）"
+	}
+	"ogb2_3"
+	{
+		"en"		"地图3（Map 3）"
+	}
+	"ogb2_4"
+	{
+		"en"		"地图4（Map 4）"
+	}
+	"ogb_lego_m1"
+	{
+		"en"		"1：街道（1：街道(VS)）"
+	}
+	"ogb_lego_m2"
+	{
+		"en"		"2：下水道（2：下水道(VS)）"
+	}
+	"ogb_lego_m3"
+	{
+		"en"		"3：大桥（3：大桥(VS)）"
+	}
+	"ogb_lego_m4"
+	{
+		"en"		"4：高楼（4：高楼(VS)）"
+	}
+	"ogb_lego_m5"
+	{
+		"en"		"5：屋顶（5：屋顶(VS)）"
+	}
+	"l4d_orange1"
+	{
+		"en"		"1: 下车（1: The Dropoff）"
+	}
+	"l4d_orange2"
+	{
+		"en"		"2：上升（2: Going Up）"
+	}
+	"l4d_orange3"
+	{
+		"en"		"3：塔（3: The Tower）"
+	}
+	"l4d_orange4"
+	{
+		"en"		"4：屋顶结局（4: The Rooftop Finale）"
+	}
+	"PK_1"
+	{
+		"en"		"1：入口（1: Entrance (VS)）"
+	}
+	"PK_2"
+	{
+		"en"		"2：跑，跑！（2: Run, just run! (VS)）"
+	}
+	"PK_3"
+	{
+		"en"		"3：钻孔（3: Drill (VS)）"
+	}
+	"PK_finale"
+	{
+		"en"		"4：地铁结局（4: Subway Finale (VS)）"
+	}
+	"l4d2_roadtonowhere_route01"
+	{
+		"en"		"1. 公路旅行（1. RoadTrip）"
+	}
+	"l4d2_roadtonowhere_route02"
+	{
+		"en"		"2.毒气屠杀（2. Gas Massacre）"
+	}
+	"l4d2_roadtonowhere_route03"
+	{
+		"en"		"3. 隧道（3. Tunnels）"
+	}
+	"l4d2_roadtonowhere_route04"
+	{
+		"en"		"4. 卡车场（4. Truckyard）"
+	}
+	"l4d2_roadtonowhere_route05"
+	{
+		"en"		"5. 下水道（5. Sewers）"
+	}
+	"l4d2_roadtonowhere_route06"
+	{
+		"en"		"6. 城市限制（6. City Limits）"
+	}
+	"l4d2_deathwoods01_stranded"
+	{
+		"en"		"1：搁浅（1: Stranded）"
+	}
+	"l4d2_deathwoods02_tunnel"
+	{
+		"en"		"2：隧道视野（2: Tunnel Vision）"
+	}
+	"l4d2_deathwoods03_bridge"
+	{
+		"en"		"3: 大桥（3: Bridge）"
+	}
+	"l4d2_deathwoods04_power"
+	{
+		"en"		"4：权力游戏（4: Power Play）"
+	}
+	"l4d2_deathwoods05_airfield"
+	{
+		"en"		"5: 机场（5: Airfield）"
+	}
+	"tunel"
+	{
+		"en"		"到山里去（In To The Mountain）"
+	}
+	"rury"
+	{
+		"en"		"地下隧道（Underground Tunnels）"
+	}
+	"cmentarz"
+	{
+		"en"		"教堂墓地（The Church Cemetary）"
+	}
+	"miasto"
+	{
+		"en"		"火车很有趣（Trains Are Fun）"
+	}
+	"domki"
+	{
+		"en"		"佐姆船结局（Zom-Boat Finale）"
+	}
+	"dcr_m1_hotel"
+	{
+		"en"		"1: 旅馆（1: Hotel）"
+	}
+	"dcr_m2_streets"
+	{
+		"en"		"2: 街道（2: Streets）"
+	}
+	"dcr_m3_mall"
+	{
+		"en"		"3: 商场（3: Mall）"
+	}
+	"dcr_m4_atrium"
+	{
+		"en"		"4: 中庭（4: Atrium）"
+	}
+	"deadtracks_map01_d"
+	{
+		"en"		"死路（Dead Tracks）"
+	}
+	"envelopingdarkness_map02_d"
+	{
+		"en"		"黑暗笼罩（Enveloping Darkness）"
+	}
+	"newdawn_map03_d"
+	{
+		"en"		"新曙光（New Dawn）"
+	}
+	"boatescape_map04_d"
+	{
+		"en"		"船逃生（Boat Escape）"
+	}
+	"l4d_hopegorgeecr"
+	{
+		"en"		"坦克华丽（Tank Gorgeous）"
+	}
+	"l4d_wheel_01_mallecr"
+	{
+		"en"		"马利塔里（The Mallitary）"
+	}
+	"l4d_crstreetecr"
+	{
+		"en"		"离开我的商店（Get Away From My Store）"
+	}
+	"l4d_crgrapeecr"
+	{
+		"en"		"还是走开（Still Get Away）"
+	}
+	"l4d_crrivercityecr"
+	{
+		"en"		"继续漂流者（Move on Drifters）"
+	}
+	"farmecr"
+	{
+		"en"		"你为什么不死（Why Won't You Die）"
+	}
+	"slaughterecr"
+	{
+		"en"		"死者剧场（Theatre of the Dead）"
+	}
+	"l4d_mic_finaleecrv2"
+	{
+		"en"		"蘑菇正在工作（The Mushrooms are Working）"
+	}
+	"cotd01_apartments"
+	{
+		"en"		"1：公寓（1: Apartments）"
+	}
+	"cotd02_warehouse"
+	{
+		"en"		"2: 仓库（2: Warehouse）"
+	}
+	"cotd03_mall"
+	{
+		"en"		"3：废弃的购物中心（3: Abandoned Mall）"
+	}
+	"cotd04_rooftop"
+	{
+		"en"		"4：屋顶逃生（4: Rooftop Escape）"
+	}
+	"cotd01_apartments_redux"
+	{
+		"en"		"1：公寓（1: Apartments）"
+	}
+	"cotd02_streets_redux"
+	{
+		"en"		"2: 街道（2: Streets）"
+	}
+	"cotd03_sewers_redux"
+	{
+		"en"		"3：下水道（3: Sewers）"
+	}
+	"cotd04_mall_redux"
+	{
+		"en"		"4: 商场（4: Mall）"
+	}
+	"cotd05_rooftop_redux"
+	{
+		"en"		"5: 屋顶（5: Rooftop）"
+	}
+	"cotd06_rooftopsurvival_redux"
+	{
+		"en"		"原始屋顶（Original Rooftop）"
+	}
+	"cotd01_apartments_redux_l4d2"
+	{
+		"en"		"1：公寓（1: Apartments）"
+	}
+	"cotd02_streets_redux_l4d2"
+	{
+		"en"		"2: 街道（2: Streets）"
+	}
+	"cotd03_sewers_redux_l4d2"
+	{
+		"en"		"3：下水道（3: Sewers）"
+	}
+	"cotd04_mall_redux_l4d2"
+	{
+		"en"		"4: 商场（4: Mall）"
+	}
+	"cotd05_rooftop_redux_l4d2"
+	{
+		"en"		"5: 屋顶（5: Rooftop）"
+	}
+	"cotd06_rooftopsurvival_redux_l4d2"
+	{
+		"en"		"原始屋顶（Original Rooftop）"
+	}
+	"dayofthedead1"
+	{
+		"en"		"1: 街道（1: Streets）"
+	}
+	"dayofthedead2"
+	{
+		"en"		"2：夜晚的街道（2: Streets at night）"
+	}
+	"dayofthedead3"
+	{
+		"en"		"3: 地堡（3: Bunker）"
+	}
+	"dayofthedead4"
+	{
+		"en"		"4: 家（4: Home）"
+	}
+	"dayofthedead5"
+	{
+		"en"		"5：底座内部（5: Inside the base）"
+	}
+	"dayofthedead6"
+	{
+		"en"		"6：废弃的海滩（6: Abandonned beach）"
+	}
+	"village_beta408"
+	{
+		"en"		"教堂尖顶（The Church Steeple）"
+	}
+	"forest_beta407"
+	{
+		"en"		"军事哨所（Military Post）"
+	}
+	"urban_beta408"
+	{
+		"en"		"城市僵尸战争（Urban Zombie War）"
+	}
+	"final_beta408"
+	{
+		"en"		"海滨村结局（Seaside Village Finale）"
+	}
+	"deathttoiletmaze1"
+	{
+		"en"		"1 - 冲洗（1 - Flushed）"
+	}
+	"deathttoiletmaze2"
+	{
+		"en"		"2 - 电源（2 - Power）"
+	}
+	"deathttoiletmaze3"
+	{
+		"en"		"3 - 希望（3 - Hope）"
+	}
+	"deathttoiletmaze4"
+	{
+		"en"		"4 - 陷阱（4 - Pitfalls）"
+	}
+	"deathttoiletmaze5"
+	{
+		"en"		"5 - 畅通无阻（5 - Unclogged）"
+	}
+	"deathttoiletmazeturret"
+	{
+		"en"		"炮塔防御（Turret Defense）"
+	}
+	"l4d2_draxmap1"
+	{
+		"en"		"第1期（Issue 1）"
+	}
+	"l4d2_draxmap2"
+	{
+		"en"		"第2期（Issue 2）"
+	}
+	"l4d2_draxmap3"
+	{
+		"en"		"第3期（Issue 3）"
+	}
+	"l4d2_draxmap4"
+	{
+		"en"		"第4期（Issue 4）"
+	}
+	"l4d2_draxmap5"
+	{
+		"en"		"第5期（Issue 5）"
+	}
+	"l4d2_draxmap6"
+	{
+		"en"		"最后一期（Final Issue）"
+	}
+	"death_sentence_1"
+	{
+		"en"		"撒旦广场（satans square）"
+	}
+	"death_sentence_2"
+	{
+		"en"		"肉臭（The Stink of Flesh）"
+	}
+	"death_sentence_3"
+	{
+		"en"		"敌对营地（hostil campsite）"
+	}
+	"death_sentence_4"
+	{
+		"en"		"该死的村庄（village of the damned）"
+	}
+	"death_sentence_5"
+	{
+		"en"		"屠宰岛（slaughter island）"
+	}
+	"l4d2_scream01_yards"
+	{
+		"en"		"1：码（1: Yards）"
+	}
+	"l4d2_scream02_goingup"
+	{
+		"en"		"2：上升（2: Going Up）"
+	}
+	"l4d2_scream03_rooftops"
+	{
+		"en"		"3：屋顶（3: Rooftops）"
+	}
+	"l4d2_scream04_train"
+	{
+		"en"		"4：火车（4: Train）"
+	}
+	"l4d2_scream05_finale"
+	{
+		"en"		"5: 终局（5: Finale）"
+	}
+	"l4d2_sv_forage_b6"
+	{
+		"en"		"饲料（Forage）"
+	}
+	"hotel01_market_two"
+	{
+		"en"		"干燥县（Dry County）"
+	}
+	"hotel02_sewer_two"
+	{
+		"en"		"呼啸的管道（Howling pipes）"
+	}
+	"hotel03_ramsey_two"
+	{
+		"en"		"在拉姆齐酒店制造地狱（Raising hell at Hotel Ramsey）"
+	}
+	"hotel04_scaling_two"
+	{
+		"en"		"扩展酒店规模（Scaling The Hotel）"
+	}
+	"hotel05_rooftop_two"
+	{
+		"en"		"崩溃（Crashing Down）"
+	}
+	"hotel01_market_two_alt"
+	{
+		"en"		"干燥县（Dry County）"
+	}
+	"hotel02_sewer_two_alt"
+	{
+		"en"		"呼啸的管道（Howling pipes）"
+	}
+	"hotel03_ramsey_two_alt"
+	{
+		"en"		"在拉姆齐酒店制造地狱（Raising hell at Hotel Ramsey）"
+	}
+	"hotel04_scaling_two_alt"
+	{
+		"en"		"扩展酒店规模（Scaling The Hotel）"
+	}
+	"hotel05_rooftop_two_alt"
+	{
+		"en"		"崩溃（Crashing Down）"
+	}
+	"l4d2_deadflagblues01_city"
+	{
+		"en"		"城市（City）"
+	}
+	"l4d2_deadflagblues02_library"
+	{
+		"en"		"图书馆（Library）"
+	}
+	"l4d2_deadflagblues03_arena"
+	{
+		"en"		"竞技场（Arena）"
+	}
+	"l4d2_deadflagblues04_woods"
+	{
+		"en"		"伍兹（Woods）"
+	}
+	"l4d2_deadflagblues05_station"
+	{
+		"en"		"车站（Station）"
+	}
+	"dfb2m1_city"
+	{
+		"en"		"1：城市（1: The City）"
+	}
+	"dfb2m2_library"
+	{
+		"en"		"2：图书馆（2: The Library）"
+	}
+	"dfb2m3_stadium"
+	{
+		"en"		"3: 体育场（3: The Stadium）"
+	}
+	"dfb2m4_woods"
+	{
+		"en"		"4: 森林（4: The Woods）"
+	}
+	"dfb2m5_station"
+	{
+		"en"		"5：火车站结局（5: Train Station Finale）"
+	}
+	"apartment"
+	{
+		"en"		"1：公寓（1: The Apartment）"
+	}
+	"hotel"
+	{
+		"en"		"2：酒店（2: The Hotel）"
+	}
+	"station-a"
+	{
+		"en"		"3: 火车站（3: The Train Station）"
+	}
+	"station"
+	{
+		"en"		"4：结局（4: The Finale）"
+	}
+	"m1_village"
+	{
+		"en"		"村庄（Village）"
+	}
+	"m2_jungle"
+	{
+		"en"		"丛林（Jungle）"
+	}
+	"m3_firebase"
+	{
+		"en"		"火力基地（Firebase）"
+	}
+	"m4_ruins"
+	{
+		"en"		"城市（City）"
+	}
+	"route_to_city_vs1"
+	{
+		"en"		"城市之旅（Journey To The City）"
+	}
+	"the_city"
+	{
+		"en"		"城市狩猎（Hunting In The City）"
+	}
+	"prison2"
+	{
+		"en"		"入狱时间（Prison Time）"
+	}
+	"trainstation21"
+	{
+		"en"		"2栋房子，1辆火车！（2 houses, 1 train!）"
+	}
+	"l4d_draxmap0"
+	{
+		"en"		"你的船沉没了（Your Ship is Sunk）"
+	}
+	"l4d_draxmap2"
+	{
+		"en"		"大声喊出来！（Shout Out!）"
+	}
+	"l4d_draxmap3"
+	{
+		"en"		"那是什么味道？（Whats That Smell?）"
+	}
+	"l4d_draxmap4"
+	{
+		"en"		"最后一站...（The Last Sstop...）"
+	}
+	"l4d2_sbtd_01"
+	{
+		"en"		"1）街道（1) The streets）"
+	}
+	"l4d2_sbtd_02"
+	{
+		"en"		"2）汽车展厅（2) The car showroom）"
+	}
+	"l4d2_sbtd_03"
+	{
+		"en"		"3）乘船逃生（3) The boat escape）"
+	}
+	"jsarena201_town"
+	{
+		"en"		"市中心（Downtown）"
+	}
+	"jsarena202_alley"
+	{
+		"en"		"小巷（The Alleys）"
+	}
+	"jsarena203_roof"
+	{
+		"en"		"屋顶（The Rooftops）"
+	}
+	"jsarena204_arena"
+	{
+		"en"		"竞技场（The Arena）"
+	}
+	"jsarena202_alley_scavenge"
+	{
+		"en"		"小巷生存（The Alleys Survival）"
+	}
+	"jsarena203_roof_scavenge"
+	{
+		"en"		"屋顶生存（The Rooftops Survival）"
+	}
+	"jsarena204_arena_scavenge"
+	{
+		"en"		"竞技场拾荒（The Arena Scavenge）"
+	}
+	"l4d2_deathcorridors01"
+	{
+		"en"		"办公室（Office）"
+	}
+	"l4d2_deathcorridors02"
+	{
+		"en"		"Subway"
+	}
+	"l4d2_deathcorridors03"
+	{
+		"en"		"污水（Sewage）"
+	}
+	"l4d2_deathcorridors2_1"
+	{
+		"en"		"监狱（Prison）"
+	}
+	"l4d2_deathcorridors2_2"
+	{
+		"en"		"洞穴（Cave）"
+	}
+	"l4d2_deathcorridors2_3"
+	{
+		"en"		"地雷（Mines）"
+	}
+	"l4d2_deathcorridors2_4"
+	{
+		"en"		"地雷2（Mines2）"
+	}
+	"l4d_deadgetaway01_dam"
+	{
+		"en"		"1：水坝（1: Dam）"
+	}
+	"l4d_deadgetaway02_zone"
+	{
+		"en"		"2：禁区（2: Restricted Zone）"
+	}
+	"l4d_deadgetaway03_lab"
+	{
+		"en"		"3：设施（3: The Facility）"
+	}
+	"l4d_deadgetway04_tunnel"
+	{
+		"en"		"4: 隧道（4: The Tunnel）"
+	}
+	"l4d_deadgetaway_final"
+	{
+		"en"		"5：决赛（5: Final）"
+	}
+	"ddntr1_01urban"
+	{
+		"en"		"1：秋天（1: The Fall）"
+	}
+	"ddntr1_02normal"
+	{
+		"en"		"2：被遗弃的前锋（2: Abandoned Forward）"
+	}
+	"ddntr1_02reverse"
+	{
+		"en"		"2：被遗弃的逆转（2: Abandoned Reversed）"
+	}
+	"ddntr1_03day"
+	{
+		"en"		"3：生锈日（3: Rust Day）"
+	}
+	"ddntr1_03night"
+	{
+		"en"		"3：铁锈之夜（3: Rust Night）"
+	}
+	"ddntr1_04finale"
+	{
+		"en"		"4：塔（4: The Tower）"
+	}
+	"DeathSummit"
+	{
+		"en"		"攀登（The Climb）"
+	}
+	"deathsummit_2"
+	{
+		"en"		"逃生（The Escape）"
+	}
+	"dsr_m1"
+	{
+		"en"		"撒旦广场（Satans Square）"
+	}
+	"dsr_m2"
+	{
+		"en"		"肉臭（The Stink of Flesh）"
+	}
+	"dsr_m3"
+	{
+		"en"		"霍斯蒂尔露营地（Hostil Campsite）"
+	}
+	"dsr_m4"
+	{
+		"en"		"被诅咒的村庄（Village of the Damned）"
+	}
+	"dsr_m5"
+	{
+		"en"		"屠宰岛（Slaughter Island）"
+	}
+	"dsr_m4_sv"
+	{
+		"en"		"被诅咒的村庄（Village of the Damned）"
+	}
+	"dclm1_backalley"
+	{
+		"en"		"1. 后巷（1. Back Alley）"
+	}
+	"dclm2_bridge"
+	{
+		"en"		"2. 画桥（2. Draw Bridge）"
+	}
+	"dclm3_outpost"
+	{
+		"en"		"3. 前哨站（3. The Outpost）"
+	}
+	"dc2m1_riverside"
+	{
+		"en"		"1. 河滨城（1. RiverSide City）"
+	}
+	"dc2m2_backalley"
+	{
+		"en"		"2. 后巷（2. Back Alley）"
+	}
+	"dc2m3_bridge"
+	{
+		"en"		"3. 画桥（3. Draw Bridge）"
+	}
+	"dc2m4_outpost"
+	{
+		"en"		"4. 前哨站（4. The Outpost）"
+	}
+	"dc2m5_plant"
+	{
+		"en"		"5. 水厂（5. Water Plant）"
+	}
+	"dc2m6_station"
+	{
+		"en"		"6. 地铁站（6. Subway Station）"
+	}
+	"l4d2_timemachine_01"
+	{
+		"en"		"1：山地实验室（1: Mountain Lab）"
+	}
+	"l4d2_timemachine_02"
+	{
+		"en"		"2：第一个悖论（2: First Paradox）"
+	}
+	"l4d2_timemachine_03"
+	{
+		"en"		"3：第二个悖论（3: Second Paradox）"
+	}
+	"l4d2_timemachine_04"
+	{
+		"en"		"4：联排别墅结局（4: Townhouse Finale）"
+	}
+	"m1_beach"
+	{
+		"en"		"海滩（Beach）"
+	}
+	"m2_burbs"
+	{
+		"en"		"'伯布斯（The 'burbs）"
+	}
+	"m3_crowd_control"
+	{
+		"en"		"人群控制（Crowd Control）"
+	}
+	"m4_launchpad"
+	{
+		"en"		"发射台（Launchpad）"
+	}
+	"m5_station_finale"
+	{
+		"en"		"站终局（Station Finale）"
+	}
+	"l4d2_dead_end"
+	{
+		"en"		"死胡同街道（Dead End Streets）"
+	}
+	"l4d2_dead_end_part2"
+	{
+		"en"		"死胡同庄园（Dead End Manor）"
+	}
+	"l4d2_dead_end_part3"
+	{
+		"en"		"死胡同垃圾场（Dead End Junkyard）"
+	}
+	"av1_canyon"
+	{
+		"en"		"1：峡谷（1:Canyon）"
+	}
+	"av2_cloudburst"
+	{
+		"en"		"2：暴雨（2:Cloudburst）"
+	}
+	"av3_congregation"
+	{
+		"en"		"3：会众（3:Congregation）"
+	}
+	"av4_college"
+	{
+		"en"		"4：大学（4:College）"
+	}
+	"av5_capitol"
+	{
+		"en"		"5：国会大厦（5:Capitol）"
+	}
+	"av3_congregation_rain"
+	{
+		"en"		"6：混乱（6:Confusion）"
+	}
+	"ulice_d"
+	{
+		"en"		"在城市（In The City）"
+	}
+	"metro_d"
+	{
+		"en"		"Metro Retro"
+	}
+	"stacja_d"
+	{
+		"en"		"Underground Fun"
+	}
+	"szpital_d"
+	{
+		"en"		"General Hospitale"
+	}
+	"szpital_b1_d"
+	{
+		"en"		"Paging Dr Noah Drake!"
+	}
+	"dach_d"
+	{
+		"en"		"在屋顶上（Up On The Roof）"
+	}
+	"ulice"
+	{
+		"en"		"在城市（In The City）"
+	}
+	"metro1"
+	{
+		"en"		"Metro Retro"
+	}
+	"stacja"
+	{
+		"en"		"Underground Fun"
+	}
+	"szpital"
+	{
+		"en"		"General Hospitale"
+	}
+	"dach"
+	{
+		"en"		"在屋顶上（Up On The Roof）"
+	}
+	"nmrm1_apartment"
+	{
+		"en"		"#L4D360UI_LevelName_COOP_C8M1"
+	}
+	"nmrm2_subway"
+	{
+		"en"		"#L4D360UI_LevelName_COOP_C8M2"
+	}
+	"nmrm3_sewers"
+	{
+		"en"		"#L4D360UI_LevelName_COOP_C8M3"
+	}
+	"nmrm4_hospital"
+	{
+		"en"		"#L4D360UI_LevelName_COOP_C8M4"
+	}
+	"nmrm5_rooftop"
+	{
+		"en"		"#L4D360UI_LevelName_COOP_C8M5"
+	}
+	"mobstadium2012L4D2V2"
+	{
+		"en"		"Mob Stadium 2012"
+	}
+	"dune_01"
+	{
+		"en"		"Path of Exile"
+	}
+	"dune_02"
+	{
+		"en"		"彼岸（The Otherside）"
+	}
+	"dune_03"
+	{
+		"en"		"灰烬归灰（Ash to Ashes）"
+	}
+	"dune_04"
+	{
+		"en"		"痛苦大厅（Hall of Pain）"
+	}
+	"dune_05"
+	{
+		"en"		"天堂之路（Road to Paradise）"
+	}
+	"dune_05_vs"
+	{
+		"en"		"Terminal"
+	}
+	"gasfever_1"
+	{
+		"en"		"Dead Zone"
+	}
+	"gasfever_2"
+	{
+		"en"		"Riverside"
+	}
+	"gasfever_3"
+	{
+		"en"		"Construction Site Finale"
+	}
+	"WormwoodVnew"
+	{
+		"en"		"蒿（Wormwood）"
+	}
+	"dry_county_1"
+	{
+		"en"		"干县步道（Dry County Tracks）"
+	}
+	"dry_county_2"
+	{
+		"en"		"干郡矿（Dry County Mine）"
+	}
+	"dry_county_3"
+	{
+		"en"		"干县城（Dry County Town）"
+	}
+	"dry_county_4"
+	{
+		"en"		"Dry County Finale"
+	}
+	"dry_county_survival_1"
+	{
+		"en"		"Mines Survival"
+	}
+	"dry_county_survival_2"
+	{
+		"en"		"Mines Survival - Grenade Launcher Only"
+	}
+	"dry_county_survival_3"
+	{
+		"en"		"Town Survival"
+	}
+	"TheCure001"
+	{
+		"en"		"激光防护罩（The Laser Shield）"
+	}
+	"TheCure002"
+	{
+		"en"		"四塔（The Four Towers）"
+	}
+	"TheCure003"
+	{
+		"en"		"圆周运动（Circumferential Motion）"
+	}
+	"TheCure004"
+	{
+		"en"		"重症监护（Intensive Care）"
+	}
+	"TheCure005"
+	{
+		"en"		"女巫收割（Witch Harvest）"
+	}
+	"Cure2_001"
+	{
+		"en"		"迫降（Crash Landing）"
+	}
+	"Cure2_002"
+	{
+		"en"		"龙卷风巷（Twister Alley）"
+	}
+	"Cure2_003"
+	{
+		"en"		"侏儒小镇（Gnome Town）"
+	}
+	"Cure2_004"
+	{
+		"en"		"儿童公园（Kiddie Park）"
+	}
+	"Cure2_005"
+	{
+		"en"		"仙境（WonderLand）"
+	}
+	"kim1"
+	{
+		"en"		"街道（Street）"
+	}
+	"kim2"
+	{
+		"en"		"Subway"
+	}
+	"kz2_m5"
+	{
+		"en"		"住宅区（Residental Area）"
+	}
+	"kz2_m4"
+	{
+		"en"		"桑拿（Sauna）"
+	}
+	"kim5"
+	{
+		"en"		"Riverside"
+	}
+	"rmstitanic_m1"
+	{
+		"en"		"背心（Tank Top）"
+	}
+	"rmstitanic_m2"
+	{
+		"en"		"苏格兰路（Scotland Road）"
+	}
+	"rmstitanic_m3"
+	{
+		"en"		"头等舱（First Class）"
+	}
+	"rmstitanic_m4"
+	{
+		"en"		"救生艇（Lifeboat Escape）"
+	}
+	"rmstitanic_s1"
+	{
+		"en"		"甲板生存（Boatdeck Survival (Day)）"
+	}
+	"washerintro"
+	{
+		"en"		"序言（Prologue）"
+	}
+	"washer_map1"
+	{
+		"en"		"垫圈第 1 部分（Washer Part 1）"
+	}
+	"washer_map2"
+	{
+		"en"		"垫圈第 2 部分（Washer Part 2）"
+	}
+	"washer_map3"
+	{
+		"en"		"垫圈第 3 部分（Washer Part 3）"
+	}
+	"cave_m1"
+	{
+		"en"		"洞穴_m1（cave_m1）"
+	}
+	"cave_m2"
+	{
+		"en"		"洞穴_m2（cave_m2）"
+	}
+	"cave_m3"
+	{
+		"en"		"洞穴_m3（cave_m3）"
+	}
+	"cave_m4"
+	{
+		"en"		"洞穴_m4（cave_m4）"
+	}
+	"cave_m5"
+	{
+		"en"		"洞穴_m5（cave_m5）"
+	}
+	"cave_m6"
+	{
+		"en"		"洞穴_m6（cave_m6）"
+	}
+	"cave2_m1"
+	{
+		"en"		"洞穴2_m1（cave2_m1）"
+	}
+	"cave2_m2"
+	{
+		"en"		"洞穴2_m2（cave2_m2）"
+	}
+	"cave2_m3"
+	{
+		"en"		"洞穴2_m3（cave2_m3）"
+	}
+	"cave2_m4"
+	{
+		"en"		"洞穴2_m4（cave2_m4）"
+	}
+	"cave2_m5"
+	{
+		"en"		"洞穴2_m5（cave2_m5）"
+	}
+	"cave2_m6"
+	{
+		"en"		"洞穴2_m6（cave2_m6）"
+	}
+	"cave3m1"
+	{
+		"en"		"洞穴3_m1（cave3_m1）"
+	}
+	"cave3m2"
+	{
+		"en"		"洞穴3_m2（cave3_m2）"
+	}
+	"cave3m3"
+	{
+		"en"		"洞穴3_m3（cave3_m3）"
+	}
+	"cave3m4"
+	{
+		"en"		"洞穴3_m4（cave3_m4）"
+	}
+	"cave3m5"
+	{
+		"en"		"洞穴3_m5（cave3_m5）"
+	}
+	"cave4m1"
+	{
+		"en"		"洞穴4_m1（cave4_m1）"
+	}
+	"cave4m2"
+	{
+		"en"		"洞穴4_m2（cave4_m2）"
+	}
+	"cave4m3"
+	{
+		"en"		"洞穴4_m3（cave4_m3）"
+	}
+	"cave4m4"
+	{
+		"en"		"洞穴4_m4（cave4_m4）"
+	}
+	"cave4m5"
+	{
+		"en"		"洞穴4_m5（cave4_m5）"
+	}
+	"cave5m1"
+	{
+		"en"		"洞穴5平方米（cave5m1）"
+	}
+	"cave5m2"
+	{
+		"en"		"洞穴5平方米（cave5m2）"
+	}
+	"cave5m3"
+	{
+		"en"		"洞穴5立方米（cave5m3）"
+	}
+	"cave5m4"
+	{
+		"en"		"洞穴5m4（cave5m4）"
+	}
+	"cave5m5"
+	{
+		"en"		"洞穴5m5（cave5m5）"
+	}
+	"cave5m6"
+	{
+		"en"		"洞穴5米6（cave5m6）"
+	}
+	"cave5m7"
+	{
+		"en"		"洞穴5米7（cave5m7）"
+	}
+	"cave5m8"
+	{
+		"en"		"洞穴5米8（cave5m8）"
+	}
+	"cave5m9"
+	{
+		"en"		"洞穴5米9（cave5m9）"
+	}
+	"cave5m10"
+	{
+		"en"		"洞穴5米10（cave5m10）"
+	}
+	"cave5m11"
+	{
+		"en"		"洞穴5米11（cave5m11）"
+	}
+	"cave5m12"
+	{
+		"en"		"洞穴5米12（cave5m12）"
+	}
+	"cave6down1"
+	{
+		"en"		"洞穴6down_m1（cave6down_m1）"
+	}
+	"cave6down2"
+	{
+		"en"		"洞穴6down_m2（cave6down_m2）"
+	}
+	"cave6down3"
+	{
+		"en"		"洞穴6down_m3（cave6down_m3）"
+	}
+	"cave6down4"
+	{
+		"en"		"洞穴6down_m4（cave6down_m4）"
+	}
+	"cave6down5"
+	{
+		"en"		"洞穴6down_m5（cave6down_m5）"
+	}
+	"cave6down6"
+	{
+		"en"		"洞穴6down_m6（cave6down_m6）"
+	}
+	"cave6down7"
+	{
+		"en"		"洞穴6down_m7（cave6down_m7）"
+	}
+	"cave6down8"
+	{
+		"en"		"洞穴6down_m8（cave6down_m8）"
+	}
+	"cave6down9"
+	{
+		"en"		"洞穴6down_m9（cave6down_m9）"
+	}
+	"cave6down10"
+	{
+		"en"		"洞穴6down_m10（cave6down_m10）"
+	}
+	"cave6down11"
+	{
+		"en"		"洞穴6down_m11（cave6down_m11）"
+	}
+	"cave6down12"
+	{
+		"en"		"洞穴6down_m12（cave6down_m12）"
+	}
+	"cave7m1"
+	{
+		"en"		"洞穴7地图1（cave7maps1）"
+	}
+	"cave7m2"
+	{
+		"en"		"洞穴7地图2（cave7maps2）"
+	}
+	"cave7m3"
+	{
+		"en"		"洞穴7地图3（cave7maps3）"
+	}
+	"cave7m4"
+	{
+		"en"		"洞穴7地图4（cave7maps4）"
+	}
+	"cave7m5"
+	{
+		"en"		"洞穴7地图5（cave7maps5）"
+	}
+	"cave7m6"
+	{
+		"en"		"洞穴7地图6（cave7maps6）"
+	}
+	"cave7m7"
+	{
+		"en"		"洞穴7地图7（cave7maps7）"
+	}
+	"cave7m9"
+	{
+		"en"		"洞穴7地图9（cave7maps9）"
+	}
+	"cave7m10"
+	{
+		"en"		"洞穴7地图10（cave7maps10）"
+	}
+	"cave7m11"
+	{
+		"en"		"洞穴7地图11（cave7maps11）"
+	}
+	"cave7m12"
+	{
+		"en"		"洞穴7地图12（cave7maps12）"
+	}
+	"l4d_dbd2dc_anna_is_gone"
+	{
+		"en"		"安娜走了（Anna is gone）"
+	}
+	"l4d_dbd2dc_the_mall"
+	{
+		"en"		"商场（The mall）"
+	}
+	"l4d_dbd2dc_clean_up"
+	{
+		"en"		"清理（Clean up）"
+	}
+	"l4d_dbd2dc_undead_center"
+	{
+		"en"		"亡灵中心（Undead center）"
+	}
+	"l4d_dbd2dc_new_dawn"
+	{
+		"en"		"新黎明（New dawn）"
+	}
+	"l4d_dbd2_undead_center"
+	{
+		"en"		"截止日期清理（Dead Line Scavenge）"
+	}
+	"re_m1_city"
+	{
+		"en"		"1:城市"
+	}
+	"re_m2_suburb"
+	{
+		"en"		"2:城郊"
+	}
+	"re_m3a_hangar"
+	{
+		"en"		"3:机库"
+	}
+	"re_m3b_town"
+	{
+		"en"		"4:小镇"
+	}
+	"re_m4_wood"
+	{
+		"en"		"5:森林"
+	}
+	"ttc_m1_college"
+	{
+		"en"		"1:学院大厦"
+	}
+	"ttc_m2_roof"
+	{
+		"en"		"2:城市楼顶"
+	}
+	"ttc_m3_mall"
+	{
+		"en"		"3:购物中心"
+	}
+	"l4d2_morgan_road"
+	{
+		"en"		"摩根路（Morgan Road）"
+	}
+	"l4d2_apartments"
+	{
+		"en"		"公寓（Apartments）"
+	}
+	"l4d2_police_station"
+	{
+		"en"		"警察局（Police Station）"
+	}
+	"l4d2_river"
+	{
+		"en"		"河（River）"
+	}
+	"youcallthatalanding"
+	{
+		"en"		"你称之为着陆？（You Call That a Landing?）"
+	}
+	"devilscorridor"
+	{
+		"en"		"恶魔回廊（Devil's Corridor）"
+	}
+	"surface"
+	{
+		"en"		"地表（Surface）"
+	}
+	"FtLostOnAHill"
+	{
+		"en"		"英尺。迷失在山上（Ft. Lost on a Hill）"
+	}
+	"GoingUp"
+	{
+		"en"		"上升（Going Up）"
+	}
+	"versus_1"
+	{
+		"en"		"设施老旧（Old Facilities）"
+	}
+	"versus_2"
+	{
+		"en"		"造船厂（The Shipyard）"
+	}
+	"versus_3"
+	{
+		"en"		"办公室死亡（Death in the Office）"
+	}
+	"versus_4"
+	{
+		"en"		"火塔（Firetower）"
+	}
+	"versus_5"
+	{
+		"en"		"火塔（Firetower）"
+	}
+	"bdp_bunker01"
+	{
+		"en"		"1：更深层次（1: Deeper Levels）"
+	}
+	"bdp_bunker02"
+	{
+		"en"		"2：旧隧道（2: Old Tunnels）"
+	}
+	"bdp_bunker03"
+	{
+		"en"		"3：载货电梯（3: Freight Elevator）"
+	}
+	"bdp_bunker04"
+	{
+		"en"		"4：道路（4: The Road）"
+	}
+	"bdp_bunker05a"
+	{
+		"en"		"5：森林车库（5: The Forest Garage）"
+	}
+	"thegray1"
+	{
+		"en"		"灰色01（The Gray 01）"
+	}
+	"thegray2"
+	{
+		"en"		"灰色02（The Gray 02）"
+	}
+	"deepp_m1"
+	{
+		"en"		"沼泽（Swamp）"
+	}
+	"deepp_m2"
+	{
+		"en"		"地下通道（Underground）"
+	}
+	"deepp_m3"
+	{
+		"en"		"工厂（Factory）"
+	}
+	"deepp_m4"
+	{
+		"en"		"水厂（Waterplant）"
+	}
+	"deepp_m5"
+	{
+		"en"		"坠落隧道（Falling Tunnel）"
+	}
+	"simple_map_1"
+	{
+		"en"		"1：更简单的世界（1: A Simpler World）"
+	}
+	"simple_map_2"
+	{
+		"en"		"2: 一座太远的桥（2: A Bridge Too Far）"
+	}
+	"simple_map_3"
+	{
+		"en"		"3：一座还不够远的桥（3: A Bridge Not Far Enough）"
+	}
+	"simple_map_4"
+	{
+		"en"		"4：僵尸之家（4: House of Zombies）"
+	}
+	"simple_map_5"
+	{
+		"en"		"5：相对而言，结束（5: The End, Relatively Speaking）"
+	}
+	"riptide_map1_final"
+	{
+		"en"		"城市（The City）"
+	}
+	"riptide_map2_final"
+	{
+		"en"		"水族馆（The Aquarium）"
+	}
+	"riptide_map3_final"
+	{
+		"en"		"码头（The Pier）"
+	}
+	"riptide_map4_final"
+	{
+		"en"		"终局（The Finale）"
+	}
+	"l4d2_arrival"
+	{
+		"en"		"抵达火星...（Arrival On Mars...）"
+	}
+	"l4d2_mba_campaign_map_2"
+	{
+		"en"		"火星地铁系统（Mars Metro System）"
+	}
+	"l4d2_darkness"
+	{
+		"en"		"水库（The Reservoir）"
+	}
+	"l4d2_labyrinth"
+	{
+		"en"		"外星迷宫（Alien Labyrinth）"
+	}
+	"l4d2_warehouses"
+	{
+		"en"		"赛多尼亚仓库区（Cydonia Warehouse District）"
+	}
+	"l4d2_machine"
+	{
+		"en"		"外星机器（Alien Machines）"
+	}
+	"l4d2_blackops1"
+	{
+		"en"		"红色星球黑色行动（Red Planet Black-ops）"
+	}
+	"l4d2_marsbase"
+	{
+		"en"		"火星基地阿尔法结局（Marsbase Alpha Finale）"
+	}
+	"l4d2_route66"
+	{
+		"en"		"路障（Road Block）"
+	}
+	"l4d2_route76"
+	{
+		"en"		"通行隧道（Access Tunnel）"
+	}
+	"l4d2_shoppingcenter"
+	{
+		"en"		"大幅降价（Slashing Prices）"
+	}
+	"l4d2_subwayescape"
+	{
+		"en"		"逃离 16 号高速公路（Escape Hwy 16）"
+	}
+	"l4d_greyscale_01_street"
+	{
+		"en"		"街道（The Street）"
+	}
+	"l4d_greyscale_02_factory"
+	{
+		"en"		"工厂（The Factory）"
+	}
+	"l4d_greyscale_03_descent"
+	{
+		"en"		"血统（The Descent）"
+	}
+	"l4d_greyscale_04_rooftop"
+	{
+		"en"		"The 屋顶（The Rooftop）"
+	}
+	"l4d_sv_greyscale"
+	{
+		"en"		"街头生存（The Street Survival）"
+	}
+	"tropic_01"
+	{
+		"en"		"崩溃海岸（Crash Coast）"
+	}
+	"tropic_02"
+	{
+		"en"		"死水（Dead Water）"
+	}
+	"tropic_03"
+	{
+		"en"		"海岸线立交桥（Shoreline Overpass）"
+	}
+	"tropic_04"
+	{
+		"en"		"海岸跑（Coastal Run）"
+	}
+	"exempt_cc_orange1"
+	{
+		"en"		"脱离现实（Out of Reality）"
+	}
+	"exempt_cc_orange2"
+	{
+		"en"		"坦克（Tanks）"
+	}
+	"exempt_cc_orange3"
+	{
+		"en"		"可乐种植（Cola Farming）"
+	}
+	"exempt_cc_orange4"
+	{
+		"en"		"恐高症（Acrophobia）"
+	}
+	"exempt_cc_orange5"
+	{
+		"en"		"死亡陷阱（Deathtraps）"
+	}
+	"exempt_cc_orange6"
+	{
+		"en"		"飞走（Fly Away）"
+	}
+	"tgxl"
+	{
+		"en"		"终极特感训练"
+	}
+	"st_1"
+	{
+		"en"		"飞机（aircraft）"
+	}
+	"st_2"
+	{
+		"en"		"沙漠绿洲（Desert oasis）"
+	}
+	"st_3"
+	{
+		"en"		"村庄（Village ）"
+	}
+	"st_4"
+	{
+		"en"		"黑社会（Underworlds）"
+	}
+	"st_5"
+	{
+		"en"		"研究生学校（Graduate School）"
+	}
+	"wildride01"
+	{
+		"en"		"自来水厂（Waterworks）"
+	}
+	"wildride02"
+	{
+		"en"		"电站（Power Station）"
+	}
+	"wildride03"
+	{
+		"en"		"洪水隧道（Flood Tunnels）"
+	}
+	"l4d_cine"
+	{
+		"en"		"别开枪打约翰尼·卡什（Don't Shoot Johnny Cash）"
+	}
+	"l4d_nighclub"
+	{
+		"en"		"脱衣舞女巫？（Stripper Witches?）"
+	}
+	"l4d_iglesia"
+	{
+		"en"		"带我去教堂（Take Me To Church）"
+	}
+	"l4d_ruinas"
+	{
+		"en"		"废墟...（The Ruins...）"
+	}
+	"l4d_iglesia_survivor"
+	{
+		"en"		"祈求帮助（Pray For Help）"
+	}
+	"l4d_cine_survivor"
+	{
+		"en"		"最后的机会（Last Chance）"
+	}
+	"bot1"
+	{
+		"en"		"玩具店（toy shop）"
+	}
+	"bot2"
+	{
+		"en"		"花园（garden）"
+	}
+	"bot3"
+	{
+		"en"		"游戏室（playroom）"
+	}
+	"reintro"
+	{
+		"en"		"生化危机爆发简介（Resident Evil Outbreak INTRO）"
+	}
+	"re_outbreak"
+	{
+		"en"		"爆发（Outbreak）"
+	}
+	"re_belowfreezingpoint"
+	{
+		"en"		"冰点以下（Below Freezing Point）"
+	}
+	"re_thehive"
+	{
+		"en"		"蜂巢（The Hive）"
+	}
+	"re_hellfire"
+	{
+		"en"		"地狱火（Hellfire）"
+	}
+	"re_decisions1"
+	{
+		"en"		"决定 决定第 1 部分（Decisions Decisions part 1）"
+	}
+	"re_decisions2"
+	{
+		"en"		"决定 决定第 2 部分（Decisions Decisions part 2）"
+	}
+	"re_decisionsfinale"
+	{
+		"en"		"决定 决定 结局（Decisions Decisions FINALE）"
+	}
+	"re1m1"
+	{
+		"en"		"豪宅（Mansion）"
+	}
+	"re1m2"
+	{
+		"en"		"警卫室（Guard house）"
+	}
+	"re1m3"
+	{
+		"en"		"回到府邸（Back in the mansion）"
+	}
+	"re1m4"
+	{
+		"en"		"地下通道（Underground）"
+	}
+	"re1m5"
+	{
+		"en"		"实验室（Lab）"
+	}
+	"re1m6"
+	{
+		"en"		"逃生（Escape）"
+	}
+	"re2a1"
+	{
+		"en"		"浣熊 街道（Raccoon Streets）"
+	}
+	"re2a2"
+	{
+		"en"		"警察局（Police Department）"
+	}
+	"re2a3"
+	{
+		"en"		"下水道（Sewers）"
+	}
+	"re2a4"
+	{
+		"en"		"实验室逃生（Lab Escape）"
+	}
+	"re2b1"
+	{
+		"en"		"警察局（Police Department）"
+	}
+	"re2b2"
+	{
+		"en"		"下水道（Sewers）"
+	}
+	"re2b3"
+	{
+		"en"		"实验室（Lab）"
+	}
+	"re2b4"
+	{
+		"en"		"列车月台（Train Platform）"
+	}
+	"re3m1"
+	{
+		"en"		"住宅区（Uptown）"
+	}
+	"re3m2"
+	{
+		"en"		"警察局（Police Department）"
+	}
+	"re3m3"
+	{
+		"en"		"市中心（Downtown）"
+	}
+	"re3m4"
+	{
+		"en"		"钟表高塔（Clock Tower）"
+	}
+	"re3m5"
+	{
+		"en"		"医院（Hospital）"
+	}
+	"re3m6"
+	{
+		"en"		"公园（Park）"
+	}
+	"re3m7"
+	{
+		"en"		"死工厂（Dead Factory）"
+	}
+	"re3m8"
+	{
+		"en"		"最后的逃脱（The Last Escape）"
+	}
+	"fos01_roadonhill"
+	{
+		"en"		"山上的路（road_on_hill）"
+	}
+	"fos02_battleintown"
+	{
+		"en"		"镇战（battle_in_town）"
+	}
+	"fos03_goingdown"
+	{
+		"en"		"向下走（going_down）"
+	}
+	"fos04_moors"
+	{
+		"en"		"the_moors"
+	}
+	"fos05_riverside"
+	{
+		"en"		"河边（riverside）"
+	}
+	"fosre01_maomaohill"
+	{
+		"en"		"山丘（The Hill）"
+	}
+	"fosre02_fftown"
+	{
+		"en"		"小镇（The Town）"
+	}
+	"fosre03_factory"
+	{
+		"en"		"工厂（The Factory）"
+	}
+	"fosre04_moors"
+	{
+		"en"		"摩尔人（The Moors）"
+	}
+	"fosre05_92farm"
+	{
+		"en"		"农场（The Farm）"
+	}
+	"l4c_wall"
+	{
+		"en"		"长城（The Great Wall）"
+	}
+	"l4c_plantation"
+	{
+		"en"		"种植园（Plantation）"
+	}
+	"l4c_catacombs"
+	{
+		"en"		"地下墓穴（Catacombs）"
+	}
+	"l4c_shrine"
+	{
+		"en"		"神社（Shrine）"
+	}
+	"l4c2_wall"
+	{
+		"en"		"长城 l4d2（The Great Wall l4d2）"
+	}
+	"l4c2_plantation"
+	{
+		"en"		"种植园 l4d2（Plantation l4d2）"
+	}
+	"l4c2_catacombs"
+	{
+		"en"		"地下墓穴 l4d2（Catacombs l4d2）"
+	}
+	"l4c2_shrine"
+	{
+		"en"		"神社l4d2（Shrine l4d2）"
+	}
+	"greenfortnite_1"
+	{
+		"en"		"1：如龙极极史诗宝石（1: Yakuza Kiwami Epic Gems）"
+	}
+	"greenfortnite_2"
+	{
+		"en"		"2：超级赌场（2: Super Gaming House）"
+	}
+	"greenfortnite_3"
+	{
+		"en"		"3: 船用电梯（3: Funevator）"
+	}
+	"greenfortnite_4"
+	{
+		"en"		"4：疯狂塔（4: Mad Tower）"
+	}
+	"greenfortnite_5"
+	{
+		"en"		"5：结局（5: The Finale）"
+	}
+	"pk_loony"
+	{
+		"en"		"1：疯狂公园（1: Loony Park）"
+	}
+	"desastre_2_1a_1b"
+	{
+		"en"		"1: 特兰维亚斯（1: Tranvias）"
+	}
+	"desastre_1a"
+	{
+		"en"		"2：实验室（2: Laboratorio）"
+	}
+	"desastre_t2_1a"
+	{
+		"en"		"3：发电机组（3: Generadores）"
+	}
+	"Desastre_T2_1b"
+	{
+		"en"		"4：卡莱斯（4: Calles）"
+	}
+	"desastre_t2_1c"
+	{
+		"en"		"5：托门塔（5: Tormenta）"
+	}
+	"desastre_t2_1d"
+	{
+		"en"		"6: 大城（6: Gran Ciudad）"
+	}
+	"desastre_global"
+	{
+		"en"		"7: 特伦站（7: Estacion del tren）"
+	}
+	"rtf_train"
+	{
+		"en"		"逍遥骑士（Easy Rider）"
+	}
+	"pt_home1"
+	{
+		"en"		"pt_home1"
+	}
+	"pt_village2"
+	{
+		"en"		"pt_village2"
+	}
+	"pt_retribution3"
+	{
+		"en"		"pt_retribution3"
+	}
+	"pt_conclusion4"
+	{
+		"en"		"pt_结论4（pt_conclusion4）"
+	}
+	"wfp1_track"
+	{
+		"en"		"火车站（Trainyard）"
+	}
+	"wfp2_horn"
+	{
+		"en"		"洞穴（Cave）"
+	}
+	"wfp3_mill"
+	{
+		"en"		"工业仓库（Industrial Warehouses）"
+	}
+	"wfp4_commstation"
+	{
+		"en"		"广播电台（Radio Stations）"
+	}
+	"screct_m1_busstop"
+	{
+		"en"		"m1_巴士站（m1_busstop）"
+	}
+	"screct_m2_forest"
+	{
+		"en"		"m2_森林（m2_forest）"
+	}
+	"screct_m3_city"
+	{
+		"en"		"m3_城市（m3_city）"
+	}
+	"screct_m4_what"
+	{
+		"en"		"m4_什么（m4_what）"
+	}
+	"saltwell_1_d"
+	{
+		"en"		"寻找公园（Finding The Park）"
+	}
+	"saltwell_2_d"
+	{
+		"en"		"军事区（Militarised Zone）"
+	}
+	"saltwell_3_d"
+	{
+		"en"		"湖（The Lake）"
+	}
+	"saltwell_4_d"
+	{
+		"en"		"盐地狱塔（SaltHell Towers）"
+	}
+	"saltwell_5_d"
+	{
+		"en"		"火葬场（The Crematorium）"
+	}
+	"DIHKIHE_1"
+	{
+		"en"		"谁需要煤气？（Who needs the gas?）"
+	}
+	"DIHKIHE_2"
+	{
+		"en"		"We don't have to come here... to the canyons"
+	}
+	"DIHKIHE_3"
+	{
+		"en"		"Adventure & Exposition"
+	}
+	"DIHKIHE_4"
+	{
+		"en"		"Evolution : Hello, mid-summer"
+	}
+	"pier_pressure_bluffs"
+	{
+		"en"		"Pier Pressure Bluffs"
+	}
+	"pier_pressure_boardwalk"
+	{
+		"en"		"码头压力栈道（Pier Pressure Boardwalk）"
+	}
+	"pier_pressure_pierfinale"
+	{
+		"en"		"Pier Pressure Pier"
+	}
+	"pier_pressure_boardwalk_vs"
+	{
+		"en"		"码头压力栈道（Pier Pressure Boardwalk）"
+	}
+	"pier_pressure_pierfinale_vs"
+	{
+		"en"		"Pier Pressure Pier"
+	}
+	"boardwalk_survival"
+	{
+		"en"		"Pier Pressure - Boardwalk Survival"
+	}
+	"pier_survival"
+	{
+		"en"		"码头压力 - 码头（Pier Pressure - Pier）"
+	}
+	"dsm01"
+	{
+		"en"		"The Tomb"
+	}
+	"dsm02"
+	{
+		"en"		"Dark Hallways"
+	}
+	"dsm03"
+	{
+		"en"		"Fountains"
+	}
+	"dsm04"
+	{
+		"en"		"地下墓穴（Catacombs）"
+	}
+	"dsm05"
+	{
+		"en"		"Dungeon Cages"
+	}
+	"dsm06"
+	{
+		"en"		"出路（The Way Out）"
+	}
+	"dsms1"
+	{
+		"en"		"祭坛（Sacrifical altar）"
+	}
+	"dsms2"
+	{
+		"en"		"寺庙庭院（Temple Yard）"
+	}
+	"dsm0"
+	{
+	}
+	"noparking_lssw"
+	{
+		"en"		"禁止停车（No Parking）"
+	}
+	"noparkingsurvival_lssw"
+	{
+		"en"		"No Parking Survival"
+	}
+	"beta_thecity1"
+	{
+		"en"		"隔离区"
+	}
+	"azcity_senter"
+	{
+		"en"		"街道"
+	}
+	"azcity_new_street"
+	{
+		"en"		"公园"
+	}
+	"azcity_end"
+	{
+		"en"		"解放碑"
+	}
+	"mall_of_ukraine"
+	{
+		"en"		"#01: Mall Of Ukraine"
+	}
+	"waters_of_the_dniepr"
+	{
+		"en"		"#02: Waters Of The Dniepr"
+	}
+	"warm_welcoming"
+	{
+		"en"		"#03: Warm Welcoming"
+	}
+	"the_end"
+	{
+		"en"		"＃04：结束（#04: The End）"
+	}
+	"mall_of_ukraine_survival"
+	{
+		"en"		"#01: Mall Of Ukraine"
+	}
+	"the_end_survival"
+	{
+		"en"		"＃04：结束（#04: The End）"
+	}
+	"gunk_misty"
+	{
+		"en"		"蒙蒙（misty）"
+	}
+	"gunk_occupied"
+	{
+		"en"		"占领（occupied）"
+	}
+	"gunk_stinkin_thinkin"
+	{
+		"en"		"臭味思维（stinkin_thinkin）"
+	}
+	"gunk_stinky_bombs"
+	{
+		"en"		"stinky_bombs"
+	}
+	"gunk_on_the_wagon"
+	{
+		"en"		"on_the_wagon"
+	}
+	"gunk_wicked_dead"
+	{
+		"en"		"wicked_dead"
+	}
+	"l4d_5tolife01"
+	{
+		"en"		"The Break In"
+	}
+	"l4d_5tolife02"
+	{
+		"en"		"最长码（Longest Yard）"
+	}
+	"l4d_5tolife03"
+	{
+		"en"		"暂缓执行（Stay of Execution）"
+	}
+	"x1m1_cliffs"
+	{
+		"en"		"悬崖（Cliffs）"
+	}
+	"x1m2_path"
+	{
+		"en"		"路径（Path）"
+	}
+	"x1m3_city"
+	{
+		"en"		"城市（City）"
+	}
+	"x1m4_forest"
+	{
+		"en"		"森林（Forest）"
+	}
+	"x1m5_salvation"
+	{
+		"en"		"救赎（Salvation）"
+	}
+	"x1m6_aftermath"
+	{
+		"en"		"后果（Aftermath）"
+	}
+	"dead_death_02"
+	{
+		"en"		"僵尸行走（Zombies Walking）"
+	}
+	"dead_death_03"
+	{
+		"en"		"交响乐站（Symphony Station）"
+	}
+	"dead_death_01"
+	{
+		"en"		"仙女僵尸（Fairy Zombies）"
+	}
+	"reactor_1_canal"
+	{
+		"en"		"运河狩猎（Kanal Hunting）"
+	}
+	"reactor_02_core"
+	{
+		"en"		"地狱核心（The Hell Core ）"
+	}
+	"cwm1_intro"
+	{
+		"en"		"河床（The Riverbed）"
+	}
+	"cwm2_warehouse"
+	{
+		"en"		"小镇（The Town）"
+	}
+	"cwm3_drain"
+	{
+		"en"		"下水道（The Sewers）"
+	}
+	"cwm4_building"
+	{
+		"en"		"办公楼（The Office Building）"
+	}
+	"l4d_zero01_south"
+	{
+		"en"		"1：南黑文（1: South Haven）"
+	}
+	"l4d_zero02_complex"
+	{
+		"en"		"2：废弃建筑群（2: Abandoned Complex）"
+	}
+	"l4d_zero03_chasm"
+	{
+		"en"		"3：裂谷冰废墟（3: Chasm Ice Ruins）"
+	}
+	"l4d_zero04_steppes"
+	{
+		"en"		"4：神庙草原（4: Temple Steppes）"
+	}
+	"l4d_zero05_aerith"
+	{
+		"en"		"5：艾丽丝休息（5: Aerith Rest）"
+	}
+	"azhill1"
+	{
+		"en"		"坠机现场（Crash Site）"
+	}
+	"azhill2"
+	{
+		"en"		"雪路（Snowy Path）"
+	}
+	"azhill3"
+	{
+		"en"		"白色广阔（White Expanse）"
+	}
+	"azhill1surv"
+	{
+		"en"		"坠机现场（Crash Site）"
+	}
+	"azhill2surv"
+	{
+		"en"		"火车站（Trainyard）"
+	}
+	"azhill3surv1"
+	{
+		"en"		"郊区（Outskirts）"
+	}
+	"azhill3surv2"
+	{
+		"en"		"南黑文（South Haven）"
+	}
+	"hopeless_m1"
+	{
+		"en"		"1：道路（1: The road）"
+	}
+	"hopeless_m2"
+	{
+		"en"		"2：广场（2: The square）"
+	}
+	"hopeless_m3"
+	{
+		"en"		"3：车站（3: The station）"
+	}
+	"Desastre_2_2_1a_1b"
+	{
+		"en"		"1：博斯克（1: Bosque）"
+	}
+	"Desastre_2_1_1a"
+	{
+		"en"		"2：马尼科米奥（2: Manicomio）"
+	}
+	"Desastre_E2"
+	{
+		"en"		"3：回归实验室（3: Regreso al laboratorio）"
+	}
+	"Desastre_1a_a"
+	{
+		"en"		"4：实验室/地下（4: Laboratorio/Subterraneo）"
+	}
+	"Desastre_E3"
+	{
+		"en"		"5：表面现象（5: Superficie）"
+	}
+	"l4d_viennacalling_city"
+	{
+		"en"		"内城（Innere Stadt）"
+	}
+	"l4d_viennacalling_kaiserfranz"
+	{
+		"en"		"K.F.火车站（K.F. Bahnhof）"
+	}
+	"l4d_viennacalling_gloomy"
+	{
+		"en"		"努斯多夫（Nussdorf）"
+	}
+	"l4d_viennacalling_donauinsel"
+	{
+		"en"		"多瑙岛（Donauinsel）"
+	}
+	"l4d_viennacalling_donauturm"
+	{
+		"en"		"多瑙河塔（Donauturm）"
+	}
+	"l4d_viennacalling2_1"
+	{
+		"en"		"UNO城市（UNO City）"
+	}
+	"l4d_viennacalling2_2"
+	{
+		"en"		"乌尔施特尔普拉特（Wurschtl Prater）"
+	}
+	"l4d_viennacalling2_3"
+	{
+		"en"		"议会（Parlament）"
+	}
+	"l4d_viennacalling2_4"
+	{
+		"en"		"K.u.K.马萨克（K.u.K. Massaker）"
+	}
+	"l4d_viennacalling2_5"
+	{
+		"en"		"动物园（Zoo）"
+	}
+	"l4d_viennacalling2_finale"
+	{
+		"en"		"格洛丽埃特（Gloriette）"
+	}
+	"l4d_pit01_farml4d2"
+	{
+		"en"		"没油了（Out of Gas）"
+	}
+	"l4d_pit02_truckl4d2"
+	{
+		"en"		"卡车站（Truck Stop）"
+	}
+	"l4d_pit_woodsl4d2v2"
+	{
+		"en"		"伍兹（Woods）"
+	}
+	"l4d_pit_lastdropl4d2"
+	{
+		"en"		"最后一滴（Last Drop）"
+	}
+	"btm1_snakeroad"
+	{
+		"en"		"1.蛇路（1. Snake Road）"
+	}
+	"btm2_lakeside"
+	{
+		"en"		"2. 湖边（2. Lake Side）"
+	}
+	"btm3_betrayal"
+	{
+		"en"		"3. 背叛（3. The Betrayal）"
+	}
+	"btm4_shipyard"
+	{
+		"en"		"4. 船厂（4. Ship Yard）"
+	}
+	"btm5_navalbase"
+	{
+		"en"		"5. 海军基地（5. Naval Base）"
+	}
+	"ec01_outlets"
+	{
+		"en"		"奥特莱斯购物中心（The Outlet Mall）"
+	}
+	"ec02_dam"
+	{
+		"en"		"水库（The Reservoir）"
+	}
+	"ec03_village"
+	{
+		"en"		"村庄（The Village）"
+	}
+	"ec04_powerstation"
+	{
+		"en"		"发电站（The Power Station）"
+	}
+	"ec05_quarry"
+	{
+		"en"		"采石场（The Quarry）"
+	}
+	"01_Derailed"
+	{
+		"en"		"01_出轨（01_Derailed）"
+	}
+	"02_Cave"
+	{
+		"en"		"02_洞穴（02_Cave）"
+	}
+	"03_prison"
+	{
+		"en"		"03_监狱（03_prison）"
+	}
+	"04_Station"
+	{
+		"en"		"04_车站（04_Station）"
+	}
+	"cfreepassagem1"
+	{
+		"en"		"1：隧道（1: Tunnel）"
+	}
+	"cfreepassagem2"
+	{
+		"en"		"2: 仓库（2: Warehouse）"
+	}
+	"cfreepassagem3"
+	{
+		"en"		"3：救援（3: Rescue）"
+	}
+	"l4d_sc_market"
+	{
+		"en"		"1：杰斯迷你超市（1: Jays Mini-Mart）"
+	}
+	"l4d_sc_construction"
+	{
+		"en"		"2：施工现场（2: Construction Site）"
+	}
+	"l4d_sc_warehouse"
+	{
+		"en"		"3：分拣仓库（3: Sortation Warehouse）"
+	}
+	"l4d2_ff01_woods"
+	{
+		"en"		"1: 森林（1: The Woods）"
+	}
+	"l4d2_ff02_factory"
+	{
+		"en"		"2: 工厂（2: The Factory）"
+	}
+	"l4d2_ff03_highway"
+	{
+		"en"		"3：高速公路（3: The Highway）"
+	}
+	"l4d2_ff04_plant"
+	{
+		"en"		"4：植物（4: The Plant）"
+	}
+	"l4d2_ff05_station"
+	{
+		"en"		"5：火车场结局（5: Trainyard Finale）"
+	}
+	"the_tunnels"
+	{
+		"en"		"隧道（The Tunnels）"
+	}
+	"the_surface"
+	{
+		"en"		"到表面（To The Surface）"
+	}
+	"the_bitter_end"
+	{
+		"en"		"未来的艰难时期（Hard Times Ahead）"
+	}
+	"irr001"
+	{
+		"en"		"公寓楼（The Apartments）"
+	}
+	"irr002"
+	{
+		"en"		"名店（The Shoppes）"
+	}
+	"irr003"
+	{
+		"en"		"英尼斯路（Innes Road）"
+	}
+	"irr004"
+	{
+		"en"		"松景（PineView）"
+	}
+	"irr005"
+	{
+		"en"		"立交桥（The Overpass）"
+	}
+	"irr006"
+	{
+		"en"		"全球统一制度（GHS）"
+	}
+	"Moscow"
+	{
+		"en"		"城市（City）"
+	}
+	"Metro"
+	{
+		"en"		"地铁（Metro）"
+	}
+	"Center"
+	{
+		"en"		"商场（Mall）"
+	}
+	"red_square"
+	{
+		"en"		"红方块（Red square）"
+	}
+	"l4d_ravenholm01_blackmesa"
+	{
+		"en"		"1：黑台东（1: Black Mesa East）"
+	}
+	"l4d_ravenholm02_traptown"
+	{
+		"en"		"2：陷阱镇（2: Trap Town）"
+	}
+	"l4d_ravenholm03_church"
+	{
+		"en"		"3: 教堂（3: The Church）"
+	}
+	"l4d_ravenholm04_cavern"
+	{
+		"en"		"4: 矿井（4: The Mines）"
+	}
+	"l4d_ravenholm05_docks"
+	{
+		"en"		"5：海岸结局（5: Coast Finale）"
+	}
+	"mtlgth001"
+	{
+		"en"		"运河（The Canal）"
+	}
+	"mtlgth002"
+	{
+		"en"		"绿线（The Green Line）"
+	}
+	"mtlgth003"
+	{
+		"en"		"阿特沃特（Atwater）"
+	}
+	"mtlgth004"
+	{
+		"en"		"市中心（Downtown）"
+	}
+	"mtlgth005"
+	{
+		"en"		"皇家山（Mount Royal）"
+	}
+	"map_1_restfulness"
+	{
+		"en"		"休息（Rest）"
+	}
+	"map_2_tranquility"
+	{
+		"en"		"宁静（Tranquility）"
+	}
+	"map_3_tower"
+	{
+		"en"		"高塔（Tower）"
+	}
+	"map_4_delight"
+	{
+		"en"		"喜悦（Delight）"
+	}
+	"map_5_heaven"
+	{
+		"en"		"天堂（Heaven）"
+	}
+	"map_1_garden_of_rest"
+	{
+		"en"		"休息（Rest）"
+	}
+	"map_2_garden_of_the_sphinx"
+	{
+		"en"		"狮身人面像（Sphinx）"
+	}
+	"Map_3_Garden_of_Peace"
+	{
+		"en"		"和平（Peace）"
+	}
+	"map_4_garden_of_tranquility"
+	{
+		"en"		"宁静（Tranquility）"
+	}
+	"map_5_tower_of_tranquility"
+	{
+		"en"		"高塔（Tower）"
+	}
+	"map_6_lemons"
+	{
+		"en"		"柠檬（Lemons）"
+	}
+	"map_7_bubbles"
+	{
+		"en"		"气泡（bubbles）"
+	}
+	"map_8_garden_of_heaven"
+	{
+		"en"		"天堂（Heaven）"
+	}
+	"first-campaign-1"
+	{
+		"en"		"虚构的走廊（Fictional Corridors）"
+	}
+	"first-campaign-2"
+	{
+		"en"		"虚构的走廊（Fictional Hallways）"
+	}
+	"first-campaign-3"
+	{
+		"en"		"Fictional Pits"
+	}
+	"first-campaign-4"
+	{
+		"en"		"Fictional Zones"
+	}
+	"first-campaign-5"
+	{
+		"en"		"Fictional 隧道（Fictional Tunnels）"
+	}
+	"first-campaign-6"
+	{
+		"en"		"Fictional 城市（Fictional City）"
+	}
+	"first-campaign-7"
+	{
+		"en"		"虚构的下水道（Fictional Sewers）"
+	}
+	"first-campaign-8"
+	{
+		"en"		"虚构广场（Fictional Plaza）"
+	}
+	"the_hive_m1"
+	{
+		"en"		"医院（Hospital）"
+	}
+	"the_hive_m2"
+	{
+		"en"		"血统（Descent）"
+	}
+	"the_hive_m3"
+	{
+		"en"		"迷宫（Maze）"
+	}
+	"the_hive_m4"
+	{
+		"en"		"逃生（Escape）"
+	}
+	"the_hive_m5"
+	{
+		"en"		"豪宅（Mansion）"
+	}
+	"cbm1_lake"
+	{
+		"en"		"1: The Lake"
+	}
+	"cbm2_town"
+	{
+		"en"		"2: 教堂（2: The Church）"
+	}
+	"cbm3_bunker"
+	{
+		"en"		"3: 地堡（3: The Bunker）"
+	}
+	"bloodtracks_01"
+	{
+		"en"		"The Harbor"
+	}
+	"bloodtracks_02"
+	{
+		"en"		"森林（The Woods）"
+	}
+	"bloodtracks_03"
+	{
+		"en"		"The Rails"
+	}
+	"bloodtracks_04"
+	{
+		"en"		"The Station"
+	}
+	"hoisting_area"
+	{
+		"en"		"1:吊装码头"
+	}
+	"port_town"
+	{
+		"en"		"2:港口小镇"
+	}
+	"gravel_field"
+	{
+		"en"		"3:碎石场"
+	}
+	"bha01"
+	{
+		"en"		"幽灵森林（Spooky Woods）"
+	}
+	"bha02"
+	{
+		"en"		"火车也死了（Trains Die Too）"
+	}
+	"bha03"
+	{
+		"en"		"The Station"
+	}
+	"rombu04"
+	{
+		"en"		"小奥莱谷仓（Little Ole Barn）"
+	}
+	"rombu05"
+	{
+		"en"		"农舍僵尸（Farmhouse Zombies）"
+	}
+	"las"
+	{
+		"en"		"The Big House"
+	}
+	"magazyn"
+	{
+		"en"		"Railway 仓库（Railway Warehouse）"
+	}
+	"most"
+	{
+		"en"		"Underground Killzone"
+	}
+	"farma"
+	{
+		"en"		"Farm Fury"
+	}
+	"tunele"
+	{
+		"en"		"隧道（The Tunnels）"
+	}
+	"lotnisko"
+	{
+		"en"		"Airport 逃生（Airport Escape）"
+	}
+	"l4d_tbm_1"
+	{
+		"en"		"1：小屋（1: The Cottage）"
+	}
+	"l4d_tbm_2"
+	{
+		"en"		"2：酸屋派对（2: Acid House Party）"
+	}
+	"l4d_tbm_3"
+	{
+		"en"		"3：“远离荒原”（3: 'Keep Off The Moors'）"
+	}
+	"l4d_tbm_4"
+	{
+		"en"		"4: The Old Stag"
+	}
+	"l4d_tbm_5"
+	{
+		"en"		"5: Arthur's Supplies"
+	}
+	"l4d_bs_mansion"
+	{
+		"en"		"Keep On Trucking"
+	}
+	"l4d_bs_riverside"
+	{
+		"en"		"Bloody Riverside Blues"
+	}
+	"l4d_bs_valley_of_death"
+	{
+		"en"		"死亡血腥谷（Death Bloody Valley）"
+	}
+	"l4d_bs_barrage"
+	{
+		"en"		"血腥弹幕（The Bloody Barrage）"
+	}
+	"l4d_bs_bloodyfinale"
+	{
+		"en"		"周日 血腥周日（Sunday Bloody Sunday）"
+	}
+	"av_cap1_posta"
+	{
+		"en"		"邮政通讯（Comienzo en la posta）"
+	}
+	"av_cap2_cancha"
+	{
+		"en"		"坎查大道（Paseo por la cancha）"
+	}
+	"av_cap3_mercado"
+	{
+		"en"		"梅尔卡多防御（defensa en el mercado）"
+	}
+	"av_cap4_avenida"
+	{
+		"en"		"逃离大道（Escape de la avenida）"
+	}
+	"av_cap5_colegio"
+	{
+		"en"		"学院的高潮（Cl�max en el colegio）"
+	}
+	"av_bus_parque"
+	{
+		"en"		"公园（parque）"
+	}
+	"bs1_town"
+	{
+		"en"		"1.小镇（1.Town）"
+	}
+	"bs2_cathedral"
+	{
+		"en"		"2.大教堂（2.Cathedral）"
+	}
+	"bs3_moon"
+	{
+		"en"		"3.月亮（3.Moon）"
+	}
+	"bs4_archive"
+	{
+		"en"		"4.存档（4.Archive）"
+	}
+	"bs5_hamlet"
+	{
+		"en"		"5.哈姆雷特（5.Hamlet）"
+	}
+	"twd_ep1"
+	{
+		"en"		"第一集：团聚（Episode 1: Reunion）"
+	}
+	"twd_ep2"
+	{
+		"en"		"第 2 集：月光（Episode 2: Moonlit）"
+	}
+	"twd_ep3"
+	{
+		"en"		"第3集：旅行者（Episode 3: Traveller）"
+	}
+	"twd_ep4"
+	{
+		"en"		"第 4 集：在路上（Epsiode 4: On The Road）"
+	}
+	"twd_ep5"
+	{
+		"en"		"第5集：告别（Episode 5: Farewell）"
+	}
+	"zm_rush_01"
+	{
+		"en"		"石头世界（World Of Stone）"
+	}
+	"l4d2_Dep1"
+	{
+		"en"		"监狱（Jail）"
+	}
+	"l4d2_Dep2"
+	{
+		"en"		"停车场（THeParking）"
+	}
+	"l4d2_Dep3"
+	{
+		"en"		"大厅（Hall）"
+	}
+	"l4d2_Dep4"
+	{
+		"en"		"道路（Road）"
+	}
+	"cpoop_1"
+	{
+		"en"		"诺兰/11（Nolan/11）"
+	}
+	"cpoop_2_nolanhq"
+	{
+		"en"		"诺兰总部（Nolan HQ）"
+	}
+	"cpoop_3_blighttown"
+	{
+		"en"		"枯萎小镇（Blight Town）"
+	}
+	"cpoop_4_fmailytown"
+	{
+		"en"		"家庭小镇（Fmaily Town）"
+	}
+	"cpoop_4b_intersection"
+	{
+		"en"		"交叉口（Intersection）"
+	}
+	"cpoop_4c_backrooms"
+	{
+		"en"		"后室（Back Rooms）"
+	}
+	"cpoop_4d_kazapple"
+	{
+		"en"		"卡扎苹果（Kazapple）"
+	}
+	"Laborotory"
+	{
+		"en"		"1: Лаборатория"
+	}
+	"Laborotory2"
+	{
+		"en"		"2: Экспериментальная лаборатория"
+	}
+	"besagash7km"
+	{
+		"en"		"3: Кафе Малика7км"
+	}
+	"besagash7km2"
+	{
+		"en"		"4：专业医疗（4: ProMedical）"
+	}
+	"BesagashFinalBazar"
+	{
+		"en"		"5: 8км Базар"
+	}
+	"l4d2_ze_kage"
+	{
+		"en"		"阶段1_1（Stage 1_1）"
+	}
+	"redtide_01_alleyways"
+	{
+		"en"		"小巷（Alleyways）"
+	}
+	"redtide_02_condo"
+	{
+		"en"		"公寓（Condo）"
+	}
+	"redtide_03_carshow"
+	{
+		"en"		"车展（Car Show）"
+	}
+	"redtide_04_retirementhome"
+	{
+		"en"		"退休之家（Retirement Home）"
+	}
+	"redtide_05_beachfront"
+	{
+		"en"		"海滨终局（Beachfront Finale）"
+	}
+	"outruncity_01"
+	{
+		"en"		"街机（Arcade）"
+	}
+	"outruncity_02"
+	{
+		"en"		"高速公路（Highway）"
+	}
+	"outrunsky_03"
+	{
+		"en"		"高地（Heights）"
+	}
+	"outruncity_04"
+	{
+		"en"		"街道（Streets）"
+	}
+	"outrungridfinale_05"
+	{
+		"en"		"网格（Grid）"
+	}
+	"e3m1_phobosanomaly"
+	{
+		"en"		"1：火卫一异常（1: Phobos Anomaly）"
+	}
+	"e3m2_rotenacht"
+	{
+		"en"		"2：死记硬背（2: Rote Nacht）"
+	}
+	"e3m3_descent"
+	{
+		"en"		"3：下降（3: Descent）"
+	}
+	"e3m4_intothenothing"
+	{
+		"en"		"4：进入虚无（4: Into the Nothing）"
+	}
+	"e3m5_templeofmalevolence"
+	{
+		"en"		"5：恶毒神殿（5: Temple of Malevolence）"
+	}
+	"e3m6_tombofmalphas"
+	{
+		"en"		"6：玛法斯之墓（6: Tomb of Malphas）"
+	}
+	"e3m7_obelisk"
+	{
+		"en"		"7: 方尖碑（7: Obelisk）"
+	}
+	"rw_beach1"
+	{
+		"en"		"1: 漫长的道路（1: The Long Road）"
+	}
+	"rw_bridge2"
+	{
+		"en"		"2: 桥（2: The Bridge）"
+	}
+	"rw_city3"
+	{
+		"en"		"3：城市（3: The City）"
+	}
+	"rw_artdeco4"
+	{
+		"en"		"4：主干道（4: The Main Avenue）"
+	}
+	"rw_mansion5"
+	{
+		"en"		"5：豪宅（5: The Mansion）"
+	}
+	"fox_river"
+	{
+		"en"		"福克斯河（fox river）"
+	}
+	"Prison_Yard"
+	{
+		"en"		"监狱院子（Prison Yard）"
+	}
+	"medical_room"
+	{
+		"en"		"今晚（Tonight）"
+	}
+	"Tonight"
+	{
+		"en"		"逃！（flee!）"
+	}
+	"l4d_co_canal"
+	{
+		"en"		"十字路口1（Crossing1）"
+	}
+	"l4d_co_church"
+	{
+		"en"		"穿越2（Crossing2）"
+	}
+	"l4d_co_school"
+	{
+		"en"		"穿越3（Crossing3）"
+	}
+	"l4d_co_granary"
+	{
+		"en"		"穿越4（Crossing4）"
+	}
+	"l4d_co_bridge"
+	{
+		"en"		"穿越5（Crossing5）"
+	}
+	"outline_m1"
+	{
+		"en"		"起来（Rise up）"
+	}
+	"outline_m2"
+	{
+		"en"		"参观这座城市（Visit the city）"
+	}
+	"outline_m3"
+	{
+		"en"		"穿过小镇（Through the town）"
+	}
+	"outline_m4"
+	{
+		"en"		"在院子里休息（Rest in yard）"
+	}
+	"grave_yard"
+	{
+		"en"		"墓地（Grave Yard）"
+	}
+	"grave_discovery"
+	{
+		"en"		"Grave Discovery"
+	}
+	"grave_finale"
+	{
+		"en"		"Grave Consequences"
+	}
+	"grave_yard_survival"
+	{
+		"en"		"Grave Yard - Survival"
+	}
+	"grave_finale_survival"
+	{
+		"en"		"Grave Consequences - Survival"
+	}
+	"fnv_strip"
+	{
+		"en"		"1：拉斯维加斯大道（1: The Strip）"
+	}
+	"fnv_vault22"
+	{
+		"en"		"2：22号避难所（2: Vault 22）"
+	}
+	"fnv_freeside"
+	{
+		"en"		"3: The Freeside"
+	}
+	"fallout_new_vegas"
+	{
+		"en"		"1：拉斯维加斯大道（1: The Strip）"
+	}
+	"cdta_01detour"
+	{
+		"en"		"DTA1 Detour"
+	}
+	"cdta_02road"
+	{
+		"en"		"DTA2 Hill"
+	}
+	"cdta_03warehouse"
+	{
+		"en"		"DTA3 Warehouse"
+	}
+	"cdta_04onarail"
+	{
+		"en"		"DTA4 On A Rail"
+	}
+	"cdta_05finalroad"
+	{
+		"en"		"DTA5 Final Road"
+	}
+	"xiaoqure"
+	{
+		"en"		"xiaoqu"
+	}
+	"xuexiaore"
+	{
+		"en"		"xuexiao"
+	}
+	"songbiere"
+	{
+		"en"		"songbie"
+	}
+	"lltyre"
+	{
+		"en"		"love letter to Yu"
+	}
+	"Dead_Series1"
+	{
+		"en"		"绝望屋道（Desperate Houseway）"
+	}
+	"Dead_Series2"
+	{
+		"en"		"ColdstairCase"
+	}
+	"Dead_Series3"
+	{
+		"en"		"SmallEvill"
+	}
+	"Dead_Series4"
+	{
+		"en"		"Band of Rushers"
+	}
+	"lost01_club"
+	{
+		"en"		"1：小巷（1: Alleys）"
+	}
+	"lost02_"
+	{
+		"en"		"2：施工区（2: Construction Zone）"
+	}
+	"lost03"
+	{
+		"en"		"3: 沼泽上的房子（3: House on the Swamp）"
+	}
+	"lost04"
+	{
+		"en"		"4: 小镇（4: Town）"
+	}
+	"lost02_1"
+	{
+		"en"		"5: Ruined House"
+	}
+	"lost02_2"
+	{
+		"en"		"6：公寓的屋顶（6: Roof of the Apartments）"
+	}
+	"lost01_scavenge"
+	{
+		"en"		"1：小巷（1: Alleys）"
+	}
+	"lost02_scavenge"
+	{
+		"en"		"2：施工区（2: Construction Zone）"
+	}
+	"lost02_2_survival"
+	{
+		"en"		"1: Roof of the Apartments"
+	}
+	"lost_map1"
+	{
+		"en"		"The Lost"
+	}
+	"lost_map2"
+	{
+		"en"		"迷雾（The Mist）"
+	}
+	"lost_map3"
+	{
+		"en"		"该死的（The Damned）"
+	}
+	"lost_map4"
+	{
+		"en"		"结局（The End）"
+	}
+	"bunker"
+	{
+		"en"		"地堡（Bunker）"
+	}
+	"goingout"
+	{
+		"en"		"外出（Going out）"
+	}
+	"followthetracks"
+	{
+		"en"		"跟随足迹（Follow the tracks）"
+	}
+	"heyvirgil"
+	{
+		"en"		"嘿维吉尔（Hey Virgil）"
+	}
+	"smokedwarehouse100"
+	{
+		"en"		"熏仓（Smoked warehouse）"
+	}
+	"efcy_m1"
+	{
+		"en"		"1: 逃生（1: Escape）"
+	}
+	"efcy_m2"
+	{
+		"en"		"2：城堡要塞（2: Castle Keep）"
+	}
+	"efcy_m3"
+	{
+		"en"		"3：乘坐电车（3: Tram Ride）"
+	}
+	"efcy_m4"
+	{
+		"en"		"4：市中心（4: Down Town）"
+	}
+	"efcy_m5"
+	{
+		"en"		"5: 坟墓（5: The Tomb）"
+	}
+	"efcy_m6"
+	{
+		"en"		"6：废墟深处（6: Deep In The Ruins）"
+	}
+	"efcy_m7"
+	{
+		"en"		"7：逃离废墟（7: Run From The Ruins）"
+	}
+	"efcy_m3_s"
+	{
+		"en"		"乘坐电车（Tram Ride）"
+	}
+	"efcy_m4_scavenge"
+	{
+		"en"		"墓地（Cemetery）"
+	}
+	"hualong"
+	{
+		"en"		"生活区"
+	}
+	"hualong2"
+	{
+		"en"		"教学区"
+	}
+	"hualong3"
+	{
+		"en"		"化龙湖道"
+	}
+	"bossfight"
+	{
+		"en"		"黄昏黑星（黄昏黑星（隐藏关boss战））"
+	}
+	"siheyuanfangshou"
+	{
+		"en"		"四合院内部"
+	}
+	"xiaochibian"
+	{
+		"en"		"池边公园"
+	}
+	"jvminglou"
+	{
+		"en"		"居民楼"
+	}
+	"l4d2_coaldblood01nsz"
+	{
+		"en"		"蒸汽口（The Steam Vent）"
+	}
+	"l4d2_coaldblood02nsz"
+	{
+		"en"		"悬崖（The Cliff）"
+	}
+	"l4d2_coaldblood03nsz"
+	{
+		"en"		"装载码头（Loading Docks）"
+	}
+	"l4d2_coaldblood04nsz"
+	{
+		"en"		"设施（The Facility）"
+	}
+	"l4d2_coaldblood05nsz"
+	{
+		"en"		"泵房（The Pump Room）"
+	}
+	"l4d2_coaldblood06modnsz"
+	{
+		"en"		"终局班车（Shuttle Finale）"
+	}
+	"leftatwalmart1"
+	{
+		"en"		"销售楼层（Sales Floor）"
+	}
+	"leftatwalmart2"
+	{
+		"en"		"装卸码头（Loading Dock）"
+	}
+	"leftatwalmart3"
+	{
+		"en"		"花园中心（Garden Center）"
+	}
+	"leftatwalmart4"
+	{
+		"en"		"天坑（Sinkhole）"
+	}
+	"leftatwalmart5"
+	{
+		"en"		"加油站（Fuel Station）"
+	}
+	"awaystadium_c1"
+	{
+		"en"		"码头仓库（Dockside Warehouse）"
+	}
+	"awaystadium_c2"
+	{
+		"en"		"地下下水道（Underground Sewers）"
+	}
+	"awaystadium_c3"
+	{
+		"en"		"地下迷宫（Underground Maze）"
+	}
+	"hotarubi_map1"
+	{
+		"en"		"迷宫（The Labyrinth）"
+	}
+	"hotarubi_map2"
+	{
+		"en"		"前往地面（Go To Ground）"
+	}
+	"hotarubi_map3"
+	{
+		"en"		"废墟中...（In Ruins...）"
+	}
+	"quart"
+	{
+		"en"		"街道（Streets）"
+	}
+	"nuevocentro_ext"
+	{
+		"en"		"商场外观（Mall Exterior）"
+	}
+	"nuevocentro_int"
+	{
+		"en"		"商场内部（Mall Interior）"
+	}
+	"metro_vlc"
+	{
+		"en"		"Subway"
+	}
+	"metro_vlc_surv"
+	{
+		"en"		"Subway"
+	}
+	"exmala1_1"
+	{
+		"en"		"消防站飞行（Firehouse Flight）"
+	}
+	"exmala1_2"
+	{
+		"en"		"市政厅恐怖事件（Townhall Terror）"
+	}
+	"exmala1_3"
+	{
+		"en"		"美国1起义（US 1 Uprising）"
+	}
+	"rh_map01"
+	{
+		"en"		"1: 火车站（1: The Train Yard）"
+	}
+	"rh_map02"
+	{
+		"en"		"2：阿什镇（2: The Ash Township）"
+	}
+	"rh_map03"
+	{
+		"en"		"3：阿什高速公路（3: Ash Highway）"
+	}
+	"rh_map04"
+	{
+		"en"		"4：灰烬边境口岸（4: Ash Border Cross）"
+	}
+	"rh_map05"
+	{
+		"en"		"5：灰山山顶（5: Ash Mountain Summit）"
+	}
+	"helipad"
+	{
+		"en"		"塞达依瓦克中心（Ceda Evac Center）"
+	}
+	"threedays01"
+	{
+		"en"		"十年之境"
+	}
+	"threedays02"
+	{
+		"en"		"昨日惊现"
+	}
+	"threedays03"
+	{
+		"en"		"忆往昔途"
+	}
+	"threedays04"
+	{
+		"en"		"镇魂之声"
+	}
+	"threedays05"
+	{
+		"en"		"殊途同归"
+	}
+	"2ee_01"
+	{
+		"en"		"致命的开始（deadlybeginning）"
+	}
+	"2ee_02"
+	{
+		"en"		"致命之水（deadlywater）"
+	}
+	"2ee_03"
+	{
+		"en"		"死停（deadstop）"
+	}
+	"2ee_04"
+	{
+		"en"		"死车（deadtrain）"
+	}
+	"2ee_05"
+	{
+		"en"		"死亡风暴（deadstorm）"
+	}
+	"2ee_06"
+	{
+		"en"		"死胡同（deadend）"
+	}
+	"l4d2_viy"
+	{
+		"en"		"维伊（Viy）"
+	}
+	"urbanian_hell01"
+	{
+		"en"		"1：郊区街道（1: Suburban streets）"
+	}
+	"urbanian_hell02"
+	{
+		"en"		"2：公寓楼（2: Apartment building）"
+	}
+	"urbanian_hell03"
+	{
+		"en"		"3：小巷（3: Alleys）"
+	}
+	"urbanian_hell04"
+	{
+		"en"		"4：公寓屋顶结局（4: Apartment Roof Finale）"
+	}
+	"farmwar"
+	{
+		"en"		"农场战争（farmwar）"
+	}
+	"boomerfactory"
+	{
+		"en"		"婴儿潮一代工厂（boomerfactory）"
+	}
+	"armorfactory"
+	{
+		"en"		"军械厂（armorfactory）"
+	}
+	"tankfactory"
+	{
+		"en"		"罐厂（tankfactory）"
+	}
+	"headquarters"
+	{
+		"en"		"总部（headquarters）"
+	}
+	"l4d_cc1"
+	{
+		"en"		"1: 监狱（1: The Prison）"
+	}
+	"l4d_cc2"
+	{
+		"en"		"2：杂草丛生的设施（2: The Overgrown Facility）"
+	}
+	"l4d_cc3"
+	{
+		"en"		"3：屠夫的游戏（3: The Butcher's Game）"
+	}
+	"l4d_cc4"
+	{
+		"en"		"4：残酷的结果（4: The Brutal Outcome）"
+	}
+	"l4d_cc5"
+	{
+		"en"		"5：来源（5: The Source）"
+	}
+	"l4d_cctf1"
+	{
+		"en"		"1：被遗忘者（1: Forsaken）"
+	}
+	"l4d_cctf2"
+	{
+		"en"		"2：新希望（2: New Hope）"
+	}
+	"l4d_cctf3"
+	{
+		"en"		"3：障碍（3: Obstacles）"
+	}
+	"l4d_cctf4"
+	{
+		"en"		"4：锁定（4: Lock-Down）"
+	}
+	"l4d_cctf5"
+	{
+		"en"		"5：自由（5: Freedom）"
+	}
+	"l4d2_stadium1_apartment"
+	{
+		"en"		"公寓（The Apartment）"
+	}
+	"l4d2_stadium2_riverwalk"
+	{
+		"en"		"河滨步道（The Riverwalk）"
+	}
+	"l4d2_stadium3_city1"
+	{
+		"en"		"法律（The Law）"
+	}
+	"l4d2_stadium4_city2"
+	{
+		"en"		"城市（The City）"
+	}
+	"l4d2_stadium5_stadium"
+	{
+		"en"		"体育场（The Stadium）"
+	}
+	"l4d2_vs_stadium2_riverwalk"
+	{
+		"en"		"河滨步道对比（The Riverwalk Versus）"
+	}
+	"l4d2_sv_stadium2_riverwalk"
+	{
+		"en"		"河滨生存（The Riverwalk Survival）"
+	}
+	"l4d2_sv_stadium3_city1"
+	{
+		"en"		"生存法则（The Law Survival）"
+	}
+	"l4d2_sv_stadium4_city2"
+	{
+		"en"		"城市生存（The City Survival）"
+	}
+	"m1_island"
+	{
+		"en"		"海岛"
+	}
+	"m2_vally"
+	{
+		"en"		"山谷"
+	}
+	"m3_desert"
+	{
+		"en"		"沙漠"
+	}
+	"m4_city"
+	{
+		"en"		"城市"
+	}
+	"bjrtc2_lvl1"
+	{
+		"en"		"1：绝望（1: The Despair）"
+	}
+	"bjrtc2_lvl2"
+	{
+		"en"		"2：南下（2: Going Southward）"
+	}
+	"bjrtc2_lvl3"
+	{
+		"en"		"3：失去支持（3: Out of Support）"
+	}
+	"bjrtc2_lvl4"
+	{
+		"en"		"4：死亡办公室（4: Dead Office）"
+	}
+	"bjrtc2_lvl5"
+	{
+		"en"		"5：毫发无伤（5: Being Unscathed）"
+	}
+	"winterriver_bridge"
+	{
+		"en"		"阿斯拉玛特之印（The Seal of Asrahmat）"
+	}
+	"sd01_airfield"
+	{
+		"en"		"1：地下通道（1: The Underpass）"
+	}
+	"sd02_thedusk"
+	{
+		"en"		"2: 老城区（2: The Old Town）"
+	}
+	"sd03_themines"
+	{
+		"en"		"3: 矿井（3: The Mines）"
+	}
+	"sd04_apcescape"
+	{
+		"en"		"4：港口（4: The Harbor）"
+	}
+	"nma_m1"
+	{
+		"en"		"1:新月城"
+	}
+	"nma_m2"
+	{
+		"en"		"2:浮空岛"
+	}
+	"nma_m3"
+	{
+		"en"		"3:霓虹町"
+	}
+	"nma_m4"
+	{
+		"en"		"4:幻想乡"
+	}
+	"bjrtcre_m1"
+	{
+		"en"		"货场（Freight Yard）"
+	}
+	"bjrtcre_m2_left"
+	{
+		"en"		"不安的河岸（Restless Riverbank）"
+	}
+	"bjrtcre_m2_right"
+	{
+		"en"		"光明大道（Bright Avenue）"
+	}
+	"bjrtcre_m3"
+	{
+		"en"		"新月城市（Crescent City）"
+	}
+	"bjrtcre_m4"
+	{
+		"en"		"南航站楼（Southern Terminal）"
+	}
+	"bjrtcre_m5"
+	{
+		"en"		"最后的旅程（The Last Journey）"
+	}
+	"esc_jailbreak"
+	{
+		"en"		"越狱（Jailbreak）"
+	}
+	"esc_sunken_park"
+	{
+		"en"		"下沉公园（Sunken Park）"
+	}
+	"esc_bypass"
+	{
+		"en"		"旁路（Bypass）"
+	}
+	"esc_fly_me_to_the_moon"
+	{
+		"en"		"带我去月球（Fly me to the Moon）"
+	}
+	"navigation_map01"
+	{
+		"en"		"车间（Workshop）"
+	}
+	"navigation_map02"
+	{
+		"en"		"Sewer"
+	}
+	"navigation_map03"
+	{
+		"en"		"停车场（Parking Lot）"
+	}
+	"navigation_map04"
+	{
+		"en"		"加油站（Gas Station）"
+	}
+	"hf01_theforest"
+	{
+		"en"		"1：森林（1: The Forest）"
+	}
+	"hf02_thesteeple"
+	{
+		"en"		"2: 尖塔（2: The Steeple）"
+	}
+	"hf03_themansion"
+	{
+		"en"		"3：豪宅（3: The Mansion）"
+	}
+	"hf04_escape"
+	{
+		"en"		"4: 隧道（4: The Tunnel）"
+	}
+	"wbtwr_abandoned_woodland"
+	{
+		"en"		"废弃的公园（Abandoned Park）"
+	}
+	"wbtwr_forest_cabin"
+	{
+		"en"		"森林小屋（Forest Cabin）"
+	}
+	"wbtwr_forest_branches2"
+	{
+		"en"		"森林仓库（Forest Warehouse）"
+	}
+	"wbtwr_hilltop"
+	{
+		"en"		"山顶（Hilltops）"
+	}
+	"wbtwr_holdout"
+	{
+		"en"		"森林顽固分子（Forest Holdout）"
+	}
+	"stormed_city1"
+	{
+		"en"		"1：坠机地点（1: Crash Site）"
+	}
+	"stormed_city2"
+	{
+		"en"		"2：小巷（2: Alleyway）"
+	}
+	"stormed_city3"
+	{
+		"en"		"3：地下通道（3: Underpass）"
+	}
+	"stormed_city4"
+	{
+		"en"		"4：地铁隧道（4: Subway Tunnel）"
+	}
+	"stormed_city5"
+	{
+		"en"		"5：仓库结局（5: Warehouse Finale）"
+	}
+	"splash1"
+	{
+		"en"		"主街（Main Street）"
+	}
+	"splash2"
+	{
+		"en"		"探险世界（Adventureland）"
+	}
+	"splash3"
+	{
+		"en"		"新奥尔良广场（New Orleans Square）"
+	}
+	"splash4"
+	{
+		"en"		"飞溅山（Splash Mountain）"
+	}
+	"splash5"
+	{
+		"en"		"小动物之国（Critter Country）"
+	}
+	"splash6"
+	{
+		"en"		"飞溅山自由滑行（Splash Mountain Freeride）"
+	}
+	"ch_map1_city"
+	{
+		"en"		"城市（The City）"
+	}
+	"ch_map2_temple"
+	{
+		"en"		"寺庙（The Temple）"
+	}
+	"ch_map3_greatwall"
+	{
+		"en"		"长城（The Great Wall）"
+	}
+	"C1_mario1_1"
+	{
+		"en"		"世界1-1（World 1-1）"
+	}
+	"C1_mario1_2"
+	{
+		"en"		"世界1-2（World 1-2）"
+	}
+	"C1_mario1_3"
+	{
+		"en"		"世界1-3和1-4（World 1-3 & 1-4）"
+	}
+	"C1_mario1_4"
+	{
+		"en"		"终局（Finale）"
+	}
+	"tower1"
+	{
+		"en"		"商场（Mall）"
+	}
+	"tower2"
+	{
+		"en"		"医院（Hospihell）"
+	}
+	"tower3"
+	{
+		"en"		"失落的婚礼（Lost Wedding）"
+	}
+	"tower4"
+	{
+		"en"		"电视台（TV Station）"
+	}
+	"tower5"
+	{
+		"en"		"屋顶（Rooftop）"
+	}
+	"dm1_suburbs"
+	{
+		"en"		"1：郊区（1: Suburbs）"
+	}
+	"dm2_blastzone"
+	{
+		"en"		"2：爆炸区（2: Blast Zone）"
+	}
+	"dm3_canyon"
+	{
+		"en"		"3：峡谷（3: Canyon）"
+	}
+	"dm4_caves"
+	{
+		"en"		"4：洞穴（4: Caves）"
+	}
+	"dm5_summit"
+	{
+		"en"		"5：峰会（5: Summit）"
+	}
+	"duck_c1m1"
+	{
+		"en"		"鸭子一号（Duck 1）"
+	}
+	"duck_c1m2"
+	{
+		"en"		"鸭子二号（Duck 2）"
+	}
+	"duck_c1m3"
+	{
+		"en"		"鸭子四号（Duck 4）"
+	}
+	"duck_c1m4"
+	{
+		"en"		"鸭八号（Duck 8）"
+	}
+	"duck_c1m5"
+	{
+		"en"		"超级斯特罗德（Super Stroad）"
+	}
+	"duck_c1m19208"
+	{
+		"en"		"鸭子MMMMMMMMMMMMMMMMCCVIII（Duck MMMMMMMMMMMMMMMMMMMCCVIII）"
+	}
+	"m1_city_outpost"
+	{
+		"en"		"1:城市前哨"
+	}
+	"m2_through_forest"
+	{
+		"en"		"2:穿越森林"
+	}
+	"m3_fled_town"
+	{
+		"en"		"3:逃离小镇"
+	}
+	"m4_north_bridge"
+	{
+		"en"		"4:北方大桥"
+	}
+	"watercity_re"
+	{
+		"en"		"1:水城"
+	}
+	"watercityii_re"
+	{
+		"en"		"2:水城2"
+	}
+	"town_re"
+	{
+		"en"		"3:军用通道"
+	}
+	"arena_re"
+	{
+		"en"		"4:竞技场"
+	}
+	"damshort170surv"
+	{
+		"en"		"阿尔汉格尔斯克大坝（Arkhangelsk Dam）"
+	}
+	"gemarshy02fac"
+	{
+		"en"		"化学设施（Chemical Facility）"
+	}
+	"gemarshy03aztec"
+	{
+		"en"		"阿兹特克建筑群（Aztec Complex）"
+	}
+	"facilitysurvfirsthalf04"
+	{
+		"en"		"设施 1 生存（Facility 1 Survival）"
+	}
+	"l4d2_daybreak01_hotel"
+	{
+		"en"		"1：酒店（1: The Hotel）"
+	}
+	"l4d2_daybreak02_coastline"
+	{
+		"en"		"2：海岸线（2: The Coastline）"
+	}
+	"l4d2_daybreak03_bridge"
+	{
+		"en"		"3: 桥（3: The Bridge）"
+	}
+	"l4d2_daybreak04_cruise"
+	{
+		"en"		"4: 郊外（4: The Outskirts）"
+	}
+	"l4d2_daybreak05_rescue"
+	{
+		"en"		"5：恶魔岛结局（5: Alcatraz Finale）"
+	}
+	"tdwb_m1_basement"
+	{
+		"en"		"1:基地"
+	}
+	"tdwbm2"
+	{
+		"en"		"2:下水道"
+	}
+	"tdwbm3"
+	{
+		"en"		"3:管道"
+	}
+	"tdwbm4"
+	{
+		"en"		"4:海岸"
+	}
+	"l4d2_hl1_1"
+	{
+		"en"		"异常材料（Anomalous Materials）"
+	}
+	"l4d2_hl1_2"
+	{
+		"en"		"不可预见的后果 1（Unforeseen Consequences 1）"
+	}
+	"l4d2_hl1_3"
+	{
+		"en"		"不可预见的后果 2（Unforeseen Consequences 2）"
+	}
+	"l4d2_hl1_4"
+	{
+		"en"		"办公大楼（Office Complex）"
+	}
+	"l4d2_hl1_5"
+	{
+		"en"		"我们有敌人（We Got Hostiles）"
+	}
+	"bmhev_01"
+	{
+		"en"		"炼油厂（Oil Refinery）"
+	}
+	"bmhev_02"
+	{
+		"en"		"残渣处理（Residue Processing）"
+	}
+	"bmhev_03"
+	{
+		"en"		"铸造厂（The Foundry）"
+	}
+	"bmhev_04"
+	{
+		"en"		"低温实验室（Cryogenic Lab）"
+	}
+	"bmhev_05"
+	{
+		"en"		"氧反应器（Lambda Reactor）"
+	}
+	"bmhev_05_vs"
+	{
+		"en"		"氧反应器（Lambda Reactor）"
+	}
+	"c5a1"
+	{
+		"en"		"危险区（Danger Zone）"
+	}
+	"c5a2"
+	{
+		"en"		"弱光（Low Light）"
+	}
+	"c5a3"
+	{
+		"en"		"爆破坑（Blast Pit）"
+	}
+	"c5a4"
+	{
+		"en"		"表面张力（Surface Tension）"
+	}
+	"c5a5"
+	{
+		"en"		"后果（Fallouts）"
+	}
+	"BlackMesa_Undertow_01"
+	{
+		"en"		"通电（Power Up）"
+	}
+	"BlackMesa_Undertow_02"
+	{
+		"en"		"暗流（The Undertow）"
+	}
+	"BlackMesa_Undertow_03"
+	{
+		"en"		"道德可疑（Questionable Ethics）"
+	}
+	"BlackMesa_Undertow_04"
+	{
+		"en"		"表面张力（Surface Tension）"
+	}
+	"dw_woods"
+	{
+		"en"		"1：伍兹（1: Woods）"
+	}
+	"dw_underground"
+	{
+		"en"		"2: 地下通道（2: Underground）"
+	}
+	"dw_complex"
+	{
+		"en"		"3：实验室（3: Laboratory）"
+	}
+	"dw_otherworld"
+	{
+		"en"		"4：监狱（4: Prison）"
+	}
+	"dw_final"
+	{
+		"en"		"5：教堂（5: Church）"
+	}
+	"bw2_m1"
+	{
+		"en"		"地图1（Map 1）"
+	}
+	"bw2_m2"
+	{
+		"en"		"地图2（Map 2）"
+	}
+	"bw2_m3"
+	{
+		"en"		"地图3（Map 3）"
+	}
+	"bw2_m4"
+	{
+		"en"		"地图4（Map 4）"
+	}
+	"l4d2_darkblood01_tanker"
+	{
+		"en"		"油轮（Tanker Ship）"
+	}
+	"l4d2_darkblood02_engine"
+	{
+		"en"		"油轮发动机（Tanker Engine）"
+	}
+	"l4d2_darkblood03_platform"
+	{
+		"en"		"平台（Platform）"
+	}
+	"l4d2_darkblood04_extraction"
+	{
+		"en"		"萃取（Extraction）"
+	}
+	"d1_trainstation_01_d"
+	{
+		"en"		"1-进入地点"
+	}
+	"d1_trainstation_02_d"
+	{
+		"en"		"2-进入地点"
+	}
+	"d1_trainstation_03_d"
+	{
+		"en"		"3-进入地点"
+	}
+	"d1_trainstation_04_d"
+	{
+		"en"		"4-进入地点"
+	}
+	"d1_trainstation_05_d"
+	{
+		"en"		"5-好日子"
+	}
+	"d1_trainstation_06_d"
+	{
+		"en"		"6-好日子"
+	}
+	"d1_canals_01_d"
+	{
+		"en"		"7-运河航道"
+	}
+	"d1_canals_01a_d"
+	{
+		"en"		"8-运河航道"
+	}
+	"d1_canals_02_d"
+	{
+		"en"		"9-运河航道"
+	}
+	"d1_canals_03_d"
+	{
+		"en"		"10-运河航道"
+	}
+	"d1_canals_05_d"
+	{
+		"en"		"11-运河航道"
+	}
+	"d1_canals_06_d"
+	{
+		"en"		"12-水障碍区"
+	}
+	"d1_canals_07_d"
+	{
+		"en"		"13-水障碍区"
+	}
+	"d1_canals_08_d"
+	{
+		"en"		"14-水障碍区"
+	}
+	"d1_canals_09_d"
+	{
+		"en"		"15-水障碍区"
+	}
+	"d1_canals_10_d"
+	{
+		"en"		"16-水障碍区"
+	}
+	"d1_canals_11_d"
+	{
+		"en"		"17-水障碍区"
+	}
+	"d1_canals_12_d"
+	{
+		"en"		"18-水障碍区"
+	}
+	"d1_canals_13_d"
+	{
+		"en"		"19-水障碍区"
+	}
+	"d1_eli_01_d"
+	{
+		"en"		"20-黑山基地东区"
+	}
+	"d1_eli_02_d"
+	{
+		"en"		"21-黑山基地东区"
+	}
+	"d1_town_01_d"
+	{
+		"en"		"22-我们不去莱温霍姆"
+	}
+	"d1_town_01a_d"
+	{
+		"en"		"23-我们不去莱温霍姆"
+	}
+	"d1_town_02_d"
+	{
+		"en"		"24-我们不去莱温霍姆"
+	}
+	"d1_town_02a_d"
+	{
+		"en"		"25-我们不去莱温霍姆"
+	}
+	"d1_town_04_d"
+	{
+		"en"		"26-我们不去莱温霍姆"
+	}
+	"d1_town_05_d"
+	{
+		"en"		"27-我们不去莱温霍姆"
+	}
+	"d2_coast_01_d"
+	{
+		"en"		"28-17号高速公路"
+	}
+	"d2_coast_03_d"
+	{
+		"en"		"29-17号高速公路"
+	}
+	"d2_coast_04_d"
+	{
+		"en"		"30-17号高速公路"
+	}
+	"d2_coast_05_d"
+	{
+		"en"		"31-17号高速公路"
+	}
+	"d2_coast_07_d"
+	{
+		"en"		"32-17号高速公路"
+	}
+	"d2_coast_09_d"
+	{
+		"en"		"33-沙地陷阱"
+	}
+	"d2_coast_10_d"
+	{
+		"en"		"34-沙地陷阱"
+	}
+	"d2_coast_11_d"
+	{
+		"en"		"35-沙地陷阱"
+	}
+	"d2_coast_12_d"
+	{
+		"en"		"36-沙地陷阱"
+	}
+	"d2_prison_01_d"
+	{
+		"en"		"37-沙地陷阱"
+	}
+	"d2_prison_02_d"
+	{
+		"en"		"38-诺瓦矿场"
+	}
+	"d2_prison_03_d"
+	{
+		"en"		"39-诺瓦矿场"
+	}
+	"d2_prison_04_d"
+	{
+		"en"		"40-诺瓦矿场"
+	}
+	"d2_prison_05_d"
+	{
+		"en"		"41-诺瓦矿场"
+	}
+	"d2_prison_06_d"
+	{
+		"en"		"42-牵连设备"
+	}
+	"d2_prison_07_d"
+	{
+		"en"		"43-牵连设备"
+	}
+	"d2_prison_08_d"
+	{
+		"en"		"44-牵连设备"
+	}
+	"d3_c17_01_d"
+	{
+		"en"		"45-牵连设备"
+	}
+	"d3_c17_02_d"
+	{
+		"en"		"46-反叛者1号"
+	}
+	"d3_c17_03_d"
+	{
+		"en"		"47-反叛者1号"
+	}
+	"d3_c17_04_d"
+	{
+		"en"		"48-反叛者1号"
+	}
+	"d3_c17_05_d"
+	{
+		"en"		"49-反叛者1号"
+	}
+	"d3_c17_06a_d"
+	{
+		"en"		"50-反叛者1号"
+	}
+	"d3_c17_06b_d"
+	{
+		"en"		"51-反叛者1号"
+	}
+	"d3_c17_07_d"
+	{
+		"en"		"52-反叛者1号"
+	}
+	"d3_c17_08_d"
+	{
+		"en"		"53-反叛者1号"
+	}
+	"d3_c17_09_d"
+	{
+		"en"		"54-跟随弗里曼"
+	}
+	"d3_c17_10a_d"
+	{
+		"en"		"55-跟随弗里曼"
+	}
+	"d3_c17_10b_d"
+	{
+		"en"		"56-跟随弗里曼"
+	}
+	"d3_c17_11_d"
+	{
+		"en"		"57-跟随弗里曼"
+	}
+	"d3_c17_12_d"
+	{
+		"en"		"58-跟随弗里曼"
+	}
+	"d3_c17_12b_d"
+	{
+		"en"		"59-跟随弗里曼"
+	}
+	"d3_c17_13_d"
+	{
+		"en"		"60-跟随弗里曼"
+	}
+	"d3_citadel_01_d"
+	{
+		"en"		"61-我们的恩主"
+	}
+	"d3_citadel_02_d"
+	{
+		"en"		"62-我们的恩主"
+	}
+	"d3_citadel_03_d"
+	{
+		"en"		"63-我们的恩主"
+	}
+	"d3_citadel_04_d"
+	{
+		"en"		"64-我们的恩主"
+	}
+	"d3_citadel_05_d"
+	{
+		"en"		"65-我们的恩主"
+	}
+	"d3_breen_01_d"
+	{
+		"en"		"66-暗能"
+	}
+	"abegin"
+	{
+		"en"		"臭臭的下水道（Stinky Sewers）"
+	}
+	"amap"
+	{
+		"en"		"办公室（The Offices）"
+	}
+	"amap2"
+	{
+		"en"		"购物街道（Shopping Streets）"
+	}
+	"amap3"
+	{
+		"en"		"公园（Park）"
+	}
+	"afinale"
+	{
+		"en"		"火车站结局（Train Station Finale）"
+	}
+	"zccity_m1_morning"
+	{
+		"en"		"隧道"
+	}
+	"zccity_m2_morning"
+	{
+		"en"		"城市"
+	}
+	"zccity_m3_morning"
+	{
+		"en"		"市中心"
+	}
+	"zccity_m4_morning"
+	{
+		"en"		"竹溪街"
+	}
+	"l4d_thewoods2_01"
+	{
+		"en"		"宗博利海岸（The Shores Of Zomboli）"
+	}
+	"l4d_thewoods2_02"
+	{
+		"en"		"铁路木材（Railroad Wood）"
+	}
+	"l4d_thewoods2_03"
+	{
+		"en"		"伍迪墓地（Woody Cemetery）"
+	}
+	"l4d_thewoods2_04"
+	{
+		"en"		"我们走进大森林（Into Da Woods We Go）"
+	}
+	"l4d_thewoods_01"
+	{
+		"en"		"伍兹 Reduxy Dux（Woods Reduxy Dux）"
+	}
+	"l4d_thewoods_02"
+	{
+		"en"		"骨头里的坏木（Badwoods To The Bone）"
+	}
+	"l4d_thewoods_03b"
+	{
+		"en"		"更多埃芬森林！（More Effing Woods!）"
+	}
+	"hls_15"
+	{
+		"en"		"天梯顶部"
+	}
+	"hls_16"
+	{
+		"en"		"天梯后段"
+	}
+	"hls_17"
+	{
+		"en"		"天梯中段"
+	}
+	"hls_18"
+	{
+		"en"		"天梯中段"
+	}
+	"hls_19"
+	{
+		"en"		"天梯后段"
+	}
+	"hls_20"
+	{
+		"en"		"天梯顶部"
+	}
+	"0resort_beach_day"
+	{
+		"en"		"马尔代夫-白天"
+	}
+	"0resort_beach_sunset"
+	{
+		"en"		"马尔代夫-黄昏"
+	}
+	"0resort_beach_night"
+	{
+		"en"		"马尔代夫-夜晚"
+	}
+	"0resort_sea_day"
+	{
+		"en"		"海上舞台-白天"
+	}
+	"0resort_sea_sunset"
+	{
+		"en"		"海上舞台-黄昏"
+	}
+	"0resort_sea_night"
+	{
+		"en"		"海上舞台-夜晚"
+	}
+	"c1918_red_square_c1"
+	{
+		"en"		"1：红场介绍（1: Red Square Intro）"
+	}
+	"c1918_red_square_c2"
+	{
+		"en"		"2：列宁（2: Lenin）"
+	}
+	"c1918_red_square_c3"
+	{
+		"en"		"3：工人部门（3: Workers Sector）"
+	}
+	"c1918_red_square_c4"
+	{
+		"en"		"4：秘密武器（4: Secret Weapon）"
+	}
+	"c1918_red_square_c5"
+	{
+		"en"		"5：红场结局（5: Red Square Finale ）"
+	}
+	"utopia1"
+	{
+		"en"		"迷雾登岛"
+	}
+	"utopia2"
+	{
+		"en"		"世外桃源"
+	}
+	"utopia3"
+	{
+		"en"		"死亡谢幕"
+	}
+	"l4d_lastnight01_arrival"
+	{
+		"en"		"1：到达（1: Arrival）"
+	}
+	"l4d_lastnight02_policestation"
+	{
+		"en"		"2：警察局（2: PoliceStation）"
+	}
+	"l4d_lastnight03_crash"
+	{
+		"en"		"3：崩溃（3: Crash）"
+	}
+	"l4d_lastnight04_haarp"
+	{
+		"en"		"4：哈普（4: Haarp）"
+	}
+	"l4d_lastnight05_femacamp"
+	{
+		"en"		"5：联邦紧急事务管理局营地（5: Fema Camp）"
+	}
+	"l4d_lastnight06_ravenrock"
+	{
+		"en"		"6：乌鸦岩（6: Raven Rock）"
+	}
+	"l4d_lastnight07_mineshaft"
+	{
+		"en"		"7：矿井（7: Mineshaft）"
+	}
+	"l4d_hospital02_subway"
+	{
+		"en"		"#L4D360UI_Holdout_Chapter_地铁（#L4D360UI_Holdout_Chapter_Subway）"
+	}
+	"l4d_hospital03_sewers"
+	{
+		"en"		"#L4D360UI_Holdout_Chapter_Sewers"
+	}
+	"l4d_hospital04_interior"
+	{
+		"en"		"#L4D360UI_Holdout_Chapter_Hospital"
+	}
+	"l4d_vs_hospital05_rooftop"
+	{
+		"en"		"#L4D360UI_Holdout_Chapter_Rooftop"
+	}
+	"l4d2_canals_01"
+	{
+		"en"		"运河路线（Route Kanal）"
+	}
+	"l4d2_canals_02"
+	{
+		"en"		"运河路线（Canal Route）"
+	}
+	"l4d2_canals_03"
+	{
+		"en"		"反民事（Anti-Civil）"
+	}
+	"l4d2_canals_04"
+	{
+		"en"		"恐水症（Aquaphobia）"
+	}
+	"l4d2_canals_05"
+	{
+		"en"		"汽艇（Airboat）"
+	}
+	"l4d2_canals_06"
+	{
+		"en"		"水灾大结局（Water Hazard Finale）"
+	}
+	"l4d_vs_ds1"
+	{
+		"en"		"市中心杀戮地带（Downtown Killzone）"
+	}
+	"l4d_vs_ds2"
+	{
+		"en"		"僵尸公寓（Zombie Apartments）"
+	}
+	"l4d_vs_ds3"
+	{
+		"en"		"废弃的疏散中心（Derelict Evac Center）"
+	}
+	"l4d_vs_ds4"
+	{
+		"en"		"超市（The Supermarket）"
+	}
+	"l4d_vs_ds5"
+	{
+		"en"		"施工现场（Construction Site）"
+	}
+	"l4d_vs_ds6"
+	{
+		"en"		"商店结局（The Store Finale）"
+	}
+	"l4d2_canals_07"
+	{
+		"en"		"水灾（Water Hazard）"
+	}
+	"l4d2_canals_08"
+	{
+		"en"		"HEV 我来过这里吗？（HEV 1 Been Here?）"
+	}
+	"l4d2_canals_09"
+	{
+		"en"		"有毒隧道（Toxic Tunnels）"
+	}
+	"l4d2_canals_10"
+	{
+		"en"		"烟囱（Smokestack）"
+	}
+	"l4d2_canals_11"
+	{
+		"en"		"黄泉（Acheron）"
+	}
+	"l4d2_canals_12"
+	{
+		"en"		"特拉洛坎（Tlalocan）"
+	}
+	"l4d2_canals_13"
+	{
+		"en"		"大坝（The Dam）"
+	}
+	"l4d2_eli_01"
+	{
+		"en"		"布莱克梅萨东（Black Mesa East）"
+	}
+	"l4d2_eli_02"
+	{
+		"en"		"Scrapyard 终局（Scrapyard Finale）"
+	}
+	"shopcenter"
+	{
+		"en"		"Zombo 死亡中心（The Zombo Dead Center）"
+	}
+	"streets"
+	{
+		"en"		"死亡僵尸街道（Dead Zombie Streets）"
+	}
+	"centralsquare"
+	{
+		"en"		"Hip To Be Square"
+	}
+	"urban"
+	{
+		"en"		"City Slickers Die!"
+	}
+	"school"
+	{
+		"en"		"School Sucks!"
+	}
+	"l4d_pervo_1"
+	{
+		"en"		"1: 城市（1: City）"
+	}
+	"l4d_pervo_2"
+	{
+		"en"		"2: Factory Offices"
+	}
+	"l4d_pervo_3"
+	{
+		"en"		"3：污水处理（3: Sewerage）"
+	}
+	"l4d_pervo_4"
+	{
+		"en"		"4：城市郊区（4: City Suburb）"
+	}
+	"l4d_pervo_5"
+	{
+		"en"		"5：美国秘密机场（5: Secret US Airport）"
+	}
+	"jiangmmenxinhuai_xuxi"
+	{
+		"en"		"作者房间"
+	}
+	"snowtown_m1"
+	{
+		"en"		"第一集：下雪了（Episode 1: The Snowing）"
+	}
+	"snowtown_m2"
+	{
+		"en"		"Episode 2: The Road"
+	}
+	"snowtown_m3"
+	{
+		"en"		"Episode 3: The Town"
+	}
+	"snowtown_m4"
+	{
+		"en"		"Episode 4: The Cave"
+	}
+	"snowtown_m5"
+	{
+		"en"		"Episode 5: The Harbor"
+	}
+	"hehe42_1"
+	{
+		"en"		"38号森街"
+	}
+	"hehe42_2"
+	{
+		"en"		"死亡旋转"
+	}
+	"hehe42_3"
+	{
+		"en"		"冰走廊"
+	}
+	"hehe42_4"
+	{
+		"en"		"冰蛇"
+	}
+	"hehe42_5"
+	{
+		"en"		"赛博1694"
+	}
+	"hehe42_6"
+	{
+		"en"		"赛博1695"
+	}
+	"hehe42_7"
+	{
+		"en"		"赛博1696"
+	}
+	"hehe42_8"
+	{
+		"en"		"赛博腮48"
+	}
+	"l4d_bureauxfxd"
+	{
+		"en"		"办公局（The Office Bureau）"
+	}
+	"l4d_l_usinefxd"
+	{
+		"en"		"施工现场（Construction Site）"
+	}
+	"l4d_chantierfxd"
+	{
+		"en"		"魔法死者（Enchanted Dead）"
+	}
+	"l4d_la_ruefxd"
+	{
+		"en"		"芸芸众生的日子...（Rue The Day...）"
+	}
+	"l4d_le_parcfxd"
+	{
+		"en"		"Through The Park Bitterman!"
+	}
+	"Lvng1"
+	{
+		"en"		"Primera Impresion"
+	}
+	"LVng2"
+	{
+		"en"		"Ciudad Cercana"
+	}
+	"LVng3"
+	{
+		"en"		"Una Simple Vuelta"
+	}
+	"LVng4"
+	{
+		"en"		"最后印象（Ultima Impresion）"
+	}
+	"fdorange2_m1"
+	{
+		"en"		"fdorange2_m1"
+	}
+	"fdorange2_m2"
+	{
+		"en"		"fdorange2_m2"
+	}
+	"fdorange2_m3"
+	{
+		"en"		"fdorange2_m3"
+	}
+	"fdorange2_m4"
+	{
+		"en"		"fdorange2_m4"
+	}
+	"fdorange2_m5"
+	{
+		"en"		"fdorange2_m5"
+	}
+	"hkboxtest"
+	{
+		"en"		"Tsim Sha Tsui"
+	}
+	"hkboxtest2"
+	{
+		"en"		"星光大道（Avenue of Stars）"
+	}
+	"hkboxtest3"
+	{
+		"en"		"公园逃生（Park Escape）"
+	}
+	"river"
+	{
+		"en"		"1：河流（1: The River）"
+	}
+	"village"
+	{
+		"en"		"2：村庄（2: The Village）"
+	}
+	"smalltown"
+	{
+		"en"		"3: 小镇（3: The Town）"
+	}
+	"graveyard"
+	{
+		"en"		"4：墓地（4: The Cemetery）"
+	}
+	"ass01"
+	{
+		"en"		"屁股01（ass01）"
+	}
+	"ass02"
+	{
+		"en"		"屁股02（ass02）"
+	}
+	"ass03"
+	{
+		"en"		"屁股03（ass03）"
+	}
+	"ass04"
+	{
+		"en"		"屁股04（ass04）"
+	}
+	"ass04-1"
+	{
+		"en"		"屁股04-1（ass04-1）"
+	}
+	"ass05"
+	{
+		"en"		"屁股05（ass05）"
+	}
+	"sc_1"
+	{
+		"en"		"城市（City）"
+	}
+	"sc_2"
+	{
+		"en"		"综合体（Complex）"
+	}
+	"sc_3"
+	{
+		"en"		"悲剧（Tragedy）"
+	}
+	"sc_4"
+	{
+		"en"		"入住（Check In）"
+	}
+	"sc_5"
+	{
+		"en"		"突破（Break Out）"
+	}
+	"l4d2_orange_absolute_1"
+	{
+		"en"		"1：橙色晚餐（1: Orange Diner）"
+	}
+	"l4d2_orange_absolute_2"
+	{
+		"en"		"2: 蓝桥（2: The Blue Bridge）"
+	}
+	"l4d2_colors_absolute_3"
+	{
+		"en"		"3：暮光森林（3: The Twilight Woods）"
+	}
+	"l4d2_colors_absolute_4"
+	{
+		"en"		"4：红色崛起结局（4: Rising Red Finale）"
+	}
+	"not_l4d_airport01_greenhouse"
+	{
+		"en"		"1：温室（1: Greenhouse）"
+	}
+	"not_l4d_airport02_offices"
+	{
+		"en"		"2：办公室（2: Offices）"
+	}
+	"not_l4d_airport03_garage"
+	{
+		"en"		"3：车库（3: Garage）"
+	}
+	"not_l4d_airport04_terminal"
+	{
+		"en"		"4：机场（4: Airport）"
+	}
+	"not_l4d_airport05_runway"
+	{
+		"en"		"5：跑道（5: Runway）"
+	}
+	"dworld01_point_pk"
+	{
+		"en"		"1-神殿总部/Temple"
+	}
+	"dworld02_falling_pk"
+	{
+		"en"		"2-沉沦之地/Falling"
+	}
+	"dworld03_noctis_pk"
+	{
+		"en"		"3-暗夜迷宫/Nocits"
+	}
+	"dworld04_monolith_pk"
+	{
+		"en"		"4-石碑/Monolith"
+	}
+	"dworld05_forgotten_pk"
+	{
+		"en"		"5-遗忘中心/Forgotten"
+	}
+	"dworld06_sheep_pk"
+	{
+		"en"		"6-电子羊城/Sheep"
+	}
+	"dworld07_new_eden_pk"
+	{
+		"en"		"7-新伊甸/New Eden"
+	}
+	"dworld08_tuto_pk"
+	{
+		"en"		"8-教程/Tutorial"
+	}
+	"dworld09_tuto2_pk"
+	{
+		"en"		"9-沃斯特集团工业区/Wurstercorp"
+	}
+	"dworld10_ancient_pk"
+	{
+		"en"		"10-远古城区/Ancient"
+	}
+	"dworld11_purge_pk"
+	{
+		"en"		"11-净化圣殿/Purge"
+	}
+	"dworld12_purge2_pk"
+	{
+		"en"		"12-净化圣殿2/Purge2"
+	}
+	"dworld13_shadow_minos_end_pk"
+	{
+		"en"		"13-联邦基地/Shadow+米诺斯迷宫/Minos+终焉/End"
+	}
+	"dworld14_warp_pk"
+	{
+		"en"		"14-次元裂隙/Warp"
+	}
+	"achievements"
+	{
+		"en"		"成就经理（Achievement Manager）"
+	}
+	"Achievement Manager"
+	{
+		"en"		"成就经理（AchievementManager）"
+	}
+	"soundcheck"
+	{
+		"en"		"声音检查（soundcheck）"
+	}
+	"tankskeeting"
+	{
+		"en"		"HSTM"
+	}
+	"blood_hospital_01"
+	{
+		"en"		"Let's Get Bloody!"
+	}
+	"blood_hospital_02"
+	{
+		"en"		"Calling Dr. Love"
+	}
+	"blood_hospital_03"
+	{
+		"en"		"Save Us Marcus Welby!"
+	}
+	"baka4_1"
+	{
+		"en"		"1. Funky Lake / Funky之湖"
+	}
+	"baka4_2"
+	{
+		"en"		"2. Okuu's Funky Physic Class / 阿空的Funky物理教室"
+	}
+	"baka4_3"
+	{
+		"en"		"3. Funky Blowhole / Funky风穴"
+	}
+	"baka4_4"
+	{
+		"en"		"4. Palace of Funky / Funky殿"
+	}
+	"baka4_5"
+	{
+		"en"		"5. Funky Core / Funky核心"
+	}
+	"baka4_6"
+	{
+		"en"		"EX. Funky Nuke Test Site / Funky核武器试验场"
+	}
+	"zombiesiege2_m1"
+	{
+		"en"		"1: Overworld"
+	}
+	"zombiesiege2_m2"
+	{
+		"en"		"2: The Nether"
+	}
+	"zombiesiege2_m3"
+	{
+		"en"		"3：丛林（3: Jungle）"
+	}
+	"zombiesiege2_m4"
+	{
+		"en"		"4: 地堡（4: The Bunker）"
+	}
+}
