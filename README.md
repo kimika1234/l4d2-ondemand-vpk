@@ -1,4 +1,4 @@
-# L4D2 按需加载地图部署包（On-Demand VPK）v2.1
+# L4D2 按需加载地图部署包（On-Demand VPK）v2.2
 
 > **干什么用的**：你的服务器平时只跑官方地图，玩家想玩三方图时——在游戏里 `!chmap` 选图 → 服务器自动把地图 VPK 调出来 → 弹原生投票 → 换图。玩完/人走，VPK 自动收回。不用再往服务器塞几百个地图包拖累加载和匹配。
 
@@ -9,7 +9,7 @@
 ## 这个东西包含什么
 
 ```
-l4d2-ondemand-vpk-dist-v2.1/
+l4d2-ondemand-vpk-dist-v2.2/
 ├── README.md                  # 本文件（部署说明，先读这个）
 ├── plugins/                   # 插件（装进 addons/sourcemod/plugins/）
 │   ├── ondemand_vpk_bridge.smx        # 核心桥接（必须）
@@ -22,9 +22,12 @@ l4d2-ondemand-vpk-dist-v2.1/
 ├── host/                     # 自动化程序（控制器+回收器+可选入库）
 │   ├── stage_controller.py   # 玩家要图时，负责搬地图文件
 │   ├── reclaimer.py          # 没人玩时，负责回收地图文件
-│   ├── ingest_new_vpk.py     # 【可选】新图入库：addons 新 VPK 自动归组到仓库
-│   ├── ingest_watchdog.py    # 【可选】配合 ingest 的定时扫描看门狗
+│   ├── ingest_new_vpk.py     # 【推荐】新图入库：addons 新 VPK 自动归组到仓库
+│   ├── ingest_watchdog.py    # 【推荐】配合 ingest 的定时扫描看门狗（v2.2 宽容归组）
 │   └── ondemand.env.example  # 配置模板
+├── systemd/                  # 看门狗 systemd 模板（v2.2 新增）
+│   ├── ingest-watchdog.service
+│   └── ingest-watchdog.timer
 ├── tools/                    # 建地图仓库的工具
 │   ├── vpk_scan_group.py     # 扫描你的 VPK，自动把同一个图的多分卷归组
 │   ├── generate_map_library.py  # 生成地图仓库 + 服务器配置
@@ -160,9 +163,9 @@ systemctl status ondemand-stage ondemand-reclaim    # 两个都 active 就行
 
 ---
 
-## 【可选】新图自动入库（ingest）
+## 【推荐】新图自动入库（ingest + 看门狗）
 
-如果你有一个网页上传面板 / 管理面板会把玩家传的 VPK 直接丢进 `addons/`，可以加装 ingest，让新图**自动归组进 map_library**（而不是堆积在 addons 热区）：
+如果你有一个网页上传面板 / 管理面板会把玩家传的 VPK 直接丢进 `addons/`，**强烈建议加装 ingest**——否则新图会堆积在 addons 热区（引擎全量扫描 + 广播 1200B 溢出 + 换图卡死）。加装后新图**自动归组进 map_library**：
 
 ```bash
 cp host/ingest_new_vpk.py host/ingest_watchdog.py /opt/ondemand/
@@ -170,18 +173,31 @@ cp tools/vpk_tool.py /opt/ondemand/        # ingest 依赖（stage 也会用到�
 ```
 
 - 手动入库一个文件：`python3 /opt/ondemand/ingest_new_vpk.py <游戏根> <addons里的文件名>`
-- 定时看门狗（每分钟自动扫 addons 里稳定 >5 分钟的新 VPK 入库），加 cron：
+- 定时看门狗（**推荐 systemd，5 分钟自动扫 addons 里稳定 >5 分钟的新 VPK 入库**）：
 
-```cron
-* * * * * cd /opt/ondemand && python3 ingest_watchdog.py <游戏根> >> /var/log/ondemand-ingest.log 2>&1
+```bash
+# 复制 systemd 模板（先替换 <GAME_ROOT> 为你的游戏根，如 /shared/left4dead2）
+cp systemd/ingest-watchdog.service systemd/ingest-watchdog.timer /etc/systemd/system/
+sed -i 's|<GAME_ROOT>|/shared/left4dead2|' /etc/systemd/system/ingest-watchdog.service
+systemctl daemon-reload
+systemctl enable --now ingest-watchdog.timer
+systemctl list-timers | grep ingest   # 确认 timer 在跑
 ```
+
+> ⛔ **注意**：只拷贝 `ingest_watchdog.py` 却不挂 timer/定时任务 = 看门狗永远不会自动跑，新图会滞留 addons（103 新家实测翻车：95 个非常驻 vpk 堆积）。**挂 timer 和拷脚本是两件事，都要做！**
+
+也可以用 cron（每分钟）替代：`* * * * * cd /opt/ondemand && python3 ingest_watchdog.py <游戏根> >> /var/log/ondemand-ingest.log 2>&1`
 
 ingest v2.2 特性：
 - **老图更新 = 替换而不是堆积**：按 VPK 内 bsp 地图集合判定（不是按 mission 名），同图新版自动归档旧 part，目录不膨胀
 - **纯资源包更新也替换**：贴图/音效 part（无 bsp）按 addontitle / 文件大小匹配替换，避免新旧资源包并存冲突
 - **keep_ 常驻联动**：如果 addons 里有 `keep_<战役>_part_N.vpk` 常驻副本，入库后自动刷新为最新版
 
-> ⛔ ingest 会把文件从 addons **移动**进 map_library（除非加 `--keep`）。功能包（无 mission 的 VPK）会自动跳过不入库。
+watchdog v2.2 特性：
+- **失败自动重试**：被 ingest 拒绝的文件（如无 mission 的纯资源包）不再永久跳过，下次定时扫描自动再试（连试 5 次仍无归属才放弃）
+- **宽容归组兜底**：多分卷战役的 Part 2+ 纯资源包（vmt/mdl 贴图模型包、versus 独立图，无 mission 无 bsp）被 ingest 拒后，看门狗会按文件名/VPK 内 bsp 前缀匹配已有的同战役目录 → 自动 append 进 `map_library/<战役>/part_N.vpk`（对标 45 农场 `vpk_move_to_library3.py` 的归组逻辑）。这样汽水批量下载的多分卷图不会滞留 addons 热区。
+
+> ⛔ ingest 会把文件从 addons **移动**进 map_library（除非加 `--keep`）。功能包（无 mission 的 VPK）会自动跳过不入库；看门狗会重试，若确实无归属（真孤儿）连续 5 次后记入状态放弃。
 
 ---
 
@@ -211,12 +227,20 @@ ingest v2.2 特性：
 | 菜单里看不到三方战役 | `sm_ondemand_status` 看 campaigns 数量；确认 cfg 生成了 |
 | 回收器不回收 | 正常：有人在线/当前地图在仓库里时不回收。看日志 `journalctl -u ondemand-reclaim -n 20` |
 | addons 里 `ondemand_` 残留文件永不回收 | 旧版本控制器生成的文件大小写与 cfg 不一致（v2.0 时代）。升级到 v2.1 的 reclaimer.py 后会自动识别回收；急着清理可手动 `rm addons/ondemand_*`（map_library 源不受影响） |
+| addons 里堆积大量 `【Map】xxx Part 2/3...` 非常驻 vpk | 看门狗没挂 timer 或旧版 watchdog 失败不进重试。① 确认 `systemctl list-timers | grep ingest` 在跑；② 升级 v2.2 watchdog（失败自动重试 + 宽容归组）；③ 存量手动归组：清空 state（`echo '[]' > /opt/ondemand/ingest_watchdog_state.json`）后手动跑一次 `python3 /opt/ondemand/ingest_watchdog.py <游戏根>` |
 
 更多细节见 `docs/USER-GUIDE.md`。
 
 ---
 
 ## 版本与更新日志
+
+**v2.2（2026-09-27）**：看门狗增强 + systemd 模板（103 新家 95 个滞留实锤驱动）。
+- 🔧 **watchdog 失败自动重试**（重要）：旧版 ingest 失败的文件也记入 state → 永久跳过。v2.2 仅成功/已处理才记 state，被拒文件（无 mission 纯资源包等）下次定时扫描自动再试，连续 5 次仍无归属才放弃
+- ✨ **watchdog 宽容归组兜底**：多分卷战役的 Part 2+ 纯资源包（无 mission 无 bsp）被 ingest 拒后，按文件名/VPK 内 bsp 前缀匹配已有同战役目录 → 自动 append 进 map_library（对标 45 `vpk_move_to_library3.py`）。汽水批量下载的多分卷图不再滞留 addons 热区
+- ✨ **新增 `systemd/ingest-watchdog.service + .timer` 模板**（5min，抄 45 生产）——只拷脚本不挂 timer = 看门狗永不自动跑（103 实测翻车点）
+- 状态文件升级为 `{"done": {...}, "retries": {...}}`，兼容旧版纯数组
+- 其余组件（bridge 0.5.1 / map_vote v3 / stage_controller / reclaimer / ingest_new_vpk v2.2）与 v2.1 一致，均为生产同款 hash
 
 **v2.1（2026-09-26）**：生产修复同步。
 - 🔧 **回收器大小写修复**（重要）：旧版 reclaimer 只认 `ondemand_<小写key>_part_N.vpk`，遇到历史遗留的大写/混合大小写文件（如 `ondemand_BlackoutBasement_part_1.vpk`）永不回收 → addons 堆积残留。v2.1 回收时自动 sanitize 小写对齐 cfg key + 大小写不敏感匹配，残留可正常回收
