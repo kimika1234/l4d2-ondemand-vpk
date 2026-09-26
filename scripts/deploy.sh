@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ============================================================
-# on-demand VPK 部署包 v2.0 — 服务器端一键安装插件
+# on-demand VPK 部署包 v2.1 — 服务器端一键安装插件
 #
 # 用法:
 #   ./deploy.sh <游戏根目录>            # 普通 Linux 服（srcds 裸跑）
@@ -29,7 +29,7 @@ CFG_DIR="$SM_DIR/configs"
 TRANS_DIR="$SM_DIR/translations"
 TS="$(date +%Y%m%d_%H%M%S)"
 
-echo "== on-demand VPK 部署 v2.0 =="
+echo "== on-demand VPK 部署 v2.1 =="
 echo "  游戏根: $GAME_ROOT"
 [ $WITH_DOCKER = 1 ] && echo "  模式: Docker（路径是宿主机挂载目录）"
 echo "  插件目录: $PLUGIN_DIR"

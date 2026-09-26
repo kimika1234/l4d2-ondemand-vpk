@@ -1,4 +1,4 @@
-# 用户使用说明（玩家 + 管理员）v2.0
+# 用户使用说明（玩家 + 管理员）v2.1
 
 ## 玩家：怎么换三方图
 
@@ -85,8 +85,25 @@ journalctl -u ondemand-reclaim -f  # 看回收器日志
 | 「按需地图加载失败」 | 同一玩家上次请求未完成；控制器没跑；宿主日志看具体 FAIL 原因 |
 | 菜单里看不到三方战役 | `sm_ondemand_status` 看 campaigns；cfg 是否生成；bridge 是否加载 |
 | 换图失败 `No such map` | 章节名大小写与 mission 文件不符 → 重跑 `generate_map_library.py` |
-| 回收器不回收 | 服务器当前地图属于某仓库战役（故意保护）；有人在线；RCON 不通（看日志）|
+| 回收器不回收 | 服务器当前地图属于某仓库战役（故意保护）；有人在线；RCON 不通（看日志）。v2.1 已修复旧版大写残留文件永不回收的问题 |
 | 控制器日志 `no parts in map_library/xxx` | 战役目录名大小写不一致（Linux 区分大小写）→ 重跑生成工具 |
+
+## 管理员：新图自动入库（可选，v2.1 新增）
+
+如果你有网页上传/管理面板往 `addons/` 丢 VPK，可以加装 `host/ingest_new_vpk.py`（v2.2），新图自动归组进 `map_library`：
+
+```bash
+cp host/ingest_new_vpk.py host/ingest_watchdog.py /opt/ondemand/
+cp tools/vpk_tool.py /opt/ondemand/
+
+# 手动入库：python3 /opt/ondemand/ingest_new_vpk.py <游戏根> <文件名>
+# 定时看门狗（cron 每分钟）：
+* * * * * cd /opt/ondemand && python3 ingest_watchdog.py <游戏根> >> /var/log/ondemand-ingest.log 2>&1
+```
+
+- 老图更新 = **替换**旧 part（按 VPK 内 bsp 集合判定，不是 mission 名；纯资源包按标题/大小匹配替换），不会堆积新旧版本
+- 功能包（无 mission）自动跳过；`ondemand_` 前缀的 stage 副本跳过
+- `map_library_archive/<战役>/` 存放被替换下来的旧版（可回滚，不影响运行）
 
 ## 安全边界（务必理解）
 

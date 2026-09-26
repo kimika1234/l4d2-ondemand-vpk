@@ -1,4 +1,4 @@
-# L4D2 按需加载地图部署包（On-Demand VPK）v2.0
+# L4D2 按需加载地图部署包（On-Demand VPK）v2.1
 
 > **干什么用的**：你的服务器平时只跑官方地图，玩家想玩三方图时——在游戏里 `!chmap` 选图 → 服务器自动把地图 VPK 调出来 → 弹原生投票 → 换图。玩完/人走，VPK 自动收回。不用再往服务器塞几百个地图包拖累加载和匹配。
 
@@ -9,7 +9,7 @@
 ## 这个东西包含什么
 
 ```
-l4d2-ondemand-vpk-dist-v2.0/
+l4d2-ondemand-vpk-dist-v2.1/
 ├── README.md                  # 本文件（部署说明，先读这个）
 ├── plugins/                   # 插件（装进 addons/sourcemod/plugins/）
 │   ├── ondemand_vpk_bridge.smx        # 核心桥接（必须）
@@ -19,9 +19,11 @@ l4d2-ondemand-vpk-dist-v2.0/
 │   ├── left4dhooks.smx                # 依赖：游戏钩子库
 │   ├── include/ondemand_vpk.inc       # 给会写插件的人
 │   └── translations/                  # 地图菜单翻译文件（中英）
-├── host/                     # 自动化程序（控制器+回收器）
+├── host/                     # 自动化程序（控制器+回收器+可选入库）
 │   ├── stage_controller.py   # 玩家要图时，负责搬地图文件
 │   ├── reclaimer.py          # 没人玩时，负责回收地图文件
+│   ├── ingest_new_vpk.py     # 【可选】新图入库：addons 新 VPK 自动归组到仓库
+│   ├── ingest_watchdog.py    # 【可选】配合 ingest 的定时扫描看门狗
 │   └── ondemand.env.example  # 配置模板
 ├── tools/                    # 建地图仓库的工具
 │   ├── vpk_scan_group.py     # 扫描你的 VPK，自动把同一个图的多分卷归组
@@ -30,7 +32,8 @@ l4d2-ondemand-vpk-dist-v2.0/
 ├── scripts/
 │   └── deploy.sh             # 一键装插件
 └── docs/
-    └── USER-GUIDE.md         # 玩家/管理员使用说明
+    ├── USER-GUIDE.md         # 玩家/管理员使用说明
+    └── MULTIPART.md          # 多分卷 VPK 识别说明
 ```
 
 ---
@@ -51,10 +54,10 @@ l4d2-ondemand-vpk-dist-v2.0/
 
 ### 第 1 步：装插件
 
-把整个包传到服务器上（比如放 `/root/l4d2-ondemand-vpk-dist-v2.0`），然后：
+把整个包传到服务器上（比如放 `/root/l4d2-ondemand-vpk-dist-v2.1`），然后：
 
 ```bash
-cd l4d2-ondemand-vpk-dist-v2.0
+cd l4d2-ondemand-vpk-dist-v2.1
 chmod +x scripts/deploy.sh
 
 # 裸机服：
@@ -157,6 +160,31 @@ systemctl status ondemand-stage ondemand-reclaim    # 两个都 active 就行
 
 ---
 
+## 【可选】新图自动入库（ingest）
+
+如果你有一个网页上传面板 / 管理面板会把玩家传的 VPK 直接丢进 `addons/`，可以加装 ingest，让新图**自动归组进 map_library**（而不是堆积在 addons 热区）：
+
+```bash
+cp host/ingest_new_vpk.py host/ingest_watchdog.py /opt/ondemand/
+cp tools/vpk_tool.py /opt/ondemand/        # ingest 依赖（stage 也会用到）
+```
+
+- 手动入库一个文件：`python3 /opt/ondemand/ingest_new_vpk.py <游戏根> <addons里的文件名>`
+- 定时看门狗（每分钟自动扫 addons 里稳定 >5 分钟的新 VPK 入库），加 cron：
+
+```cron
+* * * * * cd /opt/ondemand && python3 ingest_watchdog.py <游戏根> >> /var/log/ondemand-ingest.log 2>&1
+```
+
+ingest v2.2 特性：
+- **老图更新 = 替换而不是堆积**：按 VPK 内 bsp 地图集合判定（不是按 mission 名），同图新版自动归档旧 part，目录不膨胀
+- **纯资源包更新也替换**：贴图/音效 part（无 bsp）按 addontitle / 文件大小匹配替换，避免新旧资源包并存冲突
+- **keep_ 常驻联动**：如果 addons 里有 `keep_<战役>_part_N.vpk` 常驻副本，入库后自动刷新为最新版
+
+> ⛔ ingest 会把文件从 addons **移动**进 map_library（除非加 `--keep`）。功能包（无 mission 的 VPK）会自动跳过不入库。
+
+---
+
 ## 玩家怎么用（一句话）
 
 > 聊天框输入 `!chmap` → 选「三方地图」→ 选战役 → 选章节 → 提示「正在加载地图资源」→ 几秒后弹原生投票 → 通过即换图。
@@ -182,12 +210,18 @@ systemctl status ondemand-stage ondemand-reclaim    # 两个都 active 就行
 | 换图报 `No such map` | 用生成工具重跑一次（章节名必须大小写正确）；确认 `map_library/<战役>/` 有 part_*.vpk |
 | 菜单里看不到三方战役 | `sm_ondemand_status` 看 campaigns 数量；确认 cfg 生成了 |
 | 回收器不回收 | 正常：有人在线/当前地图在仓库里时不回收。看日志 `journalctl -u ondemand-reclaim -n 20` |
+| addons 里 `ondemand_` 残留文件永不回收 | 旧版本控制器生成的文件大小写与 cfg 不一致（v2.0 时代）。升级到 v2.1 的 reclaimer.py 后会自动识别回收；急着清理可手动 `rm addons/ondemand_*`（map_library 源不受影响） |
 
 更多细节见 `docs/USER-GUIDE.md`。
 
 ---
 
-## 版本
+## 版本与更新日志
+
+**v2.1（2026-09-26）**：生产修复同步。
+- 🔧 **回收器大小写修复**（重要）：旧版 reclaimer 只认 `ondemand_<小写key>_part_N.vpk`，遇到历史遗留的大写/混合大小写文件（如 `ondemand_BlackoutBasement_part_1.vpk`）永不回收 → addons 堆积残留。v2.1 回收时自动 sanitize 小写对齐 cfg key + 大小写不敏感匹配，残留可正常回收
+- ✨ **新增 ingest v2.2 可选组件**：新图自动入库（老图更新替换式、纯资源包替换、keep_ 常驻联动），详见上文「可选：新图自动入库」
+- 其余组件（bridge 0.5.1 / map_vote v3 / stage_controller / vpk_tool）与 v2.0 一致，均为 2026-09-25 双服生产同款 hash
 
 **v2.0（2026-09-20）**：基于 45/202 农场生产验证组件打包。
 - bridge 0.5.1（RCON 实时回调 + 心跳自愈 + requestId 防串）

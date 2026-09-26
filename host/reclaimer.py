@@ -122,7 +122,7 @@ def find_staged_campaigns():
     for name in names:
         m = re.match(r"ondemand_(.+)_part_\d+\.vpk", name)
         if m:
-            campaigns.add(m.group(1))
+            campaigns.add(re.sub(r"[^0-9a-zA-Z_]", "_", m.group(1)).lower())
     return campaigns
 
 
@@ -147,7 +147,7 @@ RECENT_GRACE = 600  # 刚 stage 的副本宽限期（秒）：防止 stage→cha
 def reclaim_campaign(campaign):
     addons_dir = os.path.join(GAME_ROOT, ADDONS_REL)
     try:
-        files = [n for n in os.listdir(addons_dir) if re.fullmatch(rf"ondemand_{campaign}_part_\d+\.vpk", n)]
+        files = [n for n in os.listdir(addons_dir) if re.fullmatch(rf"ondemand_{campaign}_part_\d+\.vpk", n, re.IGNORECASE)]
     except OSError:
         return
     if not files:
