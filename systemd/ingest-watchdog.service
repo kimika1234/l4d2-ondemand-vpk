@@ -1,0 +1,8 @@
+[Unit]
+Description=L4D2 addons auto-ingest watchdog
+After=network.target
+
+[Service]
+Type=oneshot
+# 把 <GAME_ROOT> 替换为你的游戏根目录（如 /data/shared/left4dead2 或 /shared/left4dead2）
+ExecStart=/usr/bin/python3 /opt/ondemand/ingest_watchdog.py <GAME_ROOT>

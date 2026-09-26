@@ -88,21 +88,26 @@ journalctl -u ondemand-reclaim -f  # 看回收器日志
 | 回收器不回收 | 服务器当前地图属于某仓库战役（故意保护）；有人在线；RCON 不通（看日志）。v2.1 已修复旧版大写残留文件永不回收的问题 |
 | 控制器日志 `no parts in map_library/xxx` | 战役目录名大小写不一致（Linux 区分大小写）→ 重跑生成工具 |
 
-## 管理员：新图自动入库（可选，v2.1 新增）
+## 管理员：新图自动入库（推荐，v2.2 看门狗增强）
 
-如果你有网页上传/管理面板往 `addons/` 丢 VPK，可以加装 `host/ingest_new_vpk.py`（v2.2），新图自动归组进 `map_library`：
+如果你有网页上传/管理面板往 `addons/` 丢 VPK，**强烈建议加装** `host/ingest_new_vpk.py`（v2.2）+ `host/ingest_watchdog.py`（v2.2 宽容归组），新图自动归组进 `map_library`：
 
 ```bash
 cp host/ingest_new_vpk.py host/ingest_watchdog.py /opt/ondemand/
 cp tools/vpk_tool.py /opt/ondemand/
 
 # 手动入库：python3 /opt/ondemand/ingest_new_vpk.py <游戏根> <文件名>
-# 定时看门狗（cron 每分钟）：
-* * * * * cd /opt/ondemand && python3 ingest_watchdog.py <游戏根> >> /var/log/ondemand-ingest.log 2>&1
+
+# 定时看门狗（推荐 systemd 5min，抄模板；也支持 cron 每分钟）
+cp systemd/ingest-watchdog.service systemd/ingest-watchdog.timer /etc/systemd/system/
+sed -i 's|<GAME_ROOT>|/shared/left4dead2|' /etc/systemd/system/ingest-watchdog.service
+systemctl daemon-reload && systemctl enable --now ingest-watchdog.timer
+systemctl list-timers | grep ingest   # ⛔ 必须看到 timer，否则看门狗永不自动跑
 ```
 
 - 老图更新 = **替换**旧 part（按 VPK 内 bsp 集合判定，不是 mission 名；纯资源包按标题/大小匹配替换），不会堆积新旧版本
-- 功能包（无 mission）自动跳过；`ondemand_` 前缀的 stage 副本跳过
+- **多分卷 Part 2+ 纯资源包**（无 mission 无 bsp，如批量下载的贴图/模型包、versus 独立图）被 ingest 拒后，看门狗 v2.2 自动按文件名/VPK 内 bsp 前缀匹配已有同战役目录 → append 进 `map_library/<战役>/part_N.vpk`（对标 45 `vpk_move_to_library3.py`）
+- 功能包（无 mission 且无归属）自动跳过；`ondemand_` 前缀的 stage 副本跳过；看门狗失败自动重试（连试 5 次无归属才放弃）
 - `map_library_archive/<战役>/` 存放被替换下来的旧版（可回滚，不影响运行）
 
 ## 安全边界（务必理解）
