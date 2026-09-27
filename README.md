@@ -1,17 +1,19 @@
-# L4D2 按需加载地图部署包（On-Demand VPK）v2.2
+# L4D2 按需加载地图部署包（On-Demand VPK）v2.2-windows
 
 > **干什么用的**：你的服务器平时只跑官方地图，玩家想玩三方图时——在游戏里 `!chmap` 选图 → 服务器自动把地图 VPK 调出来 → 弹原生投票 → 换图。玩完/人走，VPK 自动收回。不用再往服务器塞几百个地图包拖累加载和匹配。
 
-> **适合谁**：普通 L4D2 服主。Docker 架设或裸机（直接跑 srcds）都能用。不需要装 webmap 网页选图，只需要游戏内 `!chmap`。
+> **适合谁**：普通 L4D2 服主。**Linux 和 Windows 服务器都能用**（Docker 架设或裸机直接跑 srcds）。不需要装 webmap 网页选图，只需要游戏内 `!chmap`。
+>
+> **Windows 用户**：插件/工具/控制器脚本全部跨平台，部署命令用 `scripts/deploy.ps1`，常驻挂任务计划程序——详细看 `docs/WINDOWS.md` 和 `windows/README.md`。
 
 ---
 
 ## 这个东西包含什么
 
 ```
-l4d2-ondemand-vpk-dist-v2.2/
+l4d2-ondemand-vpk-dist-v2.2-windows/
 ├── README.md                  # 本文件（部署说明，先读这个）
-├── plugins/                   # 插件（装进 addons/sourcemod/plugins/）
+├── plugins/                   # 插件（装进 addons/sourcemod/plugins/，跨平台）
 │   ├── ondemand_vpk_bridge.smx        # 核心桥接（必须）
 │   ├── l4d2_map_vote.smx              # 换图菜单（!chmap 必须）
 │   ├── l4d2_nativevote.smx            # 依赖：原生投票库
@@ -19,24 +21,28 @@ l4d2-ondemand-vpk-dist-v2.2/
 │   ├── left4dhooks.smx                # 依赖：游戏钩子库
 │   ├── include/ondemand_vpk.inc       # 给会写插件的人
 │   └── translations/                  # 地图菜单翻译文件（中英）
-├── host/                     # 自动化程序（控制器+回收器+可选入库）
+├── host/                     # 自动化程序（控制器+回收器+入库，跨平台）
 │   ├── stage_controller.py   # 玩家要图时，负责搬地图文件
 │   ├── reclaimer.py          # 没人玩时，负责回收地图文件
 │   ├── ingest_new_vpk.py     # 【推荐】新图入库：addons 新 VPK 自动归组到仓库
 │   ├── ingest_watchdog.py    # 【推荐】配合 ingest 的定时扫描看门狗（v2.2 宽容归组）
-│   └── ondemand.env.example  # 配置模板
-├── systemd/                  # 看门狗 systemd 模板（v2.2 新增）
+│   └── ondemand.env.example  # 配置模板（含 ONDEMAND_HOME 跨平台说明）
+├── systemd/                  # 看门狗 systemd 模板（Linux 用）
 │   ├── ingest-watchdog.service
 │   └── ingest-watchdog.timer
-├── tools/                    # 建地图仓库的工具
+├── windows/                  # Windows 常驻模板（v2.2-windows 新增）
+│   └── README.md             # 任务计划程序 / NSSM 挂常驻
+├── tools/                    # 建地图仓库的工具（跨平台）
 │   ├── vpk_scan_group.py     # 扫描你的 VPK，自动把同一个图的多分卷归组
 │   ├── generate_map_library.py  # 生成地图仓库 + 服务器配置
 │   └── vpk_tool.py           # 底层解析库（不用管）
 ├── scripts/
-│   └── deploy.sh             # 一键装插件
+│   ├── deploy.sh             # 一键装插件（Linux）
+│   └── deploy.ps1            # 一键装插件（Windows，v2.2-windows 新增）
 └── docs/
     ├── USER-GUIDE.md         # 玩家/管理员使用说明
-    └── MULTIPART.md          # 多分卷 VPK 识别说明
+    ├── MULTIPART.md          # 多分卷 VPK 识别说明
+    └── WINDOWS.md            # Windows 部署指南（v2.2-windows 新增）
 ```
 
 ---
@@ -235,7 +241,15 @@ watchdog v2.2 特性：
 
 ## 版本与更新日志
 
-**v2.2（2026-09-27）**：看门狗增强 + systemd 模板（103 新家 95 个滞留实锤驱动）。
+**v2.2-windows（2026-09-27）**：Windows 适配版（Linux 版 v2.2 原样保留在 main 分支/release v2.2）。
+- 🌍 **一套代码双平台**：宿主脚本不再硬编码 `/opt/ondemand`，全部读 `ONDEMAND_HOME` 环境变量（Linux 默认 `/opt/ondemand` 保持向后兼容）；子进程不再硬编码 `python3`，用 `ONDEMAND_PYTHON`（默认 `sys.executable`）
+- ✨ **新增 `scripts/deploy.ps1`**：Windows 一键装插件（等价 deploy.sh，支持 -GameRoot / -DryRun）
+- ✨ **新增 `windows/README.md`**：任务计划程序（schtasks）/ NSSM 挂常驻模板
+- ✨ **新增 `docs/WINDOWS.md`**：Windows 完整部署指南（装插件→建仓库→配常驻→验证）+ 已知限制（跨盘 move、杀软白名单）
+- 实测：`vpk_tool.py` 在 Windows 解析真实 VPK（含中文文件名）正常；`stage_controller/reclaimer` 零 Unix API 可直接跑
+- 注意：Windows 上**必须设 `ONDEMAND_HOME`**（或显式传 `--scan-result`），否则脚本默认找 `/opt/ondemand` 会错
+
+**v2.2（2026-09-26）**：看门狗增强 + systemd 模板（103 新家 95 个滞留实锤驱动）。
 - 🔧 **watchdog 失败自动重试**（重要）：旧版 ingest 失败的文件也记入 state → 永久跳过。v2.2 仅成功/已处理才记 state，被拒文件（无 mission 纯资源包等）下次定时扫描自动再试，连续 5 次仍无归属才放弃
 - ✨ **watchdog 宽容归组兜底**：多分卷战役的 Part 2+ 纯资源包（无 mission 无 bsp）被 ingest 拒后，按文件名/VPK 内 bsp 前缀匹配已有同战役目录 → 自动 append 进 map_library（对标 45 `vpk_move_to_library3.py`）。批量下载的多分卷图不再滞留 addons 热区
 - ✨ **新增 `systemd/ingest-watchdog.service + .timer` 模板**（5min，抄 45 生产）——只拷脚本不挂 timer = 看门狗永不自动跑（103 实测翻车点）

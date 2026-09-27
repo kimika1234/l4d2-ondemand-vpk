@@ -194,8 +194,8 @@ def main():
     ap.add_argument('scan_json', help='vpk_scan_group.py 输出的 JSON')
     ap.add_argument('game_root', help='服务器 left4dead2 根目录')
     ap.add_argument('--dry-run', action='store_true')
-    ap.add_argument('--scan-result', default='/opt/ondemand/scan_result.json',
-                    help='scan_result.json 输出路径（默认 /opt/ondemand/scan_result.json）')
+    ap.add_argument('--scan-result', default=os.path.join(os.environ.get('ONDEMAND_HOME', '/opt/ondemand'), 'scan_result.json'),
+                    help='scan_result.json 输出路径（默认 <ONDEMAND_HOME>/scan_result.json）')
     args = ap.parse_args()
 
     with open(args.scan_json, encoding='utf-8') as f:

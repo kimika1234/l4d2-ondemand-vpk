@@ -22,6 +22,10 @@ v2.2（2026-09-25）：纯资源包（无 bsp）替换判定——原逻辑 b_ne
 """
 import os, re, json, sys, shutil, subprocess, hashlib, time
 
+# 跨平台：ONDEMAND_HOME 环境变量指定脚本目录（Linux 默认 /opt/ondemand，Windows 如 C:\ondemand）
+ONDEMAND_HOME = os.environ.get('ONDEMAND_HOME', '/opt/ondemand')
+PYTHON = os.environ.get('ONDEMAND_PYTHON', sys.executable) or 'python'
+
 ROOT = sys.argv[1]
 FN = sys.argv[2]
 KEEP = '--keep' in sys.argv
@@ -29,7 +33,7 @@ ADDONS = os.path.join(ROOT, 'addons')
 LIB = os.path.join(ROOT, 'map_library')
 ARCHIVE = os.path.join(ROOT, 'map_library_archive')
 SRC = os.path.join(ADDONS, FN)
-SCAN = os.environ.get('OND_SCAN', '/opt/ondemand/scan_result.json')
+SCAN = os.environ.get('OND_SCAN', os.path.join(ONDEMAND_HOME, 'scan_result.json'))
 
 def out(d):
     print(json.dumps(d, ensure_ascii=False))
@@ -41,7 +45,7 @@ if not os.path.isfile(SRC):
 if FN.lower().startswith('ondemand_'):
     out({'ok': False, 'error': 'ondemand_ 前缀是 stage 副本，跳过入库'})
 
-sys.path.insert(0, '/opt/ondemand')
+sys.path.insert(0, ONDEMAND_HOME)
 import vpk_tool
 
 def parse_mission_maps(text):
@@ -358,12 +362,12 @@ except Exception as e:
     out({'ok': False, 'error': 'scan_result 写入失败: %s' % e})
 
 try:
-    subprocess.run(['python3', '/opt/ondemand/gen_ondemand_cfg2.py', ROOT],
+    subprocess.run([PYTHON, os.path.join(ONDEMAND_HOME, 'gen_ondemand_cfg2.py'), ROOT],
                    capture_output=True, text=True, timeout=120)
 except Exception:
     pass
 try:
-    subprocess.run(['python3', '/opt/ondemand/export_authoritative_maplist.py', ROOT],
+    subprocess.run([PYTHON, os.path.join(ONDEMAND_HOME, 'export_authoritative_maplist.py'), ROOT],
                    capture_output=True, text=True, timeout=300)
 except Exception:
     pass

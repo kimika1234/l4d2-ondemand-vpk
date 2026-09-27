@@ -18,11 +18,15 @@ v2.2 变更（2026-09-27，103 新家 95 个滞留实锤驱动）：
 """
 import os, re, sys, time, subprocess, json, shutil
 
+# 跨平台：ONDEMAND_HOME 环境变量指定脚本目录（Linux 默认 /opt/ondemand，Windows 如 C:\ondemand）
+ONDEMAND_HOME = os.environ.get("ONDEMAND_HOME", "/opt/ondemand")
+PYTHON = os.environ.get("ONDEMAND_PYTHON", sys.executable) or "python"
+
 GAME_ROOT = sys.argv[1]
 ADDONS = os.path.join(GAME_ROOT, "addons")
 LIB = os.path.join(GAME_ROOT, "map_library")
-STATE = "/opt/ondemand/ingest_watchdog_state.json"
-SCAN = "/opt/ondemand/scan_result.json"
+STATE = os.path.join(ONDEMAND_HOME, "ingest_watchdog_state.json")
+SCAN = os.path.join(ONDEMAND_HOME, "scan_result.json")
 STABLE_AFTER = 300  # 文件 mtime 稳定秒数
 RETRY_LIMIT = 5     # 真孤儿连续重试上限（防日志刷屏，超过记 state 放弃）
 
@@ -81,7 +85,7 @@ def load_scan_campaigns():
 def read_vpk_bsp_prefixes(path):
     """读 VPK 内 bsp 文件名（轻量，只解析 tree）"""
     try:
-        sys.path.insert(0, "/opt/ondemand")
+        sys.path.insert(0, ONDEMAND_HOME)
         import vpk_tool
         data, entries, old_base = vpk_tool.read_vpk(path)
         bsp = set()
@@ -197,7 +201,7 @@ def main():
         if abs(m1 - m2) > 2:
             continue
         proc = subprocess.run(
-            ["python3", "/opt/ondemand/ingest_new_vpk.py", GAME_ROOT, fn],
+            [PYTHON, os.path.join(ONDEMAND_HOME, "ingest_new_vpk.py"), GAME_ROOT, fn],
             capture_output=True, text=True, timeout=600,
         )
         msg = (proc.stdout or "").strip().splitlines()[-1] if proc.stdout else ""
