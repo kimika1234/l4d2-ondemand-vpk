@@ -1,4 +1,4 @@
-# L4D2 按需加载地图部署包（On-Demand VPK）v2.2-windows
+# L4D2 按需加载地图部署包（On-Demand VPK）v2.3-windows
 
 > **干什么用的**：你的服务器平时只跑官方地图，玩家想玩三方图时——在游戏里 `!chmap` 选图 → 服务器自动把地图 VPK 调出来 → 弹原生投票 → 换图。玩完/人走，VPK 自动收回。不用再往服务器塞几百个地图包拖累加载和匹配。
 
@@ -240,6 +240,11 @@ watchdog v2.2 特性：
 ---
 
 ## 版本与更新日志
+
+**v2.3-windows（2026-09-27）**：keep_ 常驻联动修复（与 main 分支 v2.3 同步）。
+- 🔧 **新图入库不再自动创建 keep_ 常驻**（重要）：v2.1 引入的 keep_ 联动在 replace/append 后无条件把 `map_library/<key>/` 镜像到 `addons/keep_<key>_part_N.vpk`，导致**任何新传图都会自动变常驻**（实测药役传图 927MB 医疗改革 healthreform 意外进 addons 热区，mtime 与 map_library 完全一致 = 自动生成铁证）。v2.3 改为：**只有 addons 已存在 `keep_<key>` 的名单图才刷新常驻**（用户点名的热门图跟最新版），新 key 不自动建常驻
+- 想新增常驻 = 人工复制 `keep_<key>_part_N.vpk` 到 addons（watchdog/reclaimer 已有 `keep_` 前缀跳过规则）
+- 其余组件与 v2.2-windows 一致
 
 **v2.2-windows（2026-09-27）**：Windows 适配版（Linux 版 v2.2 原样保留在 main 分支/release v2.2）。
 - 🌍 **一套代码双平台**：宿主脚本不再硬编码 `/opt/ondemand`，全部读 `ONDEMAND_HOME` 环境变量（Linux 默认 `/opt/ondemand` 保持向后兼容）；子进程不再硬编码 `python3`，用 `ONDEMAND_PYTHON`（默认 `sys.executable`）
