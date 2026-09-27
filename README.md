@@ -1,4 +1,4 @@
-# L4D2 按需加载地图部署包（On-Demand VPK）v2.2
+# L4D2 按需加载地图部署包（On-Demand VPK）v2.3
 
 > **干什么用的**：你的服务器平时只跑官方地图，玩家想玩三方图时——在游戏里 `!chmap` 选图 → 服务器自动把地图 VPK 调出来 → 弹原生投票 → 换图。玩完/人走，VPK 自动收回。不用再往服务器塞几百个地图包拖累加载和匹配。
 
@@ -9,7 +9,7 @@
 ## 这个东西包含什么
 
 ```
-l4d2-ondemand-vpk-dist-v2.2/
+l4d2-ondemand-vpk-dist-v2.3/
 ├── README.md                  # 本文件（部署说明，先读这个）
 ├── plugins/                   # 插件（装进 addons/sourcemod/plugins/）
 │   ├── ondemand_vpk_bridge.smx        # 核心桥接（必须）
@@ -57,10 +57,10 @@ l4d2-ondemand-vpk-dist-v2.2/
 
 ### 第 1 步：装插件
 
-把整个包传到服务器上（比如放 `/root/l4d2-ondemand-vpk-dist-v2.1`），然后：
+把整个包传到服务器上（比如放 `/root/l4d2-ondemand-vpk-dist-v2.3`），然后：
 
 ```bash
-cd l4d2-ondemand-vpk-dist-v2.1
+cd l4d2-ondemand-vpk-dist-v2.3
 chmod +x scripts/deploy.sh
 
 # 裸机服：
@@ -188,10 +188,10 @@ systemctl list-timers | grep ingest   # 确认 timer 在跑
 
 也可以用 cron（每分钟）替代：`* * * * * cd /opt/ondemand && python3 ingest_watchdog.py <游戏根> >> /var/log/ondemand-ingest.log 2>&1`
 
-ingest v2.2 特性：
+ingest v2.3 特性：
 - **老图更新 = 替换而不是堆积**：按 VPK 内 bsp 地图集合判定（不是按 mission 名），同图新版自动归档旧 part，目录不膨胀
 - **纯资源包更新也替换**：贴图/音效 part（无 bsp）按 addontitle / 文件大小匹配替换，避免新旧资源包并存冲突
-- **keep_ 常驻联动**：如果 addons 里有 `keep_<战役>_part_N.vpk` 常驻副本，入库后自动刷新为最新版
+- **keep_ 常驻联动（v2.3 收紧）**：只有 addons 里**已有** `keep_<战役>_part_N.vpk` 常驻副本的图才会在入库后自动刷新为最新版；**新图入库不再自动创建常驻**（v2.2 会把任何新传图都镜像成 keep_，实测导致药役传图 927MB 意外进热区）。想新增常驻 = 人工复制 `keep_<key>_part_N.vpk` 到 addons
 
 watchdog v2.2 特性：
 - **失败自动重试**：被 ingest 拒绝的文件（如无 mission 的纯资源包）不再永久跳过，下次定时扫描自动再试（连试 5 次仍无归属才放弃）
@@ -234,6 +234,12 @@ watchdog v2.2 特性：
 ---
 
 ## 版本与更新日志
+
+**v2.3（2026-09-27）**：keep_ 常驻联动修复（healthreform 意外常驻实锤驱动）。
+- 🔧 **新图入库不再自动创建 keep_ 常驻**（重要）：v2.1 引入的 keep_ 联动在 replace/append 后无条件把 `map_library/<key>/` 镜像到 `addons/keep_<key>_part_N.vpk`，导致**任何新传图都会自动变常驻**（实测药役传图 927MB 医疗改革 healthreform 意外进 addons 热区，mtime 与 map_library 完全一致=自动生成铁证）。v2.3 改为：**只有 addons 已存在 `keep_<key>` 的名单图才刷新常驻**（用户点名的热门图跟最新版），新 key 不自动建常驻
+- 想新增常驻 = 人工复制 `keep_<key>_part_N.vpk` 到 addons（watchdog/reclaimer 已有 `keep_` 前缀跳过规则）
+- 清理存量意外常驻：`mv addons/keep_<不在名单的key>_part_N.vpk` 移出 addons 即可（map_library 冷库保留，按需加载不受影响）
+- 其余组件（bridge 0.5.1 / map_vote v3 / stage_controller / reclaimer / ingest_watchdog v2.2）与 v2.2 一致
 
 **v2.2（2026-09-27）**：看门狗增强 + systemd 模板（103 新家 95 个滞留实锤驱动）。
 - 🔧 **watchdog 失败自动重试**（重要）：旧版 ingest 失败的文件也记入 state → 永久跳过。v2.2 仅成功/已处理才记 state，被拒文件（无 mission 纯资源包等）下次定时扫描自动再试，连续 5 次仍无归属才放弃

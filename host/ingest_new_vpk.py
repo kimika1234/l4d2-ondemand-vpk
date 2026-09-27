@@ -19,6 +19,9 @@ v2.2（2026-09-25）：纯资源包（无 bsp）替换判定——原逻辑 b_ne
   新逻辑分层匹配：①新包有 addontitle → 找库内无 bsp 且标题一致的 part 替换；②无标题/无匹配 →
   按文件大小最接近（0.5x~2x 内，唯一最小 diff）替换；③等距歧义/超阈值 → 保守 append。
   资源包替换时保留旧 display（新资源包常无 addonname，避免 display 被覆盖成文件名）。
+v2.3（2026-09-27）：keep_ 联动修复——只有 addons 已存在 keep_<key> 的名单图才刷新常驻
+  （用户点名热门图跟最新版）；**新图入库不再自动创建 keep_ 常驻**（healthreform 案例：
+  药役传图 927MB 意外进 addons 热区，mtime 与 map_library 完全一致 = 自动生成铁证）。
 """
 import os, re, json, sys, shutil, subprocess, hashlib, time
 
@@ -111,7 +114,10 @@ def read_addoninfo_title(path):
 
 def sync_keep_for_key(root, key):
     """把 map_library/<key>/ 全部 part 镜像到 addons/keep_<key>_part_N.vpk。
-    key 目录不存在/无 part → 不动（人工管理）。返回 [(op, filename), ...]"""
+    v2.3（2026-09-27）：仅当该 key 已存在 keep_ 常驻副本时才联动刷新（用户点名
+    的热门图跟最新版）；**新图入库不自动创建常驻**（healthreform 案例：药役传图
+    927MB 意外进 addons 热区）。想新增常驻 = 人工复制 keep_<key>_part_N.vpk 到
+    addons（watchdog/reclaimer 已有 keep_ 前缀跳过规则）。返回 [(op, filename), ...]"""
     lib_dir = os.path.join(root, 'map_library', key)
     addons_dir = os.path.join(root, 'addons')
     if not os.path.isdir(lib_dir):
@@ -125,6 +131,9 @@ def sync_keep_for_key(root, key):
     for f in sorted(os.listdir(addons_dir)):
         if f.startswith(prefix) and f.endswith('.vpk'):
             cur[f] = os.path.join(addons_dir, f)
+    # v2.3: 非名单图（addons 无任何该 key 的 keep_）→ 不创建常驻，直接返回
+    if not cur:
+        return []
     expect = {}
     for p in parts:
         fn = 'keep_%s_%s' % (key, p)
